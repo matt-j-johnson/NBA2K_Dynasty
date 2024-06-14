@@ -1,0 +1,1135 @@
+game_number,dynasty_number,dynasty_game_number,gamemode,difficulty,context,person,teammate,team,ignored,player,pos,pts,reb,ast,stl,blk,to,fgm,fga,X3pm,X3pa,ftm,fta,or,fls,dnk,result,ot,dbl_ot
+1,1,1,4 man,All Star,Dynasty,Guy,Riley,2001-02 Sacramento Kings,NA,Mike Bibby,PG,27,2,5,5,1,2,12,20,1,3,2,4,1,2,5,Win,FALSE,FALSE
+1,1,1,4 man,All Star,Dynasty,Riley,Guy,2001-02 Sacramento Kings,NA,Vlade Divac,C,8,8,5,2,1,0,4,6,0,0,0,4,1,0,3,Win,FALSE,FALSE
+1,1,1,4 man,All Star,Challenger,Frank,Ben,Utah Jazz,NA,Jordan Clarkson,SG,6,1,1,0,0,2,3,10,0,4,0,0,0,1,1,Loss,FALSE,FALSE
+1,1,1,4 man,All Star,Challenger,Ben,Frank,Utah Jazz,NA,Collin Sexton,PG,1,1,7,0,0,5,0,6,0,0,1,3,1,1,0,Loss,FALSE,FALSE
+2,1,2,4 man,All Star,Dynasty,Guy,Riley,2001-02 Sacramento Kings,NA,Mike Bibby,PG,16,0,2,1,0,5,6,13,0,1,4,6,0,3,3,Win,FALSE,FALSE
+2,1,2,4 man,All Star,Dynasty,Riley,Guy,2001-02 Sacramento Kings,NA,Vlade Divac,C,10,10,3,1,4,1,5,8,0,0,0,0,4,0,2,Win,FALSE,FALSE
+2,1,2,4 man,All Star,Challenger,Frank,Ben,Memphis Grizzlies,NA,Desmond Bane,SG,2,2,2,0,0,1,0,8,0,1,2,2,0,1,0,Loss,FALSE,FALSE
+2,1,2,4 man,All Star,Challenger,Ben,Frank,Memphis Grizzlies,NA,Xavier Tillman,C,1,4,1,0,1,1,0,6,0,0,1,2,3,0,0,Loss,FALSE,FALSE
+3,1,3,4 man,All Star,Dynasty,Guy,Riley,2001-02 Sacramento Kings,NA,Mike Bibby,PG,3,0,5,0,0,1,1,8,0,0,1,4,0,4,1,Win,FALSE,FALSE
+3,1,3,4 man,All Star,Dynasty,Riley,Guy,2001-02 Sacramento Kings,NA,Vlade Divac,C,7,12,2,2,1,2,3,5,0,0,1,4,1,1,3,Win,FALSE,FALSE
+3,1,3,4 man,All Star,Challenger,Frank,Ben,2002-03 Phoenix Suns,NA,Stephon Marbury,PG,5,0,2,1,0,1,1,5,0,1,3,4,0,1,0,Loss,FALSE,FALSE
+3,1,3,4 man,All Star,Challenger,Ben,Frank,2002-03 Phoenix Suns,NA,Shawn Marion,SF,5,8,2,0,1,2,2,5,0,1,1,6,1,1,2,Loss,FALSE,FALSE
+4,2,1,4 man,All Star,Dynasty,Guy,Riley,Miami Heat,NA,Tyler Herro,SG,5,1,5,0,1,1,2,10,1,3,0,0,0,0,1,Win,FALSE,FALSE
+4,2,1,4 man,All Star,Dynasty,Riley,Guy,Miami Heat,NA,Caleb Martin,PF,5,5,5,1,1,0,2,3,1,1,0,2,0,2,0,Win,FALSE,FALSE
+4,2,1,4 man,All Star,Challenger,Nick,MJ,Memphis Grizzlies,NA,Ja Morant,PG,6,2,2,0,0,5,2,10,0,0,2,2,0,1,0,Loss,FALSE,FALSE
+4,2,1,4 man,All Star,Challenger,MJ,Nick,Memphis Grizzlies,NA,Xavier Tillman,C,4,5,0,0,0,2,2,2,0,0,0,0,1,1,1,Loss,FALSE,FALSE
+5,2,2,4 man,All Star,Dynasty,Guy,Riley,Miami Heat,NA,Tyler Herro,SG,3,2,4,0,0,1,1,8,0,1,1,2,2,2,1,Win,FALSE,FALSE
+5,2,2,4 man,All Star,Dynasty,Riley,Guy,Miami Heat,NA,Caleb Martin,PF,3,4,6,0,0,0,1,3,1,2,0,0,0,1,0,Win,FALSE,FALSE
+5,2,2,4 man,All Star,Challenger,Nick,MJ,2006-07 Washington Wizards,NA,Brendan Haywood,C,0,0,0,1,0,0,0,2,0,0,0,2,0,0,0,Loss,FALSE,FALSE
+5,2,2,4 man,All Star,Challenger,MJ,Nick,2006-07 Washington Wizards,NA,Gilbert Arenas,PG,4,2,5,1,0,2,2,5,0,1,0,0,0,4,1,Loss,FALSE,FALSE
+6,3,1,4 man,All Star,Dynasty,Guy,Riley,San Antonio Spurs,NA,Tre Jones,PG,11,2,4,0,0,0,4,6,0,0,3,4,1,2,0,Win,FALSE,FALSE
+6,3,1,4 man,All Star,Dynasty,Riley,Guy,San Antonio Spurs,NA,Zach Collins,C,17,12,2,1,2,5,8,15,0,0,1,2,5,4,3,Win,FALSE,FALSE
+6,3,1,4 man,All Star,Challenger,Nick,Frank,Atlanta Hawks,NA,Clint Capela,C,5,5,1,0,2,5,2,8,0,0,1,6,2,1,1,Loss,FALSE,FALSE
+6,3,1,4 man,All Star,Challenger,Frank,Nick,Atlanta Hawks,NA,John Collins,PF,6,5,3,1,0,2,2,5,0,0,2,2,1,2,1,Loss,FALSE,FALSE
+7,3,2,4 man,All Star,Dynasty,Guy,Riley,San Antonio Spurs,NA,Tre Jones,PG,5,2,4,1,1,0,1,6,0,0,3,4,0,0,0,Win,FALSE,FALSE
+7,3,2,4 man,All Star,Dynasty,Riley,Guy,San Antonio Spurs,NA,Zach Collins,C,14,7,3,1,1,1,6,10,0,0,2,3,0,2,1,Win,FALSE,FALSE
+7,3,2,4 man,All Star,Challenger,Nick,Frank,Phoenix Suns,NA,Devin Booker,SG,5,0,1,0,0,1,2,9,1,4,0,0,0,1,0,Loss,FALSE,FALSE
+7,3,2,4 man,All Star,Challenger,Frank,Nick,Phoenix Suns,NA,Deandre Ayton,C,8,8,1,0,1,1,4,9,0,0,0,0,4,3,1,Loss,FALSE,FALSE
+8,3,3,4 man,All Star,Dynasty,Guy,Riley,San Antonio Spurs,NA,Tre Jones,PG,11,2,6,0,0,2,4,9,0,0,3,4,0,3,0,Loss,FALSE,FALSE
+8,3,3,4 man,All Star,Dynasty,Riley,Guy,San Antonio Spurs,NA,Zach Collins,C,0,7,2,4,2,0,0,5,0,1,0,2,1,3,0,Loss,FALSE,FALSE
+8,3,3,4 man,All Star,Challenger,Nick,Frank,1971-72 New York Knicks,NA,Walt Frazier,PG,11,1,4,0,1,2,4,10,0,0,3,7,0,1,1,Win,FALSE,FALSE
+8,3,3,4 man,All Star,Challenger,Frank,Nick,1971-72 New York Knicks,NA,Bill Bradley,SF,0,1,5,1,0,2,0,2,0,0,0,0,0,1,1,Win,FALSE,FALSE
+9,0,1,4 man,All Star,CBC,Riley,MJ,2016-17 Golden State Warriors,NA,Klay Thompson,SG,3,1,8,2,0,2,1,3,0,2,1,2,0,2,0,Win,NA,NA
+9,0,1,4 man,All Star,CBC,MJ,Riley,2016-17 Golden State Warriors,NA,Draymond Green,PF,14,7,1,1,0,0,7,12,0,1,0,3,1,2,1,Win,NA,NA
+9,0,1,4 man,All Star,Challenger,Ben,Nick,Oklahoma City Thunder,NA,Jaylin Williams,C,4,4,3,0,0,2,1,3,0,0,2,4,0,0,1,Loss,NA,NA
+9,0,1,4 man,All Star,Challenger,Nick,Ben,Oklahoma City Thunder,NA,Jalen Williams,PF,2,1,0,0,0,1,1,5,0,0,0,0,0,0,0,Loss,NA,NA
+10,0,2,4 man,All Star,CBC,Riley,MJ,2016-17 Golden State Warriors,NA,Klay Thompson,SG,10,3,5,1,0,0,4,12,2,5,0,0,1,2,2,Loss,TRUE,NA
+10,0,2,4 man,All Star,CBC,MJ,Riley,2016-17 Golden State Warriors,NA,Draymond Green,PF,6,9,2,3,1,1,3,11,0,1,0,2,1,3,3,Loss,TRUE,NA
+10,0,2,4 man,All Star,Challenger,Ben,Nick,All-Time Phoenix Suns,NA,Amar’e Stoudemire,C,14,10,1,0,1,3,4,8,0,0,6,6,1,0,1,Win,TRUE,NA
+10,0,2,4 man,All Star,Challenger,Nick,Ben,All-Time Phoenix Suns,NA,Tom Chambers,PF,14,3,2,0,1,4,6,8,1,1,1,3,0,2,3,Win,TRUE,NA
+11,4,1,4 man,All Star,Dynasty,Nick,Riley,2011-12 Oklahoma City Thunder,NA,James Harden,SG,0,1,1,1,0,0,0,3,0,0,0,3,0,0,0,Win,NA,NA
+11,4,1,4 man,All Star,Dynasty,Riley,Nick,2011-12 Oklahoma City Thunder,NA,Serge Ibaka,PF,8,4,5,1,3,1,4,8,0,1,0,0,0,3,3,Win,NA,NA
+11,4,1,4 man,All Star,Challenger,MJ,Ben,San Antonio Spurs,NA,Zach Collins,C,6,5,1,0,0,1,2,3,0,0,2,2,0,1,2,Loss,NA,NA
+11,4,1,4 man,All Star,Challenger,Ben,MJ,San Antonio Spurs,NA,Keldon Johnson,SF,4,1,2,0,0,3,2,4,0,1,0,2,0,1,0,Loss,NA,NA
+12,4,2,4 man,All Star,Dynasty,Nick,Riley,2011-12 Oklahoma City Thunder,NA,James Harden,SG,2,2,2,0,0,1,1,4,0,1,0,0,1,0,0,Win,NA,NA
+12,4,2,4 man,All Star,Dynasty,Riley,Nick,2011-12 Oklahoma City Thunder,NA,Serge Ibaka,PF,8,8,6,3,3,2,3,5,0,0,2,2,0,3,1,Win,NA,NA
+12,4,2,4 man,All Star,Challenger,Ben,MJ,New York Knicks,NA,Jalen Brunson,PG,4,0,6,0,1,2,2,8,0,3,0,0,0,0,0,Loss,NA,NA
+12,4,2,4 man,All Star,Challenger,MJ,Ben,New York Knicks,NA,R.J. Barrett,SF,2,2,1,0,1,2,1,4,0,1,0,0,1,1,1,Loss,NA,NA
+13,4,3,4 man,All Star,Dynasty,Nick,Riley,2011-12 Oklahoma City Thunder,NA,James Harden,SG,2,0,3,0,0,2,1,6,0,4,0,0,0,2,0,Win,NA,NA
+13,4,3,4 man,All Star,Dynasty,Riley,Nick,2011-12 Oklahoma City Thunder,NA,Serge Ibaka,PF,14,5,1,3,0,3,6,12,0,0,2,6,1,4,4,Win,NA,NA
+13,4,3,4 man,All Star,Challenger,MJ,Ben,Indiana Pacers,NA,Aaron Nesmith,PF,11,4,6,2,0,2,4,5,3,4,0,3,0,1,0,Loss,NA,NA
+13,4,3,4 man,All Star,Challenger,Ben,MJ,Indiana Pacers,NA,Myles Turner,C,10,9,1,0,4,3,5,12,0,1,0,2,2,1,1,Loss,NA,NA
+14,5,1,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,13,5,2,3,0,0,6,14,1,5,0,0,2,2,4,Win,FALSE,FALSE
+14,5,1,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,10,0,10,0,0,2,5,8,0,0,0,0,0,3,0,Win,FALSE,FALSE
+14,5,1,4 man,All Star,Challenger,Frank,Nick,1999-00 Toronto Raptors,NA,Tracy McGrady,SF,8,1,4,0,0,1,4,9,0,1,0,4,1,1,2,Loss,FALSE,FALSE
+14,5,1,4 man,All Star,Challenger,Nick,Frank,1999-00 Toronto Raptors,NA,Charles Oakley,PF,3,6,3,0,0,2,0,6,0,0,3,4,2,1,0,Loss,FALSE,FALSE
+15,5,2,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,7,3,9,2,0,1,2,4,0,1,3,3,0,2,1,Win,FALSE,FALSE
+15,5,2,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,8,0,5,1,0,4,3,4,0,0,2,2,0,3,0,Win,FALSE,FALSE
+15,5,2,4 man,All Star,Challenger,Frank,Nick,All-Time Houston Rockets,NA,Hakeem Olajuwon,C,10,4,1,1,0,1,4,4,0,0,2,2,1,2,3,Loss,FALSE,FALSE
+15,5,2,4 man,All Star,Challenger,Nick,Frank,All-Time Houston Rockets,NA,Moses Malone,PF,6,1,2,0,2,2,2,2,0,0,2,4,0,3,0,Loss,FALSE,FALSE
+16,5,3,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,8,4,4,1,0,1,3,6,0,1,2,2,0,1,1,Win,FALSE,FALSE
+16,5,3,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,9,1,4,1,0,1,4,8,1,2,0,0,0,1,2,Win,FALSE,FALSE
+16,5,3,4 man,All Star,Challenger,Frank,Nick,Houston Rockets,NA,Alperen Sengun,C,0,2,3,0,0,4,0,1,0,0,0,0,0,0,0,Loss,FALSE,FALSE
+16,5,3,4 man,All Star,Challenger,Nick,Frank,Houston Rockets,NA,Jalen Green,SG,5,0,0,1,0,2,1,9,1,4,2,2,0,0,0,Loss,FALSE,FALSE
+17,5,4,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,8,2,7,0,0,0,2,7,0,1,4,4,0,3,1,Win,FALSE,FALSE
+17,5,4,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,12,0,0,1,0,0,5,11,0,4,2,2,0,1,4,Win,FALSE,FALSE
+17,5,4,4 man,All Star,Challenger,Frank,Nick,All-Time Dallas Mavericks,NA,Rolando Blackman,SG,2,1,2,0,0,1,1,9,0,3,0,0,0,1,0,Loss,FALSE,FALSE
+17,5,4,4 man,All Star,Challenger,Nick,Frank,All-Time Dallas Mavericks,NA,Luka Doncic,PG,7,0,3,0,0,0,3,12,1,4,0,0,0,1,1,Loss,FALSE,FALSE
+18,5,5,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,26,2,2,2,0,2,11,17,1,3,3,4,1,2,7,Win,FALSE,FALSE
+18,5,5,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,16,2,8,0,0,0,6,11,1,3,3,4,1,1,2,Win,FALSE,FALSE
+18,5,5,4 man,All Star,Challenger,Frank,Nick,2001-02 New Jersey Nets,NA,Keith Van Horn,PF,6,0,5,0,0,1,3,4,0,0,0,0,0,3,0,Loss,FALSE,FALSE
+18,5,5,4 man,All Star,Challenger,Nick,Frank,2001-02 New Jersey Nets,NA,Jason Kidd,PG,8,0,3,2,0,6,3,9,0,1,2,2,0,0,0,Loss,FALSE,FALSE
+19,5,6,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,11,0,6,1,1,1,4,7,3,5,0,0,0,4,1,Win,FALSE,FALSE
+19,5,6,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,12,1,5,3,1,2,6,9,0,0,0,0,0,1,3,Win,FALSE,FALSE
+19,5,6,4 man,All Star,Challenger,Frank,Nick,All-Time Utah Jazz,NA,Mark Eaton,C,5,4,2,0,2,3,2,4,0,0,1,2,1,1,1,Loss,FALSE,FALSE
+19,5,6,4 man,All Star,Challenger,Nick,Frank,All-Time Utah Jazz,NA,John Stockton,PG,0,1,1,1,0,5,0,9,0,3,0,0,1,1,0,Loss,FALSE,FALSE
+20,5,7,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,35,4,2,1,3,1,14,22,3,5,4,5,1,3,5,Win,FALSE,FALSE
+20,5,7,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,2,0,9,0,1,1,1,3,0,0,0,0,0,0,1,Win,FALSE,FALSE
+20,5,7,4 man,All Star,Challenger,Frank,Nick,2003-04 Los Angeles Lakers,NA,Kobe Bryant,SG,13,2,5,1,1,0,5,16,0,0,3,6,0,2,2,Loss,FALSE,FALSE
+20,5,7,4 man,All Star,Challenger,Nick,Frank,2003-04 Los Angeles Lakers,NA,Rick Fox,SF,2,0,1,0,0,1,1,6,0,0,0,2,0,1,0,Loss,FALSE,FALSE
+21,5,8,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,15,6,5,0,0,1,6,14,0,3,3,3,1,3,5,Win,FALSE,FALSE
+21,5,8,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,8,1,4,0,0,1,2,5,2,3,2,4,0,1,0,Win,FALSE,FALSE
+21,5,8,4 man,All Star,Challenger,Frank,Nick,Milwaukee Bucks,NA,Grayson Allen,SG,0,0,7,1,1,1,0,5,0,1,0,0,0,0,0,Loss,FALSE,FALSE
+21,5,8,4 man,All Star,Challenger,Nick,Frank,Milwaukee Bucks,NA,Khris Middleton,SF,2,1,0,0,0,2,1,9,0,0,0,2,0,1,0,Loss,FALSE,FALSE
+22,5,9,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,10,3,7,4,0,2,4,12,0,5,2,2,2,3,3,Win,FALSE,FALSE
+22,5,9,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,4,2,8,2,0,1,0,2,0,0,4,4,1,2,0,Win,FALSE,FALSE
+22,5,9,4 man,All Star,Challenger,Frank,Nick,Detroit Pistons,NA,Jalen Duren,C,4,5,1,0,0,8,2,2,0,0,0,1,0,0,0,Loss,FALSE,FALSE
+22,5,9,4 man,All Star,Challenger,Nick,Frank,Detroit Pistons,NA,Isaiah Stewart,PF,4,0,0,0,0,3,2,3,0,0,0,0,0,0,0,Loss,FALSE,FALSE
+23,2,3,4 man,All Star,Dynasty,Guy,Riley,Miami Heat,NA,Tyler Herro,SG,13,1,1,1,0,5,5,17,3,7,0,0,0,1,0,Loss,FALSE,FALSE
+23,2,3,4 man,All Star,Dynasty,Riley,Guy,Miami Heat,NA,Caleb Martin,PF,0,4,3,2,1,1,0,1,0,1,0,0,0,0,0,Loss,FALSE,FALSE
+23,2,3,4 man,All Star,Challenger,Nick,MJ,1996-97 Miami Heat,NA,Dan Majerle,SG,13,0,2,2,0,1,5,8,1,2,2,4,0,0,3,Win,FALSE,FALSE
+23,2,3,4 man,All Star,Challenger,MJ,Nick,1996-97 Miami Heat,NA,Alonzo Mourning,C,16,13,4,0,3,1,8,10,0,0,0,2,2,1,3,Win,FALSE,FALSE
+24,6,1,4 man,All Star,Dynasty,Nick,Riley,1986-87 Los Angeles Lakers,NA,Magic Johnson,PG,5,2,0,1,0,0,2,9,0,1,1,4,0,0,1,Win,TRUE,FALSE
+24,6,1,4 man,All Star,Dynasty,Riley,Nick,1986-87 Los Angeles Lakers,NA,A.C. Green,PF,2,1,5,1,1,0,1,4,0,0,0,0,0,3,1,Win,TRUE,FALSE
+24,6,1,4 man,All Star,Challenger,Guy,MJ,Minnesota Timberwolves,NA,Mike Conley,PG,4,4,9,0,0,7,1,6,0,0,2,2,1,5,0,Loss,TRUE,FALSE
+24,6,1,4 man,All Star,Challenger,MJ,Guy,Minnesota Timberwolves,NA,Karl-Anthony Towns,PF,13,7,1,0,2,0,6,14,0,1,1,2,1,0,2,Loss,TRUE,FALSE
+25,6,2,4 man,All Star,Dynasty,Nick,Riley,1986-87 Los Angeles Lakers,NA,Magic Johnson,PG,10,2,1,0,0,1,4,11,0,0,2,2,2,1,1,Win,FALSE,FALSE
+25,6,2,4 man,All Star,Dynasty,Riley,Nick,1986-87 Los Angeles Lakers,NA,A.C. Green,PF,0,9,11,2,1,2,0,0,0,0,0,0,2,0,0,Win,FALSE,FALSE
+25,6,2,4 man,All Star,Challenger,Guy,MJ,Dallas Mavericks,NA,Dwight Powell,C,2,4,0,0,1,0,1,3,0,0,0,0,0,2,1,Loss,FALSE,FALSE
+25,6,2,4 man,All Star,Challenger,MJ,Guy,Dallas Mavericks,NA,Luka Doncic,PG,17,3,4,0,0,2,6,12,3,5,2,2,0,2,0,Loss,FALSE,FALSE
+26,6,3,4 man,All Star,Dynasty,Nick,Riley,1986-87 Los Angeles Lakers,NA,Magic Johnson,PG,8,1,0,0,1,1,4,12,0,1,0,0,1,2,1,Loss,FALSE,FALSE
+26,6,3,4 man,All Star,Dynasty,Riley,Nick,1986-87 Los Angeles Lakers,NA,A.C. Green,PF,4,3,4,1,0,3,2,2,0,0,0,0,1,2,1,Loss,FALSE,FALSE
+26,6,3,4 man,All Star,Challenger,Guy,MJ,All-Time Utah Jazz,NA,John Stockton,PG,13,1,3,0,0,2,4,13,3,9,2,2,1,3,0,Win,FALSE,FALSE
+26,6,3,4 man,All Star,Challenger,MJ,Guy,All-Time Utah Jazz,NA,Adrian Dantley,SF,2,4,2,1,0,2,1,1,0,0,0,0,0,0,1,Win,FALSE,FALSE
+27,7,1,4 man,All Star,Dynasty,Riley,MJ,1994-95 New York Knicks,NA,John Starks,SG,10,1,3,2,0,2,4,7,0,1,2,2,1,1,1,Win,FALSE,FALSE
+27,7,1,4 man,All Star,Dynasty,MJ,Riley,1994-95 New York Knicks,NA,Charles Oakley,PF,4,4,3,0,0,1,2,3,0,0,0,0,0,1,1,Win,FALSE,FALSE
+27,7,1,4 man,All Star,Challenger,Guy,Nick,2009-10 Portland Trail Blazers,NA,Andre Miller,PG,5,2,6,0,1,3,2,4,0,0,1,6,0,2,0,Loss,FALSE,FALSE
+27,7,1,4 man,All Star,Challenger,Nick,Guy,2009-10 Portland Trail Blazers,NA,Nicolas Batum,SF,0,2,0,0,0,0,0,2,0,1,0,0,1,1,0,Loss,FALSE,FALSE
+28,8,1,4 man,All Star,Dynasty,Ben,MJ,2001-02 Sacramento Kings,NA,Scot Pollard,PF,0,6,1,1,2,1,0,1,0,0,0,0,2,1,0,Win,FALSE,FALSE
+28,8,1,4 man,All Star,Dynasty,MJ,Ben,2001-02 Sacramento Kings,NA,Mike Bibby,PG,16,1,5,3,0,2,5,14,0,1,6,6,0,0,1,Win,FALSE,FALSE
+28,8,1,4 man,All Star,Challenger,Riley,Guy,1999-00 Toronto Raptors,NA,Vince Carter,SG,5,0,3,0,1,2,2,6,0,3,1,3,0,2,1,Loss,FALSE,FALSE
+28,8,1,4 man,All Star,Challenger,Guy,Riley,1999-00 Toronto Raptors,NA,Antonio Davis,C,4,7,0,0,2,2,2,5,0,0,0,0,1,1,2,Loss,FALSE,FALSE
+29,8,2,4 man,All Star,Dynasty,Ben,MJ,2001-02 Sacramento Kings,NA,Scot Pollard,PF,4,6,1,1,0,2,2,2,0,0,0,0,0,0,0,Win,FALSE,FALSE
+29,8,2,4 man,All Star,Dynasty,MJ,Ben,2001-02 Sacramento Kings,NA,Mike Bibby,PG,10,0,2,2,0,2,5,9,0,1,0,0,0,1,0,Win,FALSE,FALSE
+29,8,2,4 man,All Star,Challenger,Riley,Guy,Los Angeles Clippers,NA,Russell Westbrook,PG,12,1,4,1,0,3,5,7,0,0,2,4,0,4,3,Loss,FALSE,FALSE
+29,8,2,4 man,All Star,Challenger,Guy,Riley,Los Angeles Clippers,NA,Ivica Zubac,C,2,2,1,2,4,1,1,2,0,0,0,0,1,2,0,Loss,FALSE,FALSE
+30,8,3,4 man,All Star,Dynasty,Ben,MJ,2001-02 Sacramento Kings,NA,Scot Pollard,PF,2,4,0,0,2,0,1,4,0,0,0,0,1,2,0,Win,NA,NA
+30,8,3,4 man,All Star,Dynasty,MJ,Ben,2001-02 Sacramento Kings,NA,Mike Bibby,PG,10,0,4,0,0,4,2,5,0,2,6,8,0,0,0,Win,NA,NA
+30,8,3,4 man,All Star,Challenger,Riley,Guy,2013-14 Indiana Pacers,NA,Roy Hibbert,C,0,3,1,2,1,2,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+30,8,3,4 man,All Star,Challenger,Guy,Riley,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,4,1,5,3,0,2,2,5,0,1,0,2,0,1,2,Loss,NA,NA
+31,8,4,4 man,All Star,Dynasty,Ben,MJ,2001-02 Sacramento Kings,NA,Scot Pollard,PF,6,10,3,0,1,0,3,4,0,0,0,2,1,2,0,Win,NA,NA
+31,8,4,4 man,All Star,Dynasty,MJ,Ben,2001-02 Sacramento Kings,NA,Mike Bibby,PG,19,2,6,0,0,1,6,14,0,2,7,8,0,4,0,Win,NA,NA
+31,8,4,4 man,All Star,Challenger,Riley,Guy,Charlotte Hornets,1964-65 Los Angeles Lakers,Terry Rozier III,PG,9,0,2,0,0,2,4,9,0,0,1,2,0,4,2,Loss,NA,NA
+31,8,4,4 man,All Star,Challenger,Guy,Riley,Charlotte Hornets,1964-65 Los Angeles Lakers,Mark Williams,C,2,5,1,0,0,2,1,7,0,0,0,2,1,2,0,Loss,NA,NA
+32,9,1,6 man,All Star,Dynasty,Frank,NA,1997-98 San Antonio Spurs,NA,Avery Johnson,PG,0,0,10,0,0,2,0,1,0,0,0,0,0,0,0,Win,NA,NA
+32,9,1,6 man,All Star,Dynasty,MJ,NA,1997-98 San Antonio Spurs,NA,Sean Elliott,SF,9,1,3,0,0,1,4,9,1,3,0,0,0,1,1,Win,NA,NA
+32,9,1,6 man,All Star,Dynasty,Ben,NA,1997-98 San Antonio Spurs,NA,Tim Duncan,PF,19,18,2,1,2,0,9,17,0,0,1,1,7,2,6,Win,NA,NA
+32,9,1,6 man,All Star,Challenger,Guy,NA,1988-89 Detroit Pistons,NA,Isiah Thomas,PG,15,0,1,1,0,0,4,10,0,0,7,8,0,3,0,Loss,NA,NA
+32,9,1,6 man,All Star,Challenger,Riley,NA,1988-89 Detroit Pistons,NA,Rick Mahorn,PF,1,3,2,1,1,1,0,5,0,0,1,2,0,2,0,Loss,NA,NA
+32,9,1,6 man,All Star,Challenger,Nick,NA,1988-89 Detroit Pistons,NA,Joe Dumars,SG,4,0,1,0,0,0,1,4,0,2,2,2,0,1,0,Loss,NA,NA
+33,0,1,4 man,All Star,CBC,Riley,Nick,Houston Rockets,NA,Kenyon Martin Jr.,SF,8,7,8,0,0,5,4,6,0,0,0,2,0,2,4,Win,NA,NA
+33,0,1,4 man,All Star,CBC,Nick,Riley,Houston Rockets,NA,Jabari Smith Jr.,PF,4,2,1,1,0,2,2,7,0,0,0,0,0,3,1,Win,NA,NA
+33,0,1,4 man,All Star,Challenger,Guy,Frank,2006-07 Washington Wizards,NA,Antawn Jamison,PF,8,7,3,2,0,1,3,14,0,3,2,4,4,2,3,Loss,NA,NA
+33,0,1,4 man,All Star,Challenger,Frank,Guy,2006-07 Washington Wizards,NA,Caron Butler,SF,3,2,6,0,0,0,1,4,0,0,1,2,0,2,1,Loss,NA,NA
+34,0,2,4 man,All Star,CBC,Riley,Nick,Houston Rockets,NA,Kenyon Martin Jr.,SF,2,0,4,1,0,4,0,2,0,0,2,2,0,4,0,Loss,NA,NA
+34,0,2,4 man,All Star,CBC,Nick,Riley,Houston Rockets,NA,Jabari Smith Jr.,PF,1,6,0,1,1,2,0,0,0,0,1,2,1,1,0,Loss,NA,NA
+34,0,2,4 man,All Star,Challenger,Guy,Frank,2013-14 Indiana Pacers,NA,George Hill,PG,6,1,8,1,0,3,2,6,0,1,2,2,0,0,0,Win,NA,NA
+34,0,2,4 man,All Star,Challenger,Frank,Guy,2013-14 Indiana Pacers,NA,Roy Hibbert,C,4,3,1,2,0,2,2,5,0,0,0,1,0,2,1,Win,NA,NA
+35,10,1,5 man,All Star,Dynasty,Riley,NA,New York Knicks,NA,Jalen Brunson,PG,17,0,9,4,0,2,8,11,0,1,1,2,0,3,3,Win,NA,NA
+35,10,1,5 man,All Star,Dynasty,Guy,NA,New York Knicks,NA,R.J. Barrett,SF,22,2,0,0,1,1,10,13,0,0,2,2,0,3,7,Win,NA,NA
+35,10,1,5 man,All Star,Challenger,Frank,NA,Brooklyn Nets,NA,Spencer Dinwiddie,PG,0,1,3,0,0,3,0,7,0,2,0,0,0,0,0,Loss,NA,NA
+35,10,1,5 man,All Star,Challenger,Nick,NA,Brooklyn Nets,NA,Cameron Johnson,SF,10,2,1,0,0,3,3,7,0,1,4,6,1,0,1,Loss,NA,NA
+35,10,1,5 man,All Star,Challenger,Ben,NA,Brooklyn Nets,NA,Mikal Bridges,SG,8,0,1,2,0,2,4,11,0,2,0,0,0,3,3,Loss,NA,NA
+36,10,2,5 man,All Star,Dynasty,Riley,NA,New York Knicks,NA,Jalen Brunson,PG,13,0,8,0,0,2,4,10,1,4,4,4,0,3,0,Win,NA,NA
+36,10,2,5 man,All Star,Dynasty,Guy,NA,New York Knicks,NA,R.J. Barrett,SF,16,3,0,0,0,1,8,15,0,1,0,0,2,3,6,Win,NA,NA
+36,10,2,5 man,All Star,Challenger,Frank,NA,2009-10 Portland Trail Blazers,NA,Nicolas Batum,SF,4,4,3,0,0,3,2,6,0,1,0,0,0,1,1,Loss,NA,NA
+36,10,2,5 man,All Star,Challenger,Nick,NA,2009-10 Portland Trail Blazers,NA,Marcus Camby,C,6,4,0,0,1,2,2,4,0,0,2,4,1,0,1,Loss,NA,NA
+36,10,2,5 man,All Star,Challenger,Ben,NA,2009-10 Portland Trail Blazers,NA,Andre Miller,PG,10,0,3,2,0,2,3,5,0,0,4,6,0,3,0,Loss,NA,NA
+37,10,3,5 man,All Star,Dynasty,Riley,NA,New York Knicks,NA,Jalen Brunson,PG,4,3,5,1,0,3,1,8,0,2,2,2,1,5,1,Loss,NA,NA
+37,10,3,5 man,All Star,Dynasty,Guy,NA,New York Knicks,NA,R.J. Barrett,SF,8,0,1,1,0,0,2,7,0,0,4,4,0,3,1,Loss,NA,NA
+37,10,3,5 man,All Star,Challenger,Frank,NA,Los Angeles Clippers,NA,Paul George,SG,13,1,2,2,0,3,4,7,0,3,5,5,0,0,0,Win,NA,NA
+37,10,3,5 man,All Star,Challenger,Nick,NA,Los Angeles Clippers,NA,Russell Westbrook,PG,1,2,2,0,0,0,0,2,0,0,1,10,1,2,0,Win,NA,NA
+37,10,3,5 man,All Star,Challenger,Ben,NA,Los Angeles Clippers,NA,Marcus Morris Sr.,PF,2,7,1,0,1,1,1,3,0,0,0,0,0,3,1,Win,NA,NA
+38,0,1,5 man,All Star,CBC,Riley,NA,2001-02 New Jersey Nets,NA,Jason Kidd,PG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+38,0,1,5 man,All Star,CBC,Guy,NA,2001-02 New Jersey Nets,NA,Todd MacCulloch,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+38,0,1,5 man,All Star,CBC,Nick,NA,2001-02 New Jersey Nets,NA,Keith Van Horn,SF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+38,0,1,5 man,All Star,Challenger,Frank,NA,Philadelphia 76ers,NA,Joel Embiid,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+38,0,1,5 man,All Star,Challenger,Ben,NA,Philadelphia 76ers,NA,James Harden,PG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+39,0,2,5 man,All Star,CBC,Riley,NA,2001-02 New Jersey Nets,NA,Jason Kidd,PG,6,2,4,1,1,1,3,7,0,0,0,0,1,1,1,Loss,NA,NA
+39,0,2,5 man,All Star,CBC,Guy,NA,2001-02 New Jersey Nets,NA,Todd MacCulloch,C,7,10,1,1,0,1,3,6,0,0,1,4,2,1,1,Loss,NA,NA
+39,0,2,5 man,All Star,CBC,Nick,NA,2001-02 New Jersey Nets,NA,Keith Van Horn,SF,4,1,0,0,0,0,2,4,0,0,0,2,1,1,0,Loss,NA,NA
+39,0,2,5 man,All Star,Challenger,Frank,NA,1995-96 Seattle Supersonics,NA,Detlef Schrempf,SF,8,1,1,1,0,1,4,13,0,3,0,0,0,3,0,Win,NA,NA
+39,0,2,5 man,All Star,Challenger,Ben,NA,1995-96 Seattle Supersonics,NA,Hersey Hawkins,SG,9,0,4,1,0,1,3,4,0,1,3,4,0,1,2,Win,NA,NA
+40,0,1,4 man,All Star,CBC,Riley,Frank,Dallas Mavericks,NA,Josh Green,SF,14,4,5,3,0,1,7,11,0,1,0,0,1,4,6,Win,TRUE,NA
+40,0,1,4 man,All Star,CBC,Frank,Riley,Dallas Mavericks,NA,Kyrie Irving,SG,4,2,3,0,1,3,1,7,0,3,2,2,0,0,0,Win,TRUE,NA
+40,0,1,4 man,All Star,Challenger,Ben,MJ,2001-02 Sacramento Kings,NA,Mike Bibby,PG,10,0,4,2,0,5,3,10,0,1,4,6,0,1,1,Loss,TRUE,NA
+40,0,1,4 man,All Star,Challenger,MJ,Ben,2001-02 Sacramento Kings,NA,Peja Stojakovic,SF,11,1,1,2,0,1,4,13,1,4,2,2,0,1,0,Loss,TRUE,NA
+41,0,2,4 man,All Star,CBC,Riley,Frank,Dallas Mavericks,NA,Josh Green,SF,0,0,2,0,0,2,0,2,0,1,0,0,0,4,0,Loss,NA,NA
+41,0,2,4 man,All Star,CBC,Frank,Riley,Dallas Mavericks,NA,Kyrie Irving,SG,5,0,5,1,0,1,2,5,0,1,1,2,0,0,0,Loss,NA,NA
+41,0,2,4 man,All Star,Challenger,Ben,MJ,All-Time Detroit Pistons,NA,Ben Wallace,PF,8,4,2,0,3,0,4,7,0,0,0,2,2,1,2,Win,NA,NA
+41,0,2,4 man,All Star,Challenger,MJ,Ben,All-Time Detroit Pistons,NA,Bob Lanier,C,6,9,4,1,0,1,3,3,0,0,0,0,1,0,1,Win,NA,NA
+42,11,1,4 man,All Star,Dynasty,Riley,Ben,1999-00 Portland Trail Blazers,NA,Scottie Pippen,SF,6,2,4,2,0,0,2,7,0,4,2,2,0,2,1,Win,NA,NA
+42,11,1,4 man,All Star,Dynasty,Ben,Riley,1999-00 Portland Trail Blazers,NA,Damon Stoudamire,PG,13,0,4,3,0,3,6,13,0,6,1,4,0,2,0,Win,NA,NA
+42,11,1,4 man,All Star,Challenger,MJ,Frank,1992-93 Charlotte Hornets,NA,Muggsy Bogues,PG,3,0,4,0,0,5,1,6,0,0,1,4,0,5,0,Loss,NA,NA
+42,11,1,4 man,All Star,Challenger,Frank,MJ,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,0,4,2,0,0,4,0,2,0,0,0,0,0,1,0,Loss,NA,NA
+43,11,2,4 man,All Star,Dynasty,Riley,Ben,1999-00 Portland Trail Blazers,NA,Scottie Pippen,SF,7,4,6,0,0,1,2,4,1,1,2,4,0,2,0,Win,NA,NA
+43,11,2,4 man,All Star,Dynasty,Ben,Riley,1999-00 Portland Trail Blazers,NA,Damon Stoudamire,PG,23,1,4,0,0,0,9,16,2,3,3,4,0,4,0,Win,NA,NA
+43,11,2,4 man,All Star,Challenger,MJ,Frank,1988-89 Chicago Bulls,NA,Michael Jordan,SG,11,1,2,1,0,2,4,17,0,0,3,8,1,1,2,Loss,NA,NA
+43,11,2,4 man,All Star,Challenger,Frank,MJ,1988-89 Chicago Bulls,NA,John Paxson,PG,3,1,4,0,0,1,0,0,0,0,3,6,0,3,0,Loss,NA,NA
+44,11,3,4 man,All Star,Dynasty,Riley,Ben,1999-00 Portland Trail Blazers,NA,Scottie Pippen,SF,11,2,6,2,0,2,5,10,0,3,1,2,1,0,2,Win,NA,NA
+44,11,3,4 man,All Star,Dynasty,Ben,Riley,1999-00 Portland Trail Blazers,NA,Damon Stoudamire,PG,8,0,2,1,0,0,4,9,0,1,0,0,0,0,0,Win,NA,NA
+44,11,3,4 man,All Star,Challenger,MJ,Frank,2000-01 Philadelphia 76ers,NA,Eric Snow,PG,4,1,5,0,0,6,2,4,0,0,0,0,1,2,0,Loss,NA,NA
+44,11,3,4 man,All Star,Challenger,Frank,MJ,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,0,2,2,0,0,0,0,0,0,0,0,0,0,3,0,Loss,NA,NA
+45,11,4,4 man,All Star,Dynasty,Riley,Ben,1999-00 Portland Trail Blazers,NA,Scottie Pippen,SF,7,3,4,0,1,2,3,4,1,2,0,0,0,1,1,Loss,NA,NA
+45,11,4,4 man,All Star,Dynasty,Ben,Riley,1999-00 Portland Trail Blazers,NA,Damon Stoudamire,PG,13,3,5,0,0,1,5,9,0,1,3,4,0,2,0,Loss,NA,NA
+45,11,4,4 man,All Star,Challenger,MJ,Frank,All-Time Cleveland Cavaliers,2011-12 Oklahoma City Thunder,Zydrunas Ilgauskas,C,3,5,2,1,1,0,1,1,0,0,1,2,1,1,1,Win,NA,NA
+45,11,4,4 man,All Star,Challenger,Frank,MJ,All-Time Cleveland Cavaliers,2011-12 Oklahoma City Thunder,Mark Price,PG,15,1,6,0,0,2,6,11,1,3,2,2,0,2,0,Win,NA,NA
+46,12,1,4 man,All Star,Dynasty,MJ,Riley,2013-14 San Antonio Spurs,NA,Kawhi Leonard,SF,20,4,3,1,0,0,8,15,0,1,4,5,1,1,5,Win,NA,NA
+46,12,1,4 man,All Star,Dynasty,Riley,MJ,2013-14 San Antonio Spurs,NA,Tiago Splitter,C,6,3,2,1,0,1,3,5,0,0,0,0,0,1,0,Win,NA,NA
+46,12,1,4 man,All Star,Challenger,Frank,Ben,2011-12 New York Knicks,NA,Carmelo Anthony,SF,11,3,1,0,1,2,5,13,0,5,1,2,1,2,3,Loss,NA,NA
+46,12,1,4 man,All Star,Challenger,Ben,Frank,2011-12 New York Knicks,NA,Landry Fields,SG,0,1,2,0,0,2,0,1,0,0,0,0,0,2,0,Loss,NA,NA
+47,12,2,4 man,All Star,Dynasty,MJ,Riley,2013-14 San Antonio Spurs,NA,Kawhi Leonard,SF,23,4,2,2,1,2,9,22,1,5,4,4,3,1,3,Win,NA,NA
+47,12,2,4 man,All Star,Dynasty,Riley,MJ,2013-14 San Antonio Spurs,NA,Tiago Splitter,C,2,2,2,2,1,1,1,1,0,0,0,2,0,0,1,Win,NA,NA
+47,12,2,4 man,All Star,Challenger,Frank,Ben,New Orleans Pelicans,NA,Herbert Jones,SF,0,0,3,1,0,4,0,6,0,4,0,0,0,2,0,Loss,NA,NA
+47,12,2,4 man,All Star,Challenger,Ben,Frank,New Orleans Pelicans,NA,C.J. McCollum,PG,8,0,4,1,0,4,3,7,1,3,1,2,0,3,0,Loss,NA,NA
+48,12,3,4 man,All Star,Dynasty,MJ,Riley,2013-14 San Antonio Spurs,NA,Kawhi Leonard,SF,21,3,4,4,0,0,7,15,5,10,2,2,1,2,1,Win,NA,NA
+48,12,3,4 man,All Star,Dynasty,Riley,MJ,2013-14 San Antonio Spurs,NA,Tiago Splitter,C,0,4,0,7,0,1,0,4,0,0,0,0,0,2,0,Win,NA,NA
+48,12,3,4 man,All Star,Challenger,Frank,Ben,1997-98 Chicago Bulls,NA,Scottie Pippen,SF,15,2,1,0,0,4,7,12,0,1,1,2,0,2,5,Loss,NA,NA
+48,12,3,4 man,All Star,Challenger,Ben,Frank,1997-98 Chicago Bulls,NA,Dennis Rodman,PF,0,10,4,0,0,2,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+49,1,4,4 man,All Star,Dynasty,Guy,Riley,2001-02 Sacramento Kings,NA,Mike Bibby,PG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+49,1,4,4 man,All Star,Dynasty,Riley,Guy,2001-02 Sacramento Kings,NA,Vlade Divac,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+49,1,4,4 man,All Star,Challenger,Frank,Ben,2002-03 Dallas Mavericks,1984-85 Milwaukee Bucks,Dirk Nowitzki,PF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+49,1,4,4 man,All Star,Challenger,Ben,Frank,2002-03 Dallas Mavericks,1984-85 Milwaukee Bucks,Steve Nash,PG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+50,1,5,4 man,All Star,Dynasty,Guy,Riley,2001-02 Sacramento Kings,NA,Mike Bibby,PG,16,1,1,1,0,0,5,13,3,7,3,4,0,1,0,Win,NA,NA
+50,1,5,4 man,All Star,Dynasty,Riley,Guy,2001-02 Sacramento Kings,NA,Vlade Divac,C,7,6,4,2,2,1,3,6,0,0,1,4,2,1,2,Win,NA,NA
+50,1,5,4 man,All Star,Challenger,Frank,Ben,Washington Wizards,1964-65 Los Angeles Lakers,Kristaps Porzingis,PF,2,4,2,1,4,2,1,6,0,0,0,0,0,2,1,Loss,NA,NA
+50,1,5,4 man,All Star,Challenger,Ben,Frank,Washington Wizards,1964-65 Los Angeles Lakers,Bradley Beal,SG,7,0,4,0,0,1,2,10,0,4,3,6,0,1,0,Loss,NA,NA
+51,1,6,4 man,All Star,Dynasty,Guy,Riley,2001-02 Sacramento Kings,NA,Mike Bibby,PG,13,1,3,1,0,2,6,12,1,4,0,0,0,4,0,Loss,NA,NA
+51,1,6,4 man,All Star,Dynasty,Riley,Guy,2001-02 Sacramento Kings,NA,Vlade Divac,C,4,6,2,1,2,1,1,3,0,0,2,6,0,1,0,Loss,NA,NA
+51,1,6,4 man,All Star,Challenger,Frank,Ben,2011-12 New York Knicks,1970-71 Milwaukee Bucks,Landry Fields,SG,0,0,3,0,0,0,0,1,0,1,0,0,0,0,0,Win,NA,NA
+51,1,6,4 man,All Star,Challenger,Ben,Frank,2011-12 New York Knicks,1970-71 Milwaukee Bucks,Jeremy Lin,PG,12,2,6,2,0,0,5,11,0,0,2,4,0,4,0,Win,NA,NA
+52,13,1,4 man,All Star,Dynasty,Guy,Ben,Sacramento Kings,NA,Harrison Barnes,SF,12,3,1,0,0,2,4,14,4,8,0,0,2,0,0,Win,NA,NA
+52,13,1,4 man,All Star,Dynasty,Ben,Guy,Sacramento Kings,NA,Kevin Huerter,SG,19,3,2,1,1,3,7,13,3,5,2,2,1,1,2,Win,NA,NA
+52,13,1,4 man,All Star,Challenger,Riley,Frank,2007-08 Denver Nuggets,NA,Marcus Camby,C,1,8,2,1,3,2,0,1,0,0,1,2,0,1,0,Loss,NA,NA
+52,13,1,4 man,All Star,Challenger,Frank,Riley,2007-08 Denver Nuggets,NA,Carmelo Anthony,SF,18,0,2,0,0,1,8,20,1,2,1,3,0,2,4,Loss,NA,NA
+53,13,2,4 man,All Star,Dynasty,Guy,Ben,Sacramento Kings,NA,Harrison Barnes,SF,14,4,3,0,0,1,5,11,4,9,0,0,0,0,1,Win,NA,NA
+53,13,2,4 man,All Star,Dynasty,Ben,Guy,Sacramento Kings,NA,Kevin Huerter,SG,6,5,5,0,1,1,3,12,0,2,0,0,0,2,2,Win,NA,NA
+53,13,2,4 man,All Star,Challenger,Riley,Frank,1976-77 Philadelphia 76ers,NA,George McGinnis,PF,3,3,2,1,0,1,1,2,0,0,1,2,1,1,0,Loss,NA,NA
+53,13,2,4 man,All Star,Challenger,Frank,Riley,1976-77 Philadelphia 76ers,NA,Doug Collins,SG,6,0,0,1,0,0,3,18,0,3,0,0,0,2,0,Loss,NA,NA
+54,12,4,4 man,All Star,Dynasty,MJ,Riley,2013-14 San Antonio Spurs,NA,Kawhi Leonard,SF,8,0,1,3,0,1,2,14,1,9,3,4,0,1,0,Loss,NA,NA
+54,12,4,4 man,All Star,Dynasty,Riley,MJ,2013-14 San Antonio Spurs,NA,Tiago Splitter,C,4,4,1,2,0,2,1,3,0,0,2,2,3,1,1,Loss,NA,NA
+54,12,4,4 man,All Star,Challenger,Frank,Ben,Milwaukee Bucks,2012-13 Memphis Grizzlies,Brook Lopez,C,4,6,1,0,2,3,2,4,0,2,0,0,0,2,2,Win,NA,NA
+54,12,4,4 man,All Star,Challenger,Ben,Frank,Milwaukee Bucks,2012-13 Memphis Grizzlies,Giannis Antetokounmpo,PF,18,4,3,0,1,2,7,10,0,0,4,5,0,2,3,Win,NA,NA
+55,14,1,4 man,All Star,Dynasty,MJ,Ben,Sacramento Kings,NA,Keegan Murray,PF,14,5,3,1,1,1,7,8,0,1,0,0,0,0,4,Win,NA,NA
+55,14,1,4 man,All Star,Dynasty,Ben,MJ,Sacramento Kings,NA,Domantas Sabonis,C,4,3,1,0,1,0,1,1,0,0,2,2,0,0,0,Win,NA,NA
+55,14,1,4 man,All Star,Challenger,Frank,Riley,1985-86 Atlanta Hawks,NA,Randy Wittman,SG,4,0,0,0,0,1,1,5,0,0,2,4,0,1,1,Loss,NA,NA
+55,14,1,4 man,All Star,Challenger,Riley,Frank,1985-86 Atlanta Hawks,NA,Doc Rivers,PG,0,1,7,0,0,2,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+56,14,2,4 man,All Star,Dynasty,MJ,Ben,Sacramento Kings,NA,Keegan Murray,PF,8,0,1,0,1,1,4,6,0,1,0,0,0,1,1,Win,NA,NA
+56,14,2,4 man,All Star,Dynasty,Ben,MJ,Sacramento Kings,NA,Domantas Sabonis,C,11,13,1,0,0,0,4,6,0,0,3,4,1,0,2,Win,NA,NA
+56,14,2,4 man,All Star,Challenger,Frank,Riley,Phoenix Suns,NA,Devin Booker,SG,4,0,6,0,0,0,2,8,0,2,0,0,0,1,1,Loss,NA,NA
+56,14,2,4 man,All Star,Challenger,Riley,Frank,Phoenix Suns,NA,Josh Okogie,SF,2,0,2,3,0,3,1,3,0,0,0,1,0,3,1,Loss,NA,NA
+57,14,3,4 man,All Star,Dynasty,MJ,Ben,Sacramento Kings,NA,Keegan Murray,PF,10,0,2,0,1,1,4,6,1,1,1,1,0,0,3,Win,NA,NA
+57,14,3,4 man,All Star,Dynasty,Ben,MJ,Sacramento Kings,NA,Domantas Sabonis,C,14,9,2,0,0,0,6,7,0,0,2,2,2,1,3,Win,NA,NA
+57,14,3,4 man,All Star,Challenger,Frank,Riley,Phoenix Suns,NA,Chris Paul,PG,3,1,3,1,0,1,1,3,1,1,0,0,0,4,0,Loss,NA,NA
+57,14,3,4 man,All Star,Challenger,Riley,Frank,Phoenix Suns,NA,Kevin Durant,PF,20,5,4,0,0,1,9,15,0,1,2,2,2,3,5,Loss,NA,NA
+58,14,4,4 man,All Star,Dynasty,MJ,Ben,Sacramento Kings,NA,Keegan Murray,PF,10,1,0,4,0,1,5,7,0,0,0,0,1,3,4,Loss,NA,NA
+58,14,4,4 man,All Star,Dynasty,Ben,MJ,Sacramento Kings,NA,Domantas Sabonis,C,4,8,1,1,0,1,1,3,0,1,2,2,1,0,0,Loss,NA,NA
+58,14,4,4 man,All Star,Challenger,Frank,Riley,2005-06 Memphis Grizzlies,2006-07 Washington Wizards,Eddie Jones,SF,0,1,2,0,0,1,0,1,0,1,0,0,0,0,0,Win,NA,NA
+58,14,4,4 man,All Star,Challenger,Riley,Frank,2005-06 Memphis Grizzlies,2006-07 Washington Wizards,Shane Battier,PF,12,3,4,2,1,3,6,14,0,1,0,0,1,4,4,Win,NA,NA
+59,0,1,4 man,All Star,CBC,MJ,Frank,1984-85 Milwaukee Bucks,NA,Craig Hodges,PG,2,1,6,2,0,4,0,3,0,1,2,2,0,1,0,Win,NA,NA
+59,0,1,4 man,All Star,CBC,Frank,MJ,1984-85 Milwaukee Bucks,NA,Sidney Moncrief,SG,2,1,4,0,0,3,1,6,0,0,0,0,0,1,0,Win,NA,NA
+59,0,1,4 man,All Star,Challenger,Ben,Riley,Brooklyn Nets,NA,Spencer Dinwiddie,PG,7,0,5,0,0,2,3,9,0,1,1,2,0,3,0,Loss,NA,NA
+59,0,1,4 man,All Star,Challenger,Riley,Ben,Brooklyn Nets,NA,Dorian Finney-Smith,PF,3,1,3,4,0,1,1,4,0,0,1,2,0,0,1,Loss,NA,NA
+60,0,2,4 man,All Star,CBC,MJ,Frank,1984-85 Milwaukee Bucks,NA,Craig Hodges,PG,1,1,0,0,0,2,0,4,0,3,1,2,0,1,0,Loss,NA,NA
+60,0,2,4 man,All Star,CBC,Frank,MJ,1984-85 Milwaukee Bucks,NA,Sidney Moncrief,SG,12,0,0,0,0,0,4,15,0,0,4,4,0,1,1,Loss,NA,NA
+60,0,2,4 man,All Star,Challenger,Ben,Riley,All-Time Utah Jazz,NA,Pete Maravich,SG,29,5,4,1,0,1,12,24,3,10,2,2,2,4,1,Win,NA,NA
+60,0,2,4 man,All Star,Challenger,Riley,Ben,All-Time Utah Jazz,NA,Karl Malone,PF,11,10,5,3,2,2,5,7,0,0,1,4,0,1,1,Win,NA,NA
+61,0,1,4 man,All Star,CBC,Ben,Frank,2010-11 Chicago Bulls,NA,Carlos Boozer,PF,4,4,2,0,0,1,2,2,0,0,0,0,1,0,0,Win,NA,NA
+61,0,1,4 man,All Star,CBC,Frank,Ben,2010-11 Chicago Bulls,NA,Ronnie Brewer,SG,4,1,4,1,0,1,2,7,0,0,0,0,1,3,0,Win,NA,NA
+61,0,1,4 man,All Star,Challenger,MJ,Riley,1985-86 Boston Celtics,NA,Larry Bird,SF,4,1,1,1,0,3,1,10,1,3,1,2,0,2,0,Loss,NA,NA
+61,0,1,4 man,All Star,Challenger,Riley,MJ,1985-86 Boston Celtics,NA,Kevin McHale,PF,6,4,0,0,0,2,3,4,0,0,0,2,0,0,1,Loss,NA,NA
+62,0,2,4 man,All Star,CBC,Ben,Frank,2010-11 Chicago Bulls,NA,Carlos Boozer,PF,2,3,2,1,0,3,1,7,0,0,0,0,1,2,1,Loss,NA,NA
+62,0,2,4 man,All Star,CBC,Frank,Ben,2010-11 Chicago Bulls,NA,Ronnie Brewer,SG,0,1,2,0,0,1,0,4,0,0,0,4,1,4,0,Loss,NA,NA
+62,0,2,4 man,All Star,Challenger,MJ,Riley,All-Time Dallas Mavericks,NA,Dirk Nowitzki,PF,20,9,0,2,0,0,8,14,0,1,4,4,2,0,4,Win,NA,NA
+62,0,2,4 man,All Star,Challenger,Riley,MJ,All-Time Dallas Mavericks,NA,Rolando Blackman,SG,12,1,10,2,0,2,4,7,0,0,4,4,1,3,3,Win,NA,NA
+63,0,1,4 man,All Star,CBC,MJ,Ben,2001-02 New Jersey Nets,NA,Kenyon Martin,PF,7,4,1,2,2,0,3,8,1,3,0,0,0,1,1,Win,NA,NA
+63,0,1,4 man,All Star,CBC,Ben,MJ,2001-02 New Jersey Nets,NA,Jason Kidd,PG,10,1,4,0,0,0,1,8,1,1,7,10,1,1,0,Win,NA,NA
+63,0,1,4 man,All Star,Challenger,Frank,Riley,2003-04 Minnesota Timberwolves,NA,Kevin Garnett,PF,11,11,2,0,1,3,5,13,0,0,1,2,4,2,3,Loss,NA,NA
+63,0,1,4 man,All Star,Challenger,Riley,Frank,2003-04 Minnesota Timberwolves,NA,Trenton Hassell,SG,2,1,4,1,0,3,1,2,0,1,0,0,0,4,0,Loss,NA,NA
+64,0,2,4 man,All Star,CBC,MJ,Ben,2001-02 New Jersey Nets,NA,Kenyon Martin,PF,2,4,1,0,1,0,1,6,0,1,0,4,0,0,0,Loss,NA,NA
+64,0,2,4 man,All Star,CBC,Ben,MJ,2001-02 New Jersey Nets,NA,Jason Kidd,PG,10,2,3,1,0,2,3,9,0,0,4,4,0,2,0,Loss,NA,NA
+64,0,2,4 man,All Star,Challenger,Frank,Riley,Portland Trail Blazers,NA,Jerami Grant,PF,16,3,1,0,0,1,6,13,3,4,1,2,1,3,1,Win,NA,NA
+64,0,2,4 man,All Star,Challenger,Riley,Frank,Portland Trail Blazers,NA,Jusuf Nurkic,C,6,10,4,1,1,1,3,6,0,1,0,0,2,1,1,Win,NA,NA
+65,15,1,4 man,All Star,Dynasty,Riley,Ben,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,5,0,2,1,0,2,2,5,1,1,0,2,0,1,1,Win,NA,NA
+65,15,1,4 man,All Star,Dynasty,Ben,Riley,2013-14 Indiana Pacers,NA,George Hill,PG,11,2,6,0,0,1,5,10,1,2,0,0,1,2,0,Win,NA,NA
+65,15,1,4 man,All Star,Challenger,MJ,Frank,1998-99 New York Knicks,NA,Latrell Sprewell,SF,4,2,5,0,0,2,1,3,0,0,2,2,1,2,0,Loss,NA,NA
+65,15,1,4 man,All Star,Challenger,Frank,MJ,1998-99 New York Knicks,NA,Charlie Ward,PG,3,4,3,1,1,5,1,3,0,0,1,4,0,1,0,Loss,NA,NA
+66,15,2,4 man,All Star,Dynasty,Riley,Ben,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,6,1,1,1,0,1,3,7,0,3,0,0,0,1,2,Win,NA,NA
+66,15,2,4 man,All Star,Dynasty,Ben,Riley,2013-14 Indiana Pacers,NA,George Hill,PG,4,0,3,0,0,2,1,6,0,2,2,2,0,1,0,Win,NA,NA
+66,15,2,4 man,All Star,Challenger,MJ,Frank,Cleveland Cavaliers,NA,Jarrett Allen,C,9,13,1,0,1,2,2,5,0,0,5,6,3,1,1,Loss,NA,NA
+66,15,2,4 man,All Star,Challenger,Frank,MJ,Cleveland Cavaliers,NA,Darius Garland,PG,4,0,4,2,0,2,2,5,0,0,0,0,0,1,1,Loss,NA,NA
+67,15,3,4 man,All Star,Dynasty,Riley,Ben,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,9,2,3,1,0,1,3,8,2,4,1,2,0,1,1,Win,NA,NA
+67,15,3,4 man,All Star,Dynasty,Ben,Riley,2013-14 Indiana Pacers,NA,George Hill,PG,16,0,3,0,0,0,6,12,3,5,1,2,0,3,0,Win,NA,NA
+67,15,3,4 man,All Star,Challenger,MJ,Frank,Philadelphia 76ers,NA,P.J. Tucker,PF,5,4,1,1,1,2,1,3,0,1,3,4,0,0,1,Loss,NA,NA
+67,15,3,4 man,All Star,Challenger,Frank,MJ,Philadelphia 76ers,NA,Tobias Harris,SF,2,2,10,1,2,1,1,2,0,0,0,0,0,1,1,Loss,NA,NA
+68,15,4,4 man,All Star,Dynasty,Riley,Ben,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,12,1,7,1,0,1,6,10,0,2,0,2,0,0,4,Loss,NA,NA
+68,15,4,4 man,All Star,Dynasty,Ben,Riley,2013-14 Indiana Pacers,NA,George Hill,PG,4,2,5,0,0,2,2,3,0,0,0,0,0,1,0,Loss,NA,NA
+68,15,4,4 man,All Star,Challenger,MJ,Frank,2015-16 Cleveland Cavaliers,NA,LeBron James,SF,14,7,6,1,0,3,7,12,0,0,0,0,2,4,5,Win,NA,NA
+68,15,4,4 man,All Star,Challenger,Frank,MJ,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,Win,NA,NA
+69,0,1,4 man,All Star,CBC,Frank,MJ,2010-11 Dallas Mavericks,NA,DeShawn Stevenson,SG,13,2,3,1,0,0,4,21,2,11,3,3,2,1,1,Win,NA,NA
+69,0,1,4 man,All Star,CBC,MJ,Frank,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,2,6,2,1,0,1,1,5,0,0,0,0,1,1,1,Win,NA,NA
+69,0,1,4 man,All Star,Challenger,Ben,Nick,2007-08 Denver Nuggets,NA,Kenyon Martin,PF,6,8,3,1,6,3,2,6,0,0,2,10,0,2,2,Loss,NA,NA
+69,0,1,4 man,All Star,Challenger,Nick,Ben,2007-08 Denver Nuggets,NA,Marcus Camby,C,0,4,0,0,0,1,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+70,0,2,4 man,All Star,CBC,Frank,MJ,2010-11 Dallas Mavericks,NA,DeShawn Stevenson,SG,8,1,1,0,0,1,4,16,0,7,0,0,0,1,1,Loss,NA,NA
+70,0,2,4 man,All Star,CBC,MJ,Frank,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,0,0,1,2,0,1,0,1,0,0,0,0,0,2,0,Loss,NA,NA
+70,0,2,4 man,All Star,Challenger,Ben,Nick,All-Time Milwaukee Bucks,NA,Kareem Abdul-Jabbar,C,8,10,0,0,2,3,4,11,0,0,0,2,3,0,1,Win,NA,NA
+70,0,2,4 man,All Star,Challenger,Nick,Ben,All-Time Milwaukee Bucks,NA,Sidney Moncrief,SG,6,0,3,0,0,2,2,5,0,0,2,2,0,0,2,Win,NA,NA
+71,16,1,4 man,All Star,Dynasty,MJ,Ben,2006-07 Cleveland Cavaliers,NA,LeBron James,SF,30,5,1,0,0,1,12,23,0,1,6,8,3,2,7,Win,NA,NA
+71,16,1,4 man,All Star,Dynasty,Ben,MJ,2006-07 Cleveland Cavaliers,NA,Drew Gooden,PF,2,13,3,0,0,0,1,6,0,0,0,0,4,0,0,Win,NA,NA
+71,16,1,4 man,All Star,Challenger,Nick,Frank,2002-03 Phoenix Suns,NA,Amar’e Stoudemire,PF,0,1,1,0,0,3,0,5,0,0,0,0,0,0,0,Loss,NA,NA
+71,16,1,4 man,All Star,Challenger,Frank,Nick,2002-03 Phoenix Suns,NA,Stephon Marbury,PG,6,1,1,0,1,4,3,7,0,3,0,0,0,1,0,Loss,NA,NA
+72,16,2,4 man,All Star,Dynasty,MJ,Ben,2006-07 Cleveland Cavaliers,NA,LeBron James,SF,14,6,2,1,0,0,6,16,0,2,2,4,1,2,3,Win,NA,NA
+72,16,2,4 man,All Star,Dynasty,Ben,MJ,2006-07 Cleveland Cavaliers,NA,Drew Gooden,PF,2,2,1,0,1,0,1,3,0,0,0,0,0,1,0,Win,NA,NA
+72,16,2,4 man,All Star,Challenger,Nick,Frank,2011-12 Oklahoma City Thunder,NA,Kendrick Perkins,C,2,8,1,0,0,2,1,2,0,0,0,0,2,0,0,Loss,NA,NA
+72,16,2,4 man,All Star,Challenger,Frank,Nick,2011-12 Oklahoma City Thunder,NA,Kevin Durant,SF,17,3,1,0,1,2,7,18,0,1,3,4,0,3,4,Loss,NA,NA
+73,17,1,4 man,All Star,Dynasty,Riley,Nick,Houston Rockets,NA,Jabari Smith Jr.,PF,2,8,6,4,2,3,1,4,0,2,0,0,2,3,1,Win,NA,NA
+73,17,1,4 man,All Star,Dynasty,Nick,Riley,Houston Rockets,NA,Kevin Porter Jr.,PG,4,2,0,0,1,1,2,6,0,0,0,0,0,1,1,Win,NA,NA
+73,17,1,4 man,All Star,Challenger,Ben,Guy,1990-91 Los Angeles Lakers,NA,Vlade Divac,C,1,3,1,0,0,1,0,2,0,0,1,4,0,1,0,Loss,NA,NA
+73,17,1,4 man,All Star,Challenger,Guy,Ben,1990-91 Los Angeles Lakers,NA,Byron Scott,SG,4,5,3,1,0,6,0,4,0,2,4,4,1,0,0,Loss,NA,NA
+74,17,2,4 man,All Star,Dynasty,Riley,Nick,Houston Rockets,NA,Jabari Smith Jr.,PF,4,5,3,1,0,1,2,4,0,1,0,2,0,2,1,Loss,NA,NA
+74,17,2,4 man,All Star,Dynasty,Nick,Riley,Houston Rockets,NA,Kevin Porter Jr.,PG,12,0,4,0,0,0,5,11,0,1,2,2,0,0,1,Loss,NA,NA
+74,17,2,4 man,All Star,Challenger,Ben,Guy,1997-98 Los Angeles Lakers,NA,Nick Van Exel,PG,12,1,6,0,1,0,5,12,0,5,2,2,0,1,0,Win,NA,NA
+74,17,2,4 man,All Star,Challenger,Guy,Ben,1997-98 Los Angeles Lakers,NA,Rick Fox,SF,0,6,3,0,0,1,0,0,0,0,0,0,0,0,0,Win,NA,NA
+75,18,1,4 man,All Star,Dynasty,Riley,Guy,Minnesota Timberwolves,NA,Anthony Edwards,SG,11,1,3,0,0,2,4,6,0,0,3,4,0,3,4,Win,NA,NA
+75,18,1,4 man,All Star,Dynasty,Guy,Riley,Minnesota Timberwolves,NA,Karl-Anthony Towns,PF,14,8,2,0,1,0,6,11,0,4,2,6,1,0,2,Win,NA,NA
+75,18,1,4 man,All Star,Challenger,Ben,Nick,Denver Nuggets,NA,Jamal Murray,PG,6,1,6,0,0,2,0,7,0,1,6,8,1,2,0,Loss,NA,NA
+75,18,1,4 man,All Star,Challenger,Nick,Ben,Denver Nuggets,NA,Aaron Gordon,PF,0,0,0,0,0,1,0,5,0,0,0,0,0,1,0,Loss,NA,NA
+76,19,1,4 man,All Star,Dynasty,Guy,Ben,2013-14 Los Angeles Clippers,NA,Matt Barnes,SF,2,3,8,0,0,4,1,9,0,2,0,4,1,2,1,Win,NA,NA
+76,19,1,4 man,All Star,Dynasty,Ben,Guy,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,14,14,0,2,4,3,7,10,0,0,0,0,2,0,5,Win,NA,NA
+76,19,1,4 man,All Star,Challenger,MJ,Nick,2007-08 Boston Celtics,NA,Rajon Rondo,PG,4,3,1,2,0,6,2,3,0,0,0,0,0,2,0,Loss,NA,NA
+76,19,1,4 man,All Star,Challenger,Nick,MJ,2007-08 Boston Celtics,NA,Ray Allen,SG,3,0,0,0,0,1,1,8,1,6,0,0,0,0,0,Loss,NA,NA
+77,19,2,4 man,All Star,Dynasty,Guy,Ben,2013-14 Los Angeles Clippers,NA,Matt Barnes,SF,4,2,9,2,0,5,2,4,0,1,0,0,0,4,2,Win,NA,NA
+77,19,2,4 man,All Star,Dynasty,Ben,Guy,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,8,6,1,0,2,1,4,6,0,0,0,2,1,2,3,Win,NA,NA
+77,19,2,4 man,All Star,Challenger,MJ,Nick,1996-97 Miami Heat,NA,Tim Hardaway,PG,6,0,4,2,0,2,2,12,0,3,2,4,0,2,0,Loss,NA,NA
+77,19,2,4 man,All Star,Challenger,Nick,MJ,1996-97 Miami Heat,NA,P.J. Brown,PF,4,3,0,0,0,0,1,1,0,0,2,2,1,1,0,Loss,NA,NA
+78,19,3,4 man,All Star,Dynasty,Guy,Ben,2013-14 Los Angeles Clippers,NA,Matt Barnes,SF,0,3,11,0,0,4,0,2,0,0,0,0,1,3,0,Loss,NA,NA
+78,19,3,4 man,All Star,Dynasty,Ben,Guy,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,4,8,0,0,0,5,0,2,0,0,0,0,4,0,7,Loss,NA,NA
+78,19,3,4 man,All Star,Challenger,MJ,Nick,2007-08 Denver Nuggets,NA,J.R. Smith,SG,16,0,0,0,0,0,5,20,5,20,0,0,0,0,0,Win,NA,NA
+78,19,3,4 man,All Star,Challenger,Nick,MJ,2007-08 Denver Nuggets,NA,Kenyon Martin,PF,2,3,1,0,3,0,1,3,0,0,0,2,1,1,0,Win,NA,NA
+79,20,1,4 man,All Star,Dynasty,Guy,MJ,Indiana Pacers,NA,Myles Turner,C,3,4,6,1,3,0,1,3,1,2,0,2,0,1,0,Win,NA,NA
+79,20,1,4 man,All Star,Dynasty,MJ,Guy,Indiana Pacers,NA,Tyrese Haliburton,PG,9,2,5,0,0,2,4,10,0,3,1,2,0,2,0,Win,NA,NA
+79,20,1,4 man,All Star,Challenger,Ben,Nick,1992-93 Charlotte Hornets,NA,Muggsy Bogues,PG,3,2,8,1,0,2,1,5,0,0,1,2,1,3,0,Loss,NA,NA
+79,20,1,4 man,All Star,Challenger,Nick,Ben,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,3,7,0,0,0,0,1,5,1,1,0,2,0,0,0,Loss,NA,NA
+80,21,1,5 man,All Star,Dynasty,Guy,NA,Oklahoma City Thunder,NA,Chet Holmgren,C,0,5,2,1,5,1,0,4,0,0,0,2,2,4,0,Win,NA,NA
+80,21,1,5 man,All Star,Dynasty,MJ,NA,Oklahoma City Thunder,NA,Josh Giddey,SG,8,4,3,1,0,1,4,7,0,0,0,1,1,0,0,Win,NA,NA
+80,21,1,5 man,All Star,Dynasty,Riley,NA,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,11,0,3,1,0,3,5,7,1,2,0,0,0,0,3,Win,NA,NA
+80,21,1,5 man,All Star,Challenger,Ben,NA,Milwaukee Bucks,NA,Giannis Antetokounmpo,PF,7,5,4,0,3,3,3,8,0,0,1,8,0,0,1,Loss,NA,NA
+80,21,1,5 man,All Star,Challenger,Nick,NA,Milwaukee Bucks,NA,Grayson Allen,SG,1,1,1,0,0,0,0,1,0,0,1,2,1,1,0,Loss,NA,NA
+81,21,2,5 man,All Star,Dynasty,Guy,NA,Oklahoma City Thunder,NA,Chet Holmgren,C,2,12,3,2,4,2,1,2,0,0,0,0,1,1,0,Win,NA,NA
+81,21,2,5 man,All Star,Dynasty,MJ,NA,Oklahoma City Thunder,NA,Josh Giddey,SG,2,9,6,2,0,1,1,3,0,0,0,0,1,1,0,Win,NA,NA
+81,21,2,5 man,All Star,Dynasty,Riley,NA,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,35,1,0,3,0,3,13,26,0,2,9,10,0,4,7,Win,NA,NA
+81,21,2,5 man,All Star,Challenger,Ben,NA,Houston Rockets,NA,Kevin Porter Jr.,PG,4,3,0,0,2,5,1,8,0,2,2,2,0,3,0,Loss,NA,NA
+81,21,2,5 man,All Star,Challenger,Nick,NA,Houston Rockets,NA,Alperen Sengun,C,2,4,2,1,0,1,1,7,0,0,0,0,1,0,0,Loss,NA,NA
+82,21,3,5 man,All Star,Dynasty,Guy,NA,Oklahoma City Thunder,NA,Chet Holmgren,C,4,2,1,1,1,0,2,5,0,0,0,0,1,0,2,Loss,NA,NA
+82,21,3,5 man,All Star,Dynasty,MJ,NA,Oklahoma City Thunder,NA,Josh Giddey,SG,4,2,2,1,0,1,2,2,0,0,0,2,0,1,1,Loss,NA,NA
+82,21,3,5 man,All Star,Dynasty,Riley,NA,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,17,0,4,4,0,2,8,15,0,0,1,2,0,0,6,Loss,NA,NA
+82,21,3,5 man,All Star,Challenger,Ben,NA,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,5,2,14,1,0,5,1,1,0,0,3,4,0,1,0,Win,NA,NA
+82,21,3,5 man,All Star,Challenger,Nick,NA,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,4,1,1,0,0,1,2,4,0,2,0,0,0,0,1,Win,NA,NA
+83,4,4,4 man,All Star,Dynasty,Nick,Riley,2011-12 Oklahoma City Thunder,NA,James Harden,SG,0,0,1,0,0,1,0,2,0,1,0,0,0,3,0,Loss,NA,NA
+83,4,4,4 man,All Star,Dynasty,Riley,Nick,2011-12 Oklahoma City Thunder,NA,Serge Ibaka,PF,0,5,3,1,4,2,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+83,4,4,4 man,All Star,Challenger,MJ,Ben,2007-08 Denver Nuggets,Orlando Magic,Allen Iverson,PG,2,0,8,1,0,2,1,2,0,0,0,0,0,5,1,Win,NA,NA
+83,4,4,4 man,All Star,Challenger,Ben,MJ,2007-08 Denver Nuggets,Orlando Magic,Marcus Camby,C,7,5,4,0,1,0,3,8,0,0,1,5,0,0,2,Win,NA,NA
+84,0,1,4 man,All Star,CBC,Ben,Riley,2015-16 Cleveland Cavaliers,NA,LeBron James,SF,13,4,10,0,1,1,6,12,1,3,0,0,0,2,3,Win,NA,NA
+84,0,1,4 man,All Star,CBC,Riley,Ben,2015-16 Cleveland Cavaliers,NA,Kyrie Irving,PG,16,0,2,2,0,5,8,16,0,1,0,0,0,3,0,Win,NA,NA
+84,0,1,4 man,All Star,Challenger,MJ,Nick,2007-08 Denver Nuggets,NA,J.R. Smith,SG,8,1,2,3,0,4,3,14,2,11,0,0,0,1,1,Loss,NA,NA
+84,0,1,4 man,All Star,Challenger,Nick,MJ,2007-08 Denver Nuggets,NA,Allen Iverson,PG,2,0,2,0,0,0,0,4,0,1,2,4,0,0,0,Loss,NA,NA
+85,0,2,4 man,All Star,CBC,Ben,Riley,2015-16 Cleveland Cavaliers,NA,LeBron James,SF,13,5,1,2,3,1,5,14,0,3,3,4,2,2,2,Loss,NA,NA
+85,0,2,4 man,All Star,CBC,Riley,Ben,2015-16 Cleveland Cavaliers,NA,Kyrie Irving,PG,0,4,3,1,0,2,0,5,0,0,0,0,1,4,0,Loss,NA,NA
+85,0,2,4 man,All Star,Challenger,MJ,Nick,San Antonio Spurs,NA,Zach Collins,C,7,9,9,1,0,3,2,6,1,4,2,2,0,3,0,Win,NA,NA
+85,0,2,4 man,All Star,Challenger,Nick,MJ,San Antonio Spurs,NA,Jeremy Sochan,PF,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,Win,NA,NA
+86,22,1,4 man,All Star,CBC,Ben,Nick,2007-08 Boston Celtics,NA,Kevin Garnett,PF,11,9,4,1,2,1,5,11,0,0,1,4,0,1,1,Win,NA,NA
+86,22,1,4 man,All Star,CBC,Nick,Ben,2007-08 Boston Celtics,NA,Kendrick Perkins,C,0,3,1,0,1,1,0,0,0,0,0,0,0,0,0,Win,NA,NA
+86,22,1,4 man,All Star,Challenger,MJ,Riley,2010-11 Chicago Bulls,NA,Carlos Boozer,PF,4,10,0,0,0,2,2,7,0,0,0,0,2,2,1,Loss,NA,NA
+86,22,1,4 man,All Star,Challenger,Riley,MJ,2010-11 Chicago Bulls,NA,Derrick Rose,PG,7,2,4,1,0,2,0,11,0,0,7,8,1,3,0,Loss,NA,NA
+87,23,1,5 man,All Star,Dynasty,Riley,NA,Toronto Raptors,NA,OG Anunoby,SG,13,0,5,2,0,6,4,6,1,1,4,4,0,3,2,Win,NA,NA
+87,23,1,5 man,All Star,Dynasty,Nick,NA,Toronto Raptors,NA,Pascal Siakam,PF,2,3,3,0,0,0,1,1,0,0,0,0,0,1,0,Win,NA,NA
+87,23,1,5 man,All Star,Dynasty,Guy,NA,Toronto Raptors,NA,Jakob Poeltl,C,2,13,1,0,3,0,1,5,0,0,0,1,0,0,0,Win,NA,NA
+87,23,1,5 man,All Star,Challenger,Ben,NA,Los Angeles Clippers,NA,Kawhi Leonard,SF,4,4,3,2,1,1,1,9,0,1,2,2,0,3,1,Loss,NA,NA
+87,23,1,5 man,All Star,Challenger,Frank,NA,Los Angeles Clippers,NA,Paul George,SG,6,3,1,0,0,1,3,12,0,5,0,1,1,1,1,Loss,NA,NA
+88,23,2,5 man,All Star,Dynasty,Riley,NA,Toronto Raptors,NA,OG Anunoby,SG,18,0,7,1,0,3,6,14,0,3,6,6,0,4,4,Win,NA,NA
+88,23,2,5 man,All Star,Dynasty,Nick,NA,Toronto Raptors,NA,Pascal Siakam,PF,2,0,1,0,0,0,1,2,0,0,0,2,0,1,0,Win,NA,NA
+88,23,2,5 man,All Star,Dynasty,Guy,NA,Toronto Raptors,NA,Jakob Poeltl,C,4,11,1,0,2,0,2,2,0,0,0,0,0,1,2,Win,NA,NA
+88,23,2,5 man,All Star,Challenger,Ben,NA,1970-71 Los Angeles Lakers,NA,Jerry West,PG,5,1,3,2,0,1,1,8,1,3,2,4,0,1,0,Loss,NA,NA
+88,23,2,5 man,All Star,Challenger,Frank,NA,1970-71 Los Angeles Lakers,NA,Gail Goodrich,SG,5,1,1,0,0,1,1,10,1,4,2,3,0,1,0,Loss,NA,NA
+89,23,3,5 man,All Star,Dynasty,Riley,NA,Toronto Raptors,NA,OG Anunoby,SG,8,1,4,0,1,2,3,6,0,2,2,2,0,2,1,Loss,NA,NA
+89,23,3,5 man,All Star,Dynasty,Nick,NA,Toronto Raptors,NA,Pascal Siakam,PF,8,2,0,0,2,0,2,11,2,3,2,2,0,0,0,Loss,NA,NA
+89,23,3,5 man,All Star,Dynasty,Guy,NA,Toronto Raptors,NA,Jakob Poeltl,C,2,6,1,0,4,0,1,2,0,0,0,2,0,2,0,Loss,NA,NA
+89,23,3,5 man,All Star,Challenger,Ben,NA,New York Knicks,NA,Jalen Brunson,PG,3,1,3,0,0,0,0,6,0,0,3,4,0,1,0,Win,NA,NA
+89,23,3,5 man,All Star,Challenger,Frank,NA,New York Knicks,NA,Julius Randle,PF,16,11,1,0,0,2,7,17,0,1,2,2,2,2,4,Win,NA,NA
+90,24,1,5 man,All Star,Dynasty,Ben,NA,2004-05 Phoenix Suns,NA,Amar’e Stoudemire,C,20,11,0,0,0,2,10,15,0,0,0,0,1,0,2,Win,NA,NA
+90,24,1,5 man,All Star,Dynasty,Nick,NA,2004-05 Phoenix Suns,NA,Joe Johnson,SG,0,1,3,1,0,1,0,2,0,0,0,0,0,0,0,Win,NA,NA
+90,24,1,5 man,All Star,Challenger,Guy,NA,2002-03 Dallas Mavericks,NA,Steve Nash,PG,2,1,5,0,0,2,1,8,0,2,0,0,0,0,0,Loss,NA,NA
+90,24,1,5 man,All Star,Challenger,Frank,NA,2002-03 Dallas Mavericks,NA,Dirk Nowitzki,PF,12,7,2,1,0,1,5,10,1,3,1,4,0,1,0,Loss,NA,NA
+90,24,1,5 man,All Star,Challenger,Riley,NA,2002-03 Dallas Mavericks,NA,Michael Finley,SF,9,1,1,2,0,0,3,8,3,6,0,0,0,1,0,Loss,NA,NA
+91,24,2,5 man,All Star,Dynasty,Ben,NA,2004-05 Phoenix Suns,NA,Amar’e Stoudemire,C,12,8,1,0,3,0,6,9,0,0,0,2,0,0,3,Win,NA,NA
+91,24,2,5 man,All Star,Dynasty,Nick,NA,2004-05 Phoenix Suns,NA,Joe Johnson,SG,0,0,1,1,0,0,0,3,0,2,0,0,0,0,0,Win,NA,NA
+91,24,2,5 man,All Star,Challenger,Guy,NA,Cleveland Cavaliers,NA,Jarrett Allen,C,0,10,4,1,2,2,0,4,0,0,0,0,0,0,0,Loss,NA,NA
+91,24,2,5 man,All Star,Challenger,Frank,NA,Cleveland Cavaliers,NA,Darius Garland,PG,0,0,0,0,0,2,0,7,0,5,0,0,0,2,0,Loss,NA,NA
+91,24,2,5 man,All Star,Challenger,Riley,NA,Cleveland Cavaliers,NA,Isaac Okoro,SF,2,1,1,1,1,1,1,5,0,1,0,0,1,2,0,Loss,NA,NA
+92,5,10,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,6,7,5,1,0,5,2,14,0,1,2,2,1,3,2,Win,NA,NA
+92,5,10,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,7,1,4,1,1,2,3,6,0,0,1,2,0,2,0,Win,NA,NA
+92,5,10,4 man,All Star,Challenger,Frank,Nick,All-Time New York Knicks,NA,Willis Reed,PF,11,4,3,0,3,3,4,10,0,0,3,4,0,0,3,Loss,NA,NA
+92,5,10,4 man,All Star,Challenger,Nick,Frank,All-Time New York Knicks,NA,Carmelo Anthony,SF,2,1,2,1,2,1,1,7,0,1,0,0,0,2,0,Loss,NA,NA
+93,5,11,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,8,1,2,1,1,1,4,7,0,0,0,0,1,2,4,Win,NA,NA
+93,5,11,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,4,0,9,0,0,0,1,4,0,2,2,2,0,1,1,Win,NA,NA
+93,5,11,4 man,All Star,Challenger,Frank,Nick,2013-14 San Antonio Spurs,NA,Tiago Splitter,C,6,5,1,0,0,3,3,4,0,0,0,0,1,1,0,Loss,NA,NA
+93,5,11,4 man,All Star,Challenger,Nick,Frank,2013-14 San Antonio Spurs,NA,Kawhi Leonard,SF,5,1,0,1,0,3,2,6,1,1,0,0,0,1,0,Loss,NA,NA
+94,18,2,4 man,All Star,Dynasty,Riley,Guy,Minnesota Timberwolves,NA,Anthony Edwards,SG,0,1,6,3,1,4,0,1,0,0,0,2,0,3,0,Loss,NA,NA
+94,18,2,4 man,All Star,Dynasty,Guy,Riley,Minnesota Timberwolves,NA,Karl-Anthony Towns,PF,11,5,2,0,1,4,4,11,0,2,3,4,0,2,1,Loss,NA,NA
+94,18,2,4 man,All Star,Challenger,Ben,Nick,2006-07 Cleveland Cavaliers,NA,Zydrunas Ilgauskas,C,6,4,1,2,4,2,1,2,0,0,4,4,0,2,1,Win,NA,NA
+94,18,2,4 man,All Star,Challenger,Nick,Ben,2006-07 Cleveland Cavaliers,NA,LeBron James,SF,11,2,3,0,0,2,5,9,0,1,1,4,1,0,4,Win,NA,NA
+95,0,1,4 man,All Star,Challenger,Guy,Nick,2001-02 Sacramento Kings,NA,Mike Bibby,PG,9,1,3,3,0,3,0,8,0,3,9,10,0,1,0,Loss,NA,NA
+95,0,1,4 man,All Star,Challenger,Nick,Guy,2001-02 Sacramento Kings,NA,Peja Stojakovic,SF,0,0,1,1,1,2,0,2,0,1,0,0,0,1,0,Loss,NA,NA
+95,0,1,4 man,All Star,CBC,Ben,Riley,Houston Rockets,NA,Jalen Green,PF,10,1,5,1,0,6,5,11,0,2,0,0,1,2,2,Win,NA,NA
+95,0,1,4 man,All Star,CBC,Riley,Ben,Houston Rockets,NA,Jabari Smith Jr.,SG,8,6,1,0,3,1,3,5,0,0,2,2,1,2,0,Win,NA,NA
+96,0,2,4 man,All Star,CBC,Ben,Riley,Houston Rockets,NA,Jalen Green,PF,8,0,4,3,0,1,2,4,0,0,4,4,0,2,1,Loss,NA,NA
+96,0,2,4 man,All Star,CBC,Riley,Ben,Houston Rockets,NA,Jabari Smith Jr.,SG,16,6,6,1,1,3,6,11,1,1,3,4,1,2,3,Loss,NA,NA
+96,0,2,4 man,All Star,Challenger,Guy,Nick,Phoenix Suns,NA,Chris Paul,PG,6,1,8,1,0,3,3,7,0,2,0,0,0,1,0,Win,NA,NA
+96,0,2,4 man,All Star,Challenger,Nick,Guy,Phoenix Suns,NA,Kevin Durant,PF,3,2,0,0,0,3,1,7,1,2,0,0,0,2,0,Win,NA,NA
+97,24,3,5 man,All Star,Dynasty,Ben,Nick,2004-05 Phoenix Suns,NA,Amar’e Stoudemire,C,4,11,1,0,1,1,1,6,0,0,2,2,3,1,1,Win,NA,NA
+97,24,3,5 man,All Star,Dynasty,Nick,Ben,2004-05 Phoenix Suns,NA,Joe Johnson,SG,7,0,0,0,0,1,3,8,1,4,0,0,0,2,0,Win,NA,NA
+97,24,3,5 man,All Star,Challenger,Guy,NA,Golden State Warriors,NA,Klay Thompson,SG,9,2,1,0,0,1,3,17,3,15,0,0,1,1,0,Loss,NA,NA
+97,24,3,5 man,All Star,Challenger,Frank,NA,Golden State Warriors,NA,Andrew Wiggins,SF,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,Loss,NA,NA
+97,24,3,5 man,All Star,Challenger,Riley,NA,Golden State Warriors,NA,Kevon Looney,C,10,10,1,0,0,2,5,9,0,0,0,0,7,3,2,Loss,NA,NA
+98,24,4,5 man,All Star,Dynasty,Ben,Nick,2004-05 Phoenix Suns,NA,Amar’e Stoudemire,C,6,9,4,0,0,2,2,6,0,0,2,2,2,4,2,Loss,NA,NA
+98,24,4,5 man,All Star,Dynasty,Nick,Ben,2004-05 Phoenix Suns,NA,Joe Johnson,SG,2,0,0,0,0,1,1,6,0,3,0,0,0,1,0,Loss,NA,NA
+98,24,4,5 man,All Star,Challenger,Guy,NA,All-Time San Antonio Spurs,NA,David Robinson,C,23,7,1,0,3,1,8,12,0,0,7,8,0,2,4,Win,NA,NA
+98,24,4,5 man,All Star,Challenger,Frank,NA,All-Time San Antonio Spurs,NA,Tony Parker,SG,6,1,9,3,0,2,3,4,0,1,0,0,0,3,0,Win,NA,NA
+98,24,4,5 man,All Star,Challenger,Riley,NA,All-Time San Antonio Spurs,NA,George Gervin,PG,13,0,1,0,0,0,6,9,0,0,1,2,0,0,4,Win,NA,NA
+99,25,1,5 man,All Star,Challenger,Ben,NA,Memphis Grizzlies,NA,Jaren Jackson Jr.,PF,2,5,0,1,1,2,0,1,0,1,2,2,0,0,0,Loss,NA,NA
+99,25,1,5 man,All Star,Challenger,Nick,NA,Memphis Grizzlies,NA,Steven Adams,C,0,3,1,1,0,2,0,0,0,0,0,2,0,1,0,Loss,NA,NA
+99,25,1,5 man,All Star,Challenger,Frank,NA,Memphis Grizzlies,NA,Ja Morant,PG,7,3,1,0,0,0,2,15,0,2,3,4,1,4,1,Loss,NA,NA
+99,25,1,5 man,All Star,Dynasty,Riley,NA,Milwaukee Bucks,NA,Grayson Allen,SG,0,1,8,1,0,1,0,1,0,0,0,0,0,2,0,Win,NA,NA
+99,25,1,5 man,All Star,Dynasty,Guy,NA,Milwaukee Bucks,NA,Brook Lopez,C,5,7,1,0,2,1,2,9,0,5,1,2,1,1,1,Win,NA,NA
+100,25,2,5 man,All Star,Dynasty,Riley,NA,Milwaukee Bucks,NA,Grayson Allen,SG,0,1,9,1,0,1,0,7,0,5,0,0,0,0,0,Win,NA,NA
+100,25,2,5 man,All Star,Dynasty,Guy,NA,Milwaukee Bucks,NA,Brook Lopez,C,4,6,3,1,4,1,2,5,0,3,0,0,0,1,2,Win,NA,NA
+100,25,2,5 man,All Star,Challenger,Ben,NA,Brooklyn Nets,NA,Spencer Dinwiddie,PG,2,2,4,1,0,2,1,6,0,3,0,0,0,1,0,Loss,NA,NA
+100,25,2,5 man,All Star,Challenger,Nick,NA,Brooklyn Nets,NA,Dorian Finney-Smith,PF,0,1,1,0,0,3,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+100,25,2,5 man,All Star,Challenger,Frank,NA,Brooklyn Nets,NA,Cameron Johnson,SF,7,2,2,0,0,0,2,10,2,7,1,2,0,1,0,Loss,NA,NA
+101,25,3,5 man,All Star,Dynasty,Riley,NA,Milwaukee Bucks,NA,Grayson Allen,SG,6,1,12,2,0,1,2,2,0,0,2,2,0,4,0,Win,NA,NA
+101,25,3,5 man,All Star,Dynasty,Guy,NA,Milwaukee Bucks,NA,Brook Lopez,C,4,6,0,0,3,2,1,8,0,6,2,2,0,2,1,Win,NA,NA
+101,25,3,5 man,All Star,Challenger,Ben,NA,New York Knicks,NA,Jalen Brunson,PG,2,0,3,0,0,1,1,9,0,3,0,0,0,2,0,Loss,NA,NA
+101,25,3,5 man,All Star,Challenger,Nick,NA,New York Knicks,NA,R.J. Barrett,SF,0,1,0,0,1,0,0,2,0,0,0,0,0,2,0,Loss,NA,NA
+101,25,3,5 man,All Star,Challenger,Frank,NA,New York Knicks,NA,Julius Randle,PF,4,4,0,0,0,1,2,14,0,4,0,0,0,1,0,Loss,NA,NA
+102,26,1,5 man,All Star,Dynasty,Ben,NA,Denver Nuggets,NA,Nikola Jokic,C,8,11,8,1,1,1,3,7,0,1,2,2,1,1,1,Win,NA,NA
+102,26,1,5 man,All Star,Dynasty,Frank,NA,Denver Nuggets,NA,Michael Porter Jr.,SF,15,2,7,0,0,1,7,12,1,3,0,0,0,1,2,Win,NA,NA
+102,26,1,5 man,All Star,Challenger,Riley,NA,Sacramento Kings,NA,Keegan Murray,PF,1,4,2,1,0,2,0,3,0,3,1,2,0,2,0,Loss,NA,NA
+102,26,1,5 man,All Star,Challenger,Guy,NA,Sacramento Kings,NA,Harrison Barnes,SF,9,2,1,0,0,2,4,11,0,3,1,2,2,1,2,Loss,NA,NA
+102,26,1,5 man,All Star,Challenger,MJ,NA,Sacramento Kings,NA,De'Aaron Fox,PG,8,0,3,1,0,3,4,12,0,0,0,0,0,0,1,Loss,NA,NA
+103,9,2,6 man,All Star,Dynasty,Frank,NA,1997-98 San Antonio Spurs,NA,Avery Johnson,PG,0,0,5,0,0,4,0,4,0,2,0,0,0,3,0,Win,NA,NA
+103,9,2,6 man,All Star,Dynasty,MJ,NA,1997-98 San Antonio Spurs,NA,Sean Elliott,SF,22,1,2,0,0,2,9,15,3,5,1,2,0,0,1,Win,NA,NA
+103,9,2,6 man,All Star,Dynasty,Ben,NA,1997-98 San Antonio Spurs,NA,Tim Duncan,PF,2,12,0,0,7,0,1,2,0,0,0,0,2,2,0,Win,NA,NA
+103,9,2,6 man,All Star,Challenger,Guy,NA,2003-04 Detroit Pistons,NA,Chauncey Billups,PG,14,0,3,2,0,2,5,16,2,6,2,2,0,4,0,Loss,NA,NA
+103,9,2,6 man,All Star,Challenger,Riley,NA,2003-04 Detroit Pistons,NA,Ben Wallace,C,0,5,1,0,2,0,0,3,0,0,0,6,2,1,0,Loss,NA,NA
+103,9,2,6 man,All Star,Challenger,Nick,NA,2003-04 Detroit Pistons,NA,Corliss Williamson,SF,0,0,0,1,0,0,0,3,0,2,0,0,0,1,0,Loss,NA,NA
+104,9,3,6 man,All Star,Dynasty,Frank,NA,1997-98 San Antonio Spurs,NA,Avery Johnson,PG,4,0,4,1,0,4,2,5,0,1,0,0,0,2,0,Win,NA,NA
+104,9,3,6 man,All Star,Dynasty,MJ,NA,1997-98 San Antonio Spurs,NA,Sean Elliott,SF,6,0,6,0,0,0,2,11,0,4,2,2,0,1,1,Win,NA,NA
+104,9,3,6 man,All Star,Dynasty,Ben,NA,1997-98 San Antonio Spurs,NA,Tim Duncan,PF,15,17,2,1,4,0,6,8,0,0,3,3,2,0,3,Win,NA,NA
+104,9,3,6 man,All Star,Challenger,Guy,NA,New Orleans Pelicans,NA,Jonas Valanciunas,C,0,7,1,0,0,2,0,5,0,0,0,2,2,2,0,Loss,NA,NA
+104,9,3,6 man,All Star,Challenger,Riley,NA,New Orleans Pelicans,NA,C.J. McCollum,PG,3,0,4,1,0,3,0,7,0,1,3,4,0,0,0,Loss,NA,NA
+104,9,3,6 man,All Star,Challenger,Nick,NA,New Orleans Pelicans,NA,Herbert Jones,SG,2,0,0,0,0,2,1,2,0,1,0,0,0,0,1,Loss,NA,NA
+105,9,4,6 man,All Star,Dynasty,Frank,NA,1997-98 San Antonio Spurs,NA,Avery Johnson,PG,3,0,5,0,0,3,1,1,0,0,1,2,0,0,0,Loss,NA,NA
+105,9,4,6 man,All Star,Dynasty,MJ,NA,1997-98 San Antonio Spurs,NA,Sean Elliott,SF,5,0,2,0,0,3,1,5,1,4,2,4,0,0,0,Loss,NA,NA
+105,9,4,6 man,All Star,Dynasty,Ben,NA,1997-98 San Antonio Spurs,NA,Tim Duncan,PF,9,6,0,0,0,3,3,5,0,0,3,6,0,2,1,Loss,NA,NA
+105,9,4,6 man,All Star,Challenger,Guy,NA,Team Antetokounmpo,All-Time Portland Trail Blazers,Ja Morant,PG,29,2,1,0,0,0,13,19,0,0,3,4,0,4,9,Win,NA,NA
+105,9,4,6 man,All Star,Challenger,Riley,NA,Team Antetokounmpo,All-Time Portland Trail Blazers,Giannis Antetokounmpo,C,9,6,6,2,2,1,3,3,0,0,3,4,0,3,3,Win,NA,NA
+105,9,4,6 man,All Star,Challenger,Nick,NA,Team Antetokounmpo,All-Time Portland Trail Blazers,Donovan Mitchell,SG,7,0,3,0,0,0,3,7,1,2,0,0,0,1,1,Win,NA,NA
+106,27,1,5 man,All Star,CBC,Nick,NA,2000-01 Philadelphia 76ers,NA,Allen Iverson,SG,6,0,1,0,0,2,2,7,0,1,2,2,0,0,0,Win,NA,NA
+106,27,1,5 man,All Star,CBC,Guy,NA,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,0,1,4,1,0,0,0,1,0,0,0,0,0,3,0,Win,NA,NA
+106,27,1,5 man,All Star,CBC,Riley,NA,2000-01 Philadelphia 76ers,NA,Dikembe Mutombo,C,9,15,3,0,2,4,4,9,0,0,1,2,4,2,3,Win,NA,NA
+106,27,1,5 man,All Star,CBC,Ben,NA,1999-00 Toronto Raptors,NA,Arvydas Sabonis,C,11,6,2,0,0,1,3,6,0,0,5,5,0,1,1,Loss,NA,NA
+106,27,1,5 man,All Star,CBC,MJ,NA,1999-00 Toronto Raptors,NA,Scottie Pippen,SF,1,0,2,1,0,1,0,3,0,0,1,4,0,2,0,Loss,NA,NA
+107,28,1,4 man,All Star,Dynasty,Guy,Ben,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,13,4,6,1,0,3,4,11,0,1,5,6,1,3,0,Win,NA,NA
+107,28,1,4 man,All Star,Dynasty,Ben,Guy,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,5,1,3,3,1,1,2,3,0,0,1,4,0,1,1,Win,NA,NA
+107,28,1,4 man,All Star,Challenger,Riley,Nick,2002-03 Dallas Mavericks,NA,Michael Finley,SF,6,1,4,2,1,4,2,5,1,3,1,2,0,2,1,Loss,NA,NA
+107,28,1,4 man,All Star,Challenger,Nick,Riley,2002-03 Dallas Mavericks,NA,Steve Nash,PG,8,0,0,0,1,3,3,11,0,2,2,5,0,3,0,Loss,NA,NA
+108,28,2,4 man,All Star,Dynasty,Guy,Ben,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,2,1,8,0,0,3,0,3,0,1,2,2,1,3,0,Win,NA,NA
+108,28,2,4 man,All Star,Dynasty,Ben,Guy,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,4,2,2,1,0,0,2,7,0,0,0,0,1,0,1,Win,NA,NA
+108,28,2,4 man,All Star,Challenger,Riley,Nick,1995-96 Seattle Supersonics,NA,Shawn Kemp,PF,12,7,4,1,1,1,3,10,0,0,6,6,2,0,2,Loss,NA,NA
+108,28,2,4 man,All Star,Challenger,Nick,Riley,1995-96 Seattle Supersonics,NA,Hersey Hawkins,SG,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Loss,NA,NA
+109,28,3,4 man,All Star,Dynasty,Guy,Ben,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,2,1,8,0,0,3,0,3,0,1,2,2,1,3,0,Win,NA,NA
+109,28,3,4 man,All Star,Dynasty,Ben,Guy,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,4,2,2,1,0,0,2,7,0,0,0,0,1,0,1,Win,NA,NA
+109,28,3,4 man,All Star,Challenger,Riley,Nick,Atlanta Hawks,NA,Clint Capela,C,1,7,3,2,0,2,0,2,0,0,1,2,1,1,0,Loss,NA,NA
+109,28,3,4 man,All Star,Challenger,Nick,Riley,Atlanta Hawks,NA,Trae Young,PG,3,0,3,0,0,4,1,5,0,2,1,2,0,1,0,Loss,NA,NA
+110,22,2,4 man,All Star,CBC,Ben,Nick,2007-08 Boston Celtics,NA,Kevin Garnett,PF,7,8,1,1,2,1,2,6,0,0,3,6,2,1,1,Loss,NA,NA
+110,22,2,4 man,All Star,CBC,Nick,Ben,2007-08 Boston Celtics,NA,Kendrick Perkins,C,0,3,1,0,0,1,0,2,0,0,0,0,2,1,0,Loss,NA,NA
+110,22,2,4 man,All Star,Challenger,MJ,Riley,All-Time Portland Trail Blazers,NA,Bill Walton,C,12,7,3,1,1,0,5,8,0,0,2,4,3,1,3,Win,NA,NA
+110,22,2,4 man,All Star,Challenger,Riley,MJ,All-Time Portland Trail Blazers,NA,LaMarcus Aldridge,PF,10,5,2,1,0,1,5,9,0,0,0,1,2,3,1,Win,NA,NA
+111,29,1,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,8,10,3,0,0,3,4,6,0,0,0,2,2,2,1,Win,NA,NA
+111,29,1,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,17,6,3,2,2,2,7,9,0,2,3,4,0,0,6,Win,NA,NA
+111,29,1,4 man,All Star,Challenger,Nick,Riley,1990-91 Los Angeles Lakers,NA,Vlade Divac,C,4,1,1,1,3,1,2,4,0,0,0,2,0,0,1,Loss,NA,NA
+111,29,1,4 man,All Star,Challenger,Riley,Nick,1990-91 Los Angeles Lakers,NA,Magic Johnson,PG,5,3,5,1,0,5,2,11,0,1,1,5,2,3,0,Loss,NA,NA
+112,29,2,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,1,6,0,0,2,0,0,0,0,0,1,2,0,2,0,Win,NA,NA
+112,29,2,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,21,2,3,0,0,1,10,14,0,1,1,3,0,0,5,Win,NA,NA
+112,29,2,4 man,All Star,Challenger,Nick,Riley,All-Time Cleveland Cavaliers,NA,Kyrie Irving,SG,2,0,0,0,0,1,1,3,0,1,0,0,0,0,0,Loss,NA,NA
+112,29,2,4 man,All Star,Challenger,Riley,Nick,All-Time Cleveland Cavaliers,NA,LeBron James,SF,2,4,10,0,0,0,0,8,0,1,2,2,1,5,0,Loss,NA,NA
+113,29,3,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,4,13,2,0,0,0,2,8,0,0,0,0,2,1,1,Win,NA,NA
+113,29,3,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,13,0,3,2,0,0,5,7,2,3,1,3,0,0,3,Win,NA,NA
+113,29,3,4 man,All Star,Challenger,Nick,Riley,Washington Wizards,NA,Daniel Gafford,C,2,6,0,0,0,0,1,5,0,0,0,3,1,1,1,Loss,NA,NA
+113,29,3,4 man,All Star,Challenger,Riley,Nick,Washington Wizards,NA,Monte Morris,PG,0,1,4,0,0,1,0,3,0,2,0,0,1,1,0,Loss,NA,NA
+114,29,4,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,0,12,3,0,1,0,0,1,0,0,0,2,1,0,0,Win,NA,NA
+114,29,4,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,33,1,1,3,0,1,15,21,1,4,2,3,0,1,7,Win,NA,NA
+114,29,4,4 man,All Star,Challenger,Nick,Riley,2004-05 Phoenix Suns,1997-98 Utah Jazz,Quentin Richardson,SF,0,0,0,0,0,3,0,3,0,2,0,0,0,1,0,Loss,NA,NA
+114,29,4,4 man,All Star,Challenger,Riley,Nick,2004-05 Phoenix Suns,1997-98 Utah Jazz,Steve Nash,PG,5,1,5,0,0,3,2,3,1,1,0,0,0,3,0,Loss,NA,NA
+115,5,12,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,6,1,5,0,1,3,2,7,0,0,2,2,0,2,2,Win,NA,NA
+115,5,12,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,12,3,4,0,0,5,5,8,1,2,1,2,0,2,2,Win,NA,NA
+115,5,12,4 man,All Star,Challenger,Frank,Nick,Miami Heat,NA,Kyle Lowry,PG,8,0,8,2,0,4,3,12,0,4,2,2,0,3,0,Loss,NA,NA
+115,5,12,4 man,All Star,Challenger,Nick,Frank,Miami Heat,NA,Tyler Herro,SG,3,2,0,0,0,2,1,2,1,1,0,0,0,0,0,Loss,NA,NA
+116,5,13,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,16,3,4,2,0,0,7,9,0,0,2,2,0,3,3,Win,NA,NA
+116,5,13,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,14,0,9,0,0,5,5,6,1,2,3,3,0,1,2,Win,NA,NA
+116,5,13,4 man,All Star,Challenger,Frank,Nick,2000-01 Philadelphia 76ers,NA,Dikembe Mutombo,C,4,3,2,0,1,3,1,2,0,0,2,2,0,1,1,Loss,NA,NA
+116,5,13,4 man,All Star,Challenger,Nick,Frank,2000-01 Philadelphia 76ers,NA,Allen Iverson,SG,3,2,1,0,0,4,0,11,0,3,3,3,1,0,0,Loss,NA,NA
+117,30,1,4 man,All Star,CBC,Frank,Nick,2007-08 Boston Celtics,NA,Paul Pierce,SG,6,4,2,0,1,1,3,11,0,3,0,0,0,0,1,Loss,NA,NA
+117,30,1,4 man,All Star,CBC,Nick,Frank,2007-08 Boston Celtics,NA,Rajon Rondo,SF,0,0,6,0,1,3,0,1,0,1,0,0,0,3,0,Loss,NA,NA
+117,30,1,4 man,All Star,CBC,Riley,MJ,2000-01 Philadelphia 76ers,NA,Allen Iverson,SG,16,2,1,5,0,2,7,14,0,0,2,2,1,2,1,Win,NA,NA
+117,30,1,4 man,All Star,CBC,MJ,Riley,2000-01 Philadelphia 76ers,NA,Eric Snow,PG,16,3,4,1,0,0,5,12,0,0,6,6,3,0,0,Win,NA,NA
+118,30,2,4 man,All Star,Dynasty,Riley,MJ,2000-01 Philadelphia 76ers,NA,Allen Iverson,SG,29,0,1,3,0,1,12,20,0,0,5,5,0,3,0,Win,NA,NA
+118,30,2,4 man,All Star,Dynasty,MJ,Riley,2000-01 Philadelphia 76ers,NA,Eric Snow,PG,4,1,5,0,0,1,0,6,0,1,4,4,1,1,0,Win,NA,NA
+118,30,2,4 man,All Star,Challenger,Frank,Nick,1971-72 New York Knicks,NA,Dave Debusschere,C,3,4,4,0,0,2,1,3,1,1,0,0,0,2,0,Loss,NA,NA
+118,30,2,4 man,All Star,Challenger,Nick,Frank,1971-72 New York Knicks,NA,Walt Frazier,PG,11,1,6,1,0,6,5,6,0,0,1,1,0,4,1,Loss,NA,NA
+119,30,3,4 man,All Star,Dynasty,Riley,MJ,2000-01 Philadelphia 76ers,NA,Allen Iverson,SG,25,4,3,4,0,1,9,16,0,1,7,7,2,2,2,Win,NA,NA
+119,30,3,4 man,All Star,Dynasty,MJ,Riley,2000-01 Philadelphia 76ers,NA,Eric Snow,PG,8,0,1,0,0,2,4,8,0,1,0,0,0,1,0,Win,NA,NA
+119,30,3,4 man,All Star,Challenger,Frank,Nick,All-Time Memphis Grizzlies,NA,Mike Conley,PG,0,1,6,0,1,3,0,6,0,2,0,2,0,2,0,Loss,NA,NA
+119,30,3,4 man,All Star,Challenger,Nick,Frank,All-Time Memphis Grizzlies,NA,Pau Gasol,PF,8,2,0,0,1,0,3,7,0,0,2,4,0,0,1,Loss,NA,NA
+120,31,1,5 man,All Star,Dynasty,Nick,NA,2003-04 Minnesota Timberwolves,NA,Latrell Sprewell,SF,0,0,1,1,0,1,0,4,0,1,0,0,0,1,0,Win,NA,NA
+120,31,1,5 man,All Star,Dynasty,MJ,NA,2003-04 Minnesota Timberwolves,NA,Trenton Hassell,SG,2,1,9,0,0,4,1,4,0,0,0,0,1,1,0,Win,NA,NA
+120,31,1,5 man,All Star,Dynasty,Guy,NA,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,4,3,0,2,1,2,2,4,0,0,0,1,1,2,1,Loss,NA,NA
+120,31,1,5 man,All Star,Challenger,Frank,NA,1997-98 Utah Jazz,NA,Bryon Russell,SF,0,0,1,0,0,0,0,7,0,5,0,0,0,3,0,Loss,NA,NA
+120,31,1,5 man,All Star,Challenger,Ben,NA,1997-98 Utah Jazz,NA,John Stockton,PG,2,2,6,4,0,2,1,6,0,2,0,2,0,1,0,Loss,NA,NA
+121,32,1,6 man,All Star,Challenger,Ben,NA,1993-94 Denver Nuggets,NA,Laphonso Ellis,PF,16,6,1,1,0,0,6,16,0,0,4,6,2,0,0,Loss,NA,NA
+121,32,1,6 man,All Star,Challenger,Riley,NA,1993-94 Denver Nuggets,NA,Reggie Williams,SF,0,1,3,1,0,1,0,3,0,0,0,0,0,0,0,Loss,NA,NA
+121,32,1,6 man,All Star,Challenger,Nick,NA,1993-94 Denver Nuggets,NA,Bryant Stith,SG,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+121,32,1,6 man,All Star,Dynasty,MJ,NA,Charlotte Hornets,NA,Mark Williams,C,6,12,1,0,2,0,3,7,0,0,0,2,4,0,1,Win,NA,NA
+121,32,1,6 man,All Star,Dynasty,Guy,NA,Charlotte Hornets,NA,Lamelo Ball,PG,4,2,7,0,0,3,1,4,0,1,2,2,0,1,1,Win,NA,NA
+121,32,1,6 man,All Star,Dynasty,Frank,NA,Charlotte Hornets,NA,P.J. Washington,PF,11,1,1,0,3,0,5,7,0,0,1,2,0,3,1,Win,NA,NA
+122,32,2,6 man,All Star,Challenger,Ben,NA,1985-86 Boston Celtics,NA,Larry Bird,SF,9,5,1,1,1,2,4,15,0,3,1,3,1,4,0,Loss,NA,NA
+122,32,2,6 man,All Star,Challenger,Riley,NA,1985-86 Boston Celtics,NA,Robert Parish,C,2,12,1,1,0,2,1,4,0,0,0,2,3,1,1,Loss,NA,NA
+122,32,2,6 man,All Star,Challenger,Nick,NA,1985-86 Boston Celtics,NA,Kevin McHale,PF,2,2,2,0,0,1,1,4,0,0,0,0,1,1,0,Loss,NA,NA
+122,32,2,6 man,All Star,Dynasty,MJ,NA,Charlotte Hornets,NA,Mark Williams,C,7,10,1,0,1,0,3,5,0,0,1,1,4,0,2,Win,NA,NA
+122,32,2,6 man,All Star,Dynasty,Guy,NA,Charlotte Hornets,NA,Lamelo Ball,PG,1,1,7,2,1,2,0,5,0,1,1,2,0,1,0,Win,NA,NA
+122,32,2,6 man,All Star,Dynasty,Frank,NA,Charlotte Hornets,NA,P.J. Washington,PF,3,4,1,1,0,0,1,5,1,3,0,2,0,0,0,Win,NA,NA
+123,32,3,6 man,All Star,Challenger,Riley,NA,1999-00 Portland Trail Blazers,NA,Detlef Schrempf,PF,5,3,4,5,0,2,2,6,0,2,1,2,1,2,0,Win,NA,NA
+123,32,3,6 man,All Star,Challenger,Ben,NA,1999-00 Portland Trail Blazers,NA,Scottie Pippen,SF,12,6,1,0,2,1,5,10,0,0,2,2,0,2,4,Win,NA,NA
+123,32,3,6 man,All Star,Challenger,Nick,NA,1999-00 Portland Trail Blazers,NA,Arvydas Sabonis,C,2,7,1,0,0,2,1,3,0,0,0,0,1,1,0,Win,NA,NA
+123,32,3,6 man,All Star,Dynasty,MJ,NA,Charlotte Hornets,NA,Mark Williams,C,2,12,1,0,1,4,1,2,0,0,0,0,2,1,1,Loss,NA,NA
+123,32,3,6 man,All Star,Dynasty,Guy,NA,Charlotte Hornets,NA,Lamelo Ball,PG,9,1,1,0,0,3,3,5,0,0,3,6,0,3,0,Loss,NA,NA
+123,32,3,6 man,All Star,Dynasty,Frank,NA,Charlotte Hornets,NA,P.J. Washington,PF,6,0,2,1,0,0,2,7,2,4,0,2,0,1,0,Loss,NA,NA
+124,33,1,6 man,All Star,CBC,Riley,NA,Orlando Magic,NA,Wendell Carter Jr.,C,0,10,1,1,2,2,0,10,0,4,0,0,3,1,0,Loss,NA,NA
+124,33,1,6 man,All Star,CBC,MJ,NA,Orlando Magic,NA,Paolo Banchero,PF,13,5,1,0,1,0,6,11,0,1,1,4,2,1,5,Loss,NA,NA
+124,33,1,6 man,All Star,CBC,Frank,NA,Orlando Magic,NA,Markelle Fultz,PG,7,0,3,1,1,0,2,7,0,0,3,3,0,3,1,Loss,NA,NA
+124,33,1,6 man,All Star,CBC,Guy,NA,1971-72 New York Knicks,NA,Dave Debusschere,PF,8,8,1,0,0,2,3,8,0,0,2,4,1,1,0,Win,NA,NA
+124,33,1,6 man,All Star,CBC,Nick,NA,1971-72 New York Knicks,NA,Jerry Lucas,C,1,3,3,0,0,0,0,4,0,0,1,2,1,1,0,Win,NA,NA
+124,33,1,6 man,All Star,CBC,Ben,NA,1971-72 New York Knicks,NA,Walt Frazier,PG,17,4,5,0,1,2,8,13,0,0,1,1,0,5,0,Win,NA,NA
+125,33,2,6 man,All Star,CBC,Riley,NA,2007-08 Denver Nuggets,NA,Carmelo Anthony,SF,3,6,5,0,2,1,1,9,0,2,1,3,0,1,0,Win,NA,NA
+125,33,2,6 man,All Star,CBC,MJ,NA,2007-08 Denver Nuggets,NA,Kenyon Martin,PF,15,9,0,0,4,1,7,9,0,0,1,3,4,1,2,Win,NA,NA
+125,33,2,6 man,All Star,CBC,Frank,NA,2007-08 Denver Nuggets,NA,Allen Iverson,PG,2,1,3,0,0,2,1,6,0,3,0,0,0,1,0,Win,NA,NA
+125,33,2,6 man,All Star,CBC,Guy,NA,1971-72 New York Knicks,NA,Dave Debusschere,PF,2,8,2,0,0,1,1,5,0,0,0,0,1,1,0,Loss,NA,NA
+125,33,2,6 man,All Star,CBC,Nick,NA,1971-72 New York Knicks,NA,Jerry Lucas,C,0,6,1,1,0,1,0,3,0,0,0,0,0,1,0,Loss,NA,NA
+125,33,2,6 man,All Star,CBC,Ben,NA,1971-72 New York Knicks,NA,Walt Frazier,PG,15,1,1,1,0,0,7,17,0,0,1,2,1,3,3,Loss,NA,NA
+126,34,1,4 man,All Star,Challenger,MJ,Frank,2006-07 Cleveland Cavaliers,NA,Eric Snow,PG,2,2,2,0,0,5,1,5,0,0,0,4,1,0,0,Loss,NA,NA
+126,34,1,4 man,All Star,Challenger,Frank,MJ,2006-07 Cleveland Cavaliers,NA,Larry Hughes,SG,4,0,1,0,0,3,2,7,0,3,0,0,0,4,0,Loss,NA,NA
+126,34,1,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,13,0,8,3,0,1,4,9,0,1,5,7,0,4,0,Win,NA,NA
+126,34,1,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,4,7,0,0,1,0,2,4,0,0,0,0,2,0,1,Win,NA,NA
+127,34,2,4 man,All Star,Challenger,MJ,Frank,2013-14 Los Angeles Clippers,NA,Matt Barnes,SF,1,1,2,0,0,1,0,3,0,1,1,2,0,0,0,Loss,NA,NA
+127,34,2,4 man,All Star,Challenger,Frank,MJ,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,4,7,0,1,2,2,2,7,0,0,0,4,3,1,1,Loss,NA,NA
+127,34,2,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,6,0,8,0,1,3,3,5,0,0,0,0,0,1,0,Win,NA,NA
+127,34,2,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,8,5,0,0,1,1,4,10,0,0,0,0,2,2,2,Win,NA,NA
+128,34,3,4 man,All Star,Challenger,MJ,Frank,1998-99 New York Knicks,NA,Allan Houston,SG,4,1,1,1,0,1,2,12,0,2,0,2,1,0,1,Loss,NA,NA
+128,34,3,4 man,All Star,Challenger,Frank,MJ,1998-99 New York Knicks,NA,Charlie Ward,PG,9,0,1,1,0,2,4,9,1,2,0,4,0,2,0,Loss,NA,NA
+128,34,3,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,25,0,3,2,0,6,10,21,1,2,4,8,0,4,0,Win,NA,NA
+128,34,3,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,4,9,0,0,1,0,2,4,0,0,0,0,0,0,1,Win,NA,NA
+129,34,4,4 man,All Star,Challenger,MJ,Frank,Milwaukee Bucks,1995-96 Chicago Bulls,Khris Middleton,SF,4,2,3,1,0,3,0,6,0,4,4,4,0,2,0,Loss,NA,NA
+129,34,4,4 man,All Star,Challenger,Frank,MJ,Milwaukee Bucks,1995-96 Chicago Bulls,Jrue Holiday,PG,0,1,2,0,0,4,0,4,0,3,0,0,0,5,4,Loss,NA,NA
+129,34,4,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,14,0,5,5,0,1,5,10,0,1,4,8,0,4,0,Win,NA,NA
+129,34,4,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,6,4,1,0,2,0,3,4,0,0,0,0,1,2,0,Win,NA,NA
+130,34,5,4 man,All Star,Challenger,MJ,Frank,2003-04 Los Angeles Lakers,1995-96 Chicago Bulls,Shaquille O'Neal,C,10,9,1,1,0,1,5,14,0,0,0,0,2,0,3,Loss,NA,NA
+130,34,5,4 man,All Star,Challenger,Frank,MJ,2003-04 Los Angeles Lakers,1995-96 Chicago Bulls,Rick Fox,SF,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,Loss,NA,NA
+130,34,5,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,0,0,9,1,0,3,0,2,0,2,0,0,0,2,0,Win,NA,NA
+130,34,5,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,0,5,0,0,1,0,0,0,0,0,0,2,0,1,0,Win,NA,NA
+131,34,6,4 man,All Star,Challenger,MJ,Frank,Dallas Mavericks,2005-06 Memphis Grizzlies,Kyrie Irving,SG,21,1,1,1,0,2,8,15,1,5,4,7,1,1,0,Loss,NA,NA
+131,34,6,4 man,All Star,Challenger,Frank,MJ,Dallas Mavericks,2005-06 Memphis Grizzlies,Reggie Bullock,PF,0,4,0,0,0,1,0,6,0,4,0,0,0,1,0,Loss,NA,NA
+131,34,6,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,3,0,14,1,0,4,1,3,1,1,0,0,0,2,0,Win,NA,NA
+131,34,6,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,5,5,0,0,0,1,2,3,0,0,1,3,1,1,0,Win,NA,NA
+132,34,7,4 man,All Star,Challenger,MJ,Frank,Charlotte Hornets,1994-95 Orlando Magic,Mark Williams,C,10,8,1,0,0,6,5,11,0,0,0,0,3,3,1,Loss,NA,NA
+132,34,7,4 man,All Star,Challenger,Frank,MJ,Charlotte Hornets,1994-95 Orlando Magic,Terry Rozier III,SG,2,0,4,1,1,5,1,8,0,3,0,0,0,2,1,Loss,NA,NA
+132,34,7,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,19,3,5,2,0,2,8,13,1,2,2,2,2,0,0,Win,NA,NA
+132,34,7,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,11,4,2,0,1,1,5,9,0,0,1,2,0,0,3,Win,NA,NA
+133,34,8,4 man,All Star,Challenger,MJ,Frank,1997-98 Los Angeles Lakers,Portland Trail Blazers,Rick Fox,SF,9,0,5,1,0,1,3,5,1,2,2,2,0,2,2,Loss,NA,NA
+133,34,8,4 man,All Star,Challenger,Frank,MJ,1997-98 Los Angeles Lakers,Portland Trail Blazers,Shaquille O'Neal,C,6,10,1,0,3,1,3,9,0,0,0,6,0,1,1,Loss,NA,NA
+133,34,8,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,7,2,9,1,0,1,3,7,0,0,1,2,0,2,0,Win,NA,NA
+133,34,8,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,0,10,0,0,1,1,0,5,0,0,0,0,1,2,0,Win,NA,NA
+134,34,9,4 man,All Star,Challenger,MJ,Frank,2018-19 Toronto Raptors,Washington Wizards,Danny Green,SG,4,1,4,2,1,0,1,4,0,0,2,6,0,1,0,Loss,NA,NA
+134,34,9,4 man,All Star,Challenger,Frank,MJ,2018-19 Toronto Raptors,Washington Wizards,Serge Ibaka,C,6,5,1,2,1,1,2,6,0,2,2,4,0,1,1,Loss,NA,NA
+134,34,9,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,3,1,7,2,0,7,0,5,0,1,3,3,1,2,0,Win,NA,NA
+134,34,9,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,2,4,0,0,0,0,1,3,0,0,0,0,0,1,2,Win,NA,NA
+135,35,1,4 man,All Star,Dynasty,Ben,Guy,Cleveland Cavaliers,NA,Isaac Okoro,SF,8,1,1,0,0,2,3,10,0,2,2,2,1,1,2,Win,NA,NA
+135,35,1,4 man,All Star,Dynasty,Guy,Ben,Cleveland Cavaliers,NA,Jarrett Allen,C,7,11,2,1,0,1,2,4,0,1,3,6,1,4,2,Win,NA,NA
+135,35,1,4 man,All Star,Challenger,MJ,Frank,1993-94 Houston Rockets,NA,Robert Horry,SF,3,1,2,0,0,2,0,6,0,3,3,4,0,3,0,Loss,NA,NA
+135,35,1,4 man,All Star,Challenger,Frank,MJ,1993-94 Houston Rockets,NA,Hakeem Olajuwon,C,15,12,1,0,2,0,7,16,0,0,1,2,5,2,4,Loss,NA,NA
+136,26,2,5 man,All Star,Dynasty,Ben,NA,Denver Nuggets,NA,Nikola Jokic,C,8,10,4,0,1,1,4,10,0,2,0,0,2,0,2,Win,TRUE,NA
+136,26,2,5 man,All Star,Dynasty,Frank,NA,Denver Nuggets,NA,Michael Porter Jr.,SF,5,1,7,1,0,1,2,2,0,0,1,2,0,1,2,Win,TRUE,NA
+136,26,2,5 man,All Star,Challenger,Riley,NA,2015-16 Cleveland Cavaliers,NA,Tristan Thompson,C,2,8,2,2,0,1,1,1,0,0,0,0,1,0,0,Loss,TRUE,NA
+136,26,2,5 man,All Star,Challenger,Guy,NA,2015-16 Cleveland Cavaliers,NA,J.R. Smith,SG,0,0,4,1,0,3,0,3,0,2,0,0,0,1,0,Loss,TRUE,NA
+136,26,2,5 man,All Star,Challenger,MJ,NA,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,2,5,1,0,0,0,1,3,0,1,0,0,3,1,1,Loss,TRUE,NA
+137,26,3,5 man,All Star,Dynasty,Ben,NA,Denver Nuggets,NA,Nikola Jokic,C,12,10,3,0,0,1,4,10,0,2,4,6,0,1,3,Loss,NA,NA
+137,26,3,5 man,All Star,Dynasty,Frank,NA,Denver Nuggets,NA,Michael Porter Jr.,SF,10,0,1,1,0,1,3,10,0,4,4,5,0,1,3,Loss,NA,NA
+137,26,3,5 man,All Star,Challenger,Riley,NA,2013-14 San Antonio Spurs,NA,Kawhi Leonard,SF,26,3,4,2,0,0,11,17,1,2,3,3,1,2,8,Win,NA,NA
+137,26,3,5 man,All Star,Challenger,Guy,NA,2013-14 San Antonio Spurs,NA,Tony Parker,PG,7,0,4,1,0,1,2,9,1,5,2,2,0,2,0,Win,NA,NA
+137,26,3,5 man,All Star,Challenger,MJ,NA,2013-14 San Antonio Spurs,NA,Danny Green,SG,8,1,2,0,0,1,2,4,2,2,2,4,0,1,0,Win,NA,NA
+138,8,5,4 man,All Star,Dynasty,Ben,MJ,2001-02 Sacramento Kings,NA,Scot Pollard,PF,4,5,3,0,0,2,2,2,0,0,0,2,0,0,1,Win,NA,NA
+138,8,5,4 man,All Star,Dynasty,MJ,Ben,2001-02 Sacramento Kings,NA,Mike Bibby,PG,16,2,7,1,0,3,5,11,0,0,6,8,0,3,0,Win,NA,NA
+138,8,5,4 man,All Star,Challenger,Riley,Guy,1971-72 New York Knicks,Washington Wizards,Bill Bradley,SF,2,3,3,2,0,1,1,4,0,2,0,0,0,3,1,Loss,NA,NA
+138,8,5,4 man,All Star,Challenger,Guy,Riley,1971-72 New York Knicks,Washington Wizards,Dick Barnett,SG,2,0,1,1,0,1,1,3,0,1,0,8,0,1,1,Loss,NA,NA
+139,8,6,4 man,All Star,Dynasty,Ben,MJ,2001-02 Sacramento Kings,NA,Scot Pollard,PF,0,4,1,1,0,0,0,0,0,0,0,0,0,1,0,Loss,NA,NA
+139,8,6,4 man,All Star,Dynasty,MJ,Ben,2001-02 Sacramento Kings,NA,Mike Bibby,PG,10,0,3,0,0,5,4,13,1,3,1,2,0,3,0,Loss,NA,NA
+139,8,6,4 man,All Star,Challenger,Riley,Guy,Minnesota Timberwolves,2004-05 San Antonio Spurs,Jaden McDaniels,SF,2,0,3,1,0,3,1,3,0,2,0,0,0,0,0,Win,NA,NA
+139,8,6,4 man,All Star,Challenger,Guy,Riley,Minnesota Timberwolves,2004-05 San Antonio Spurs,Mike Conley,PG,14,2,7,1,0,1,5,11,0,1,4,4,0,2,0,Win,NA,NA
+140,36,1,4 man,All Star,Challenger,Riley,Ben,Orlando Magic,NA,Franz Wagner,SF,8,1,4,3,0,2,3,12,0,4,2,2,0,3,2,Loss,NA,NA
+140,36,1,4 man,All Star,Challenger,Ben,Riley,Orlando Magic,NA,Paolo Banchero,PF,8,4,2,0,1,0,3,6,0,0,2,4,0,1,0,Loss,NA,NA
+140,36,1,4 man,All Star,Dynasty,Guy,MJ,New Orleans Pelicans,NA,C.J. McCollum,PG,2,2,6,0,0,4,1,5,0,2,0,0,1,2,0,Win,NA,NA
+140,36,1,4 man,All Star,Dynasty,MJ,Guy,New Orleans Pelicans,NA,Brandon Ingram,SF,10,3,2,0,0,1,4,10,0,1,2,2,2,1,3,Win,NA,NA
+141,37,1,5 man,All Star,CBC,MJ,NA,1995-96 Chicago Bulls,NA,Michael Jordan,SG,21,3,5,1,1,1,8,16,0,1,5,9,0,3,4,Win,NA,NA
+141,37,1,5 man,All Star,CBC,Frank,NA,1995-96 Chicago Bulls,NA,Luc Longley,C,0,10,2,1,1,0,0,2,0,0,0,0,1,2,0,Win,NA,NA
+141,37,1,5 man,All Star,CBC,Guy,NA,1997-98 Los Angeles Lakers,NA,Shaquille O'Neal,C,2,12,1,0,3,1,1,14,0,0,0,2,4,4,0,Loss,NA,NA
+141,37,1,5 man,All Star,CBC,Nick,NA,1997-98 Los Angeles Lakers,NA,Nick Van Exel,PG,0,0,1,0,0,2,0,1,0,1,0,0,0,0,0,Loss,NA,NA
+141,37,1,5 man,All Star,CBC,Riley,NA,1997-98 Los Angeles Lakers,NA,Rick Fox,SF,1,0,2,2,0,5,0,3,0,1,1,3,0,3,0,Loss,NA,NA
+142,37,2,5 man,All Star,CBC,MJ,NA,1995-96 Chicago Bulls,NA,Michael Jordan,SG,18,1,0,0,1,3,6,19,0,3,6,8,0,3,5,Loss,NA,NA
+142,37,2,5 man,All Star,CBC,Frank,NA,1995-96 Chicago Bulls,NA,Luc Longley,C,0,10,1,0,1,0,0,1,0,0,0,2,2,1,0,Loss,NA,NA
+142,37,2,5 man,All Star,CBC,Guy,NA,2003-04 Detroit Pistons,NA,Chauncey Billups,PG,8,0,6,2,1,2,3,10,0,4,2,2,0,4,0,Win,NA,NA
+142,37,2,5 man,All Star,CBC,Nick,NA,2003-04 Detroit Pistons,NA,Darko Milicic,PF,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,Win,NA,NA
+142,37,2,5 man,All Star,CBC,Riley,NA,2003-04 Detroit Pistons,NA,Ben Wallace,C,15,8,0,1,1,0,7,10,0,0,1,5,0,3,5,Loss,NA,NA
+143,38,1,5 man,All Star,Challenger,Guy,NA,2005-06 Memphis Grizzlies,NA,Pau Gasol,C,10,7,2,2,2,3,5,12,0,0,0,0,1,1,2,Loss,NA,NA
+143,38,1,5 man,All Star,Challenger,Riley,NA,2005-06 Memphis Grizzlies,NA,Mike Miller,SG,12,1,4,2,0,2,5,10,2,5,0,0,0,4,0,Loss,NA,NA
+143,38,1,5 man,All Star,Challenger,Frank,NA,2005-06 Memphis Grizzlies,NA,Shane Battier,PF,0,2,3,1,0,1,0,3,0,1,0,2,0,2,0,Loss,NA,NA
+143,38,1,5 man,All Star,Dynasty,MJ,NA,Phoenix Suns,NA,Devin Booker,SG,21,1,2,1,0,3,7,11,0,0,7,7,1,1,4,Win,NA,NA
+143,38,1,5 man,All Star,Dynasty,Nick,NA,Phoenix Suns,NA,Deandre Ayton,C,2,13,1,0,0,3,1,3,0,0,0,0,1,1,0,Win,NA,NA
+144,38,2,5 man,All Star,Challenger,Guy,NA,2006-07 Washington Wizards,NA,Gilbert Arenas,PG,8,2,2,0,0,2,2,12,1,7,3,3,0,3,0,Loss,NA,NA
+144,38,2,5 man,All Star,Challenger,Riley,NA,2006-07 Washington Wizards,NA,Deshawn Stevenson,SG,9,3,1,2,0,1,3,10,1,4,2,2,1,3,1,Loss,NA,NA
+144,38,2,5 man,All Star,Challenger,Frank,NA,2006-07 Washington Wizards,NA,Brendan Haywood,C,2,13,0,1,0,6,1,4,0,0,0,4,4,0,0,Loss,NA,NA
+144,38,2,5 man,All Star,Dynasty,MJ,NA,Phoenix Suns,NA,Devin Booker,SG,13,2,3,1,0,5,5,15,0,2,3,4,0,4,2,Win,NA,NA
+144,38,2,5 man,All Star,Dynasty,Nick,NA,Phoenix Suns,NA,Deandre Ayton,C,0,11,2,0,0,0,0,2,0,0,0,0,1,3,0,Win,NA,NA
+145,36,2,4 man,All Star,Challenger,Riley,Ben,Cleveland Cavaliers,NA,Evan Mobley,PF,2,6,6,3,2,2,1,3,0,0,0,0,4,1,0,Loss,NA,NA
+145,36,2,4 man,All Star,Challenger,Ben,Riley,Cleveland Cavaliers,NA,Jarrett Allen,C,9,8,0,1,3,0,4,4,0,0,1,2,2,1,3,Loss,NA,NA
+145,36,2,4 man,All Star,Dynasty,Guy,MJ,New Orleans Pelicans,NA,C.J. McCollum,PG,2,0,5,0,0,2,0,1,0,1,2,2,0,2,0,Win,NA,NA
+145,36,2,4 man,All Star,Dynasty,MJ,Guy,New Orleans Pelicans,NA,Brandon Ingram,SF,7,4,4,0,0,0,3,10,0,3,1,2,2,1,4,Win,NA,NA
+146,36,3,4 man,All Star,Challenger,Riley,Ben,2006-07 Washington Wizards,NA,Antawn Jamison,PF,11,11,3,4,0,2,2,3,1,2,6,6,2,2,1,Win,NA,NA
+146,36,3,4 man,All Star,Challenger,Ben,Riley,2006-07 Washington Wizards,NA,Gilbert Arenas,PG,21,1,7,2,0,1,9,16,0,2,3,4,0,0,7,Win,NA,NA
+146,36,3,4 man,All Star,Dynasty,Guy,MJ,New Orleans Pelicans,NA,C.J. McCollum,PG,4,1,2,0,0,6,1,3,0,1,2,2,0,2,0,Loss,NA,NA
+146,36,3,4 man,All Star,Dynasty,MJ,Guy,New Orleans Pelicans,NA,Brandon Ingram,SF,8,2,3,0,0,3,3,13,2,8,0,1,0,1,0,Loss,NA,NA
+147,39,1,4 man,All Star,CBC,Riley,MJ,Orlando Magic,NA,Gary Harris,SG,15,1,3,2,0,0,4,11,4,6,3,4,0,4,0,Win,NA,NA
+147,39,1,4 man,All Star,CBC,MJ,Riley,Orlando Magic,NA,Paolo Banchero,PF,3,4,2,1,0,1,1,5,0,0,1,2,1,1,1,Win,NA,NA
+147,39,1,4 man,All Star,CBC,Guy,Ben,1993-94 Houston Rockets,NA,Hakeem Olajuwon,C,22,8,1,0,2,4,10,16,0,0,2,7,1,2,2,Loss,NA,NA
+147,39,1,4 man,All Star,CBC,Ben,Guy,1993-94 Houston Rockets,NA,Vernon Maxwell,SG,4,1,7,0,0,2,1,3,0,1,2,2,0,3,1,Loss,NA,NA
+148,39,2,4 man,All Star,CBC,Riley,MJ,Orlando Magic,NA,Gary Harris,SG,4,0,7,1,0,1,2,7,0,4,0,0,0,2,0,Loss,TRUE,NA
+148,39,2,4 man,All Star,CBC,MJ,Riley,Orlando Magic,NA,Paolo Banchero,PF,4,4,3,1,1,1,2,4,0,0,0,2,0,1,1,Loss,TRUE,NA
+148,39,2,4 man,All Star,CBC,Guy,Ben,1996-97 Miami Heat,NA,Tim Hardaway,PG,4,0,10,1,0,2,2,8,0,4,0,2,0,1,0,Win,TRUE,NA
+148,39,2,4 man,All Star,CBC,Ben,Guy,1996-97 Miami Heat,NA,Jamal Mashburn,SF,12,2,2,1,0,0,4,8,0,1,4,4,2,2,3,Win,TRUE,NA
+149,40,1,6 man,All Star,Dynasty,Ben,NA,Utah Jazz,NA,Lauri Markkanen,SF,17,3,3,0,0,0,8,10,1,1,0,0,0,0,5,Win,NA,NA
+149,40,1,6 man,All Star,Dynasty,Guy,NA,Utah Jazz,NA,Walker Kessler,C,6,9,3,0,2,2,3,7,0,0,0,3,1,1,0,Win,NA,NA
+149,40,1,6 man,All Star,Dynasty,Riley,NA,Utah Jazz,NA,Colin Sexton,PG,10,2,7,1,0,1,5,8,0,2,0,0,0,5,1,Win,NA,NA
+149,40,1,6 man,All Star,Challenger,MJ,NA,New York Knicks,NA,Jalen Brunson,PG,14,0,4,1,0,1,5,17,1,4,3,4,0,1,0,Loss,NA,NA
+149,40,1,6 man,All Star,Challenger,Frank,NA,New York Knicks,NA,R.J. Barrett,SF,8,1,1,1,0,1,3,9,0,0,2,2,0,0,3,Loss,NA,NA
+149,40,1,6 man,All Star,Challenger,Nick,NA,New York Knicks,NA,Mitchell Robinson,C,4,8,1,0,1,1,2,2,0,0,0,0,5,0,0,Loss,NA,NA
+150,40,2,6 man,All Star,Dynasty,Ben,NA,Utah Jazz,NA,Lauri Markkanen,SF,5,8,2,0,0,2,2,9,1,2,0,0,3,0,1,Win,NA,NA
+150,40,2,6 man,All Star,Dynasty,Guy,NA,Utah Jazz,NA,Walker Kessler,C,12,9,1,0,1,1,6,7,0,0,0,2,3,0,3,Win,NA,NA
+150,40,2,6 man,All Star,Dynasty,Riley,NA,Utah Jazz,NA,Colin Sexton,PG,11,1,6,3,0,1,4,13,1,5,2,2,1,3,2,Win,NA,NA
+150,40,2,6 man,All Star,Challenger,MJ,NA,Miami Heat,NA,Jimmy Butler,SF,12,1,2,1,0,1,3,11,2,5,4,4,0,1,0,Loss,NA,NA
+150,40,2,6 man,All Star,Challenger,Frank,NA,Miami Heat,NA,Tyler Herro,SG,5,1,1,0,1,1,2,5,0,3,1,2,0,0,0,Loss,NA,NA
+150,40,2,6 man,All Star,Challenger,Nick,NA,Miami Heat,NA,Kyle Lowry,PG,0,1,2,1,0,2,0,4,0,1,0,0,0,0,0,Loss,NA,NA
+151,40,3,6 man,All Star,Dynasty,Ben,NA,Utah Jazz,NA,Lauri Markkanen,SF,5,4,2,1,2,1,2,5,0,1,1,4,1,1,1,Win,NA,NA
+151,40,3,6 man,All Star,Dynasty,Guy,NA,Utah Jazz,NA,Walker Kessler,C,2,9,0,0,1,1,1,2,0,0,0,0,0,0,1,Win,NA,NA
+151,40,3,6 man,All Star,Dynasty,Riley,NA,Utah Jazz,NA,Colin Sexton,PG,13,0,3,3,0,5,5,7,1,1,2,2,0,2,2,Win,NA,NA
+151,40,3,6 man,All Star,Challenger,MJ,NA,2004-05 San Antonio Spurs,NA,Tony Parker,PG,3,2,2,1,0,2,1,10,0,0,1,2,2,2,0,Loss,NA,NA
+151,40,3,6 man,All Star,Challenger,Frank,NA,2004-05 San Antonio Spurs,NA,Bruce Bowen,SG,4,1,1,1,0,0,2,7,0,1,0,2,1,0,0,Loss,NA,NA
+151,40,3,6 man,All Star,Challenger,Nick,NA,2004-05 San Antonio Spurs,NA,Tim Duncan,PF,0,8,0,0,0,3,0,2,0,0,0,0,2,0,0,Loss,NA,NA
+152,20,2,4 man,All Star,CBC,Guy,MJ,Indiana Pacers,NA,Myles Turner,C,4,3,1,0,3,2,2,9,0,3,0,0,1,2,1,Loss,NA,NA
+152,20,2,4 man,All Star,CBC,MJ,Guy,Indiana Pacers,NA,Tyrese Haliburton,PG,11,5,2,1,1,2,5,12,0,4,1,2,1,1,3,Loss,NA,NA
+152,20,2,4 man,All Star,CBC,Ben,Nick,2012-13 Miami Heat,NA,Shane Battier,PF,4,7,4,0,1,2,2,3,0,0,0,0,0,0,1,Win,NA,NA
+152,20,2,4 man,All Star,CBC,Nick,Ben,2012-13 Miami Heat,NA,Mario Chalmers,PG,0,3,4,1,0,1,0,2,0,1,0,0,1,1,0,Win,NA,NA
+153,27,2,5 man,All Star,CBC,Nick,NA,2000-01 Philadelphia 76ers,NA,Allen Iverson,SG,8,0,6,0,0,1,2,8,0,2,4,4,0,0,0,Loss,NA,NA
+153,27,2,5 man,All Star,CBC,Guy,NA,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,6,1,0,1,2,0,3,3,0,0,0,0,1,0,1,Loss,NA,NA
+153,27,2,5 man,All Star,CBC,Riley,NA,2000-01 Philadelphia 76ers,NA,Dikembe Mutombo,C,4,3,3,1,0,1,2,3,0,0,0,2,1,1,2,Loss,NA,NA
+153,27,2,5 man,All Star,CBC,Ben,NA,Houston Rockets,NA,Jalen Green,SG,13,1,3,0,1,2,6,11,1,4,0,0,0,2,2,Win,NA,NA
+153,27,2,5 man,All Star,CBC,MJ,NA,Houston Rockets,NA,Kevin Porter Jr.,PG,0,0,5,0,0,0,0,4,0,1,0,0,0,1,0,Win,NA,NA
+154,42,1,5 man,All Star,Challenger,Nick,NA,1964-65 Los Angeles Lakers,NA,Jerry West,PG,2,1,3,0,0,4,1,9,0,5,0,2,0,2,0,Loss,NA,NA
+154,42,1,5 man,All Star,Challenger,Ben,NA,1964-65 Los Angeles Lakers,NA,Rudy Larusso,C,5,11,1,0,1,3,2,5,0,0,1,2,1,4,0,Loss,NA,NA
+154,42,1,5 man,All Star,Challenger,MJ,NA,1964-65 Los Angeles Lakers,NA,Don Nelson,PF,10,4,1,0,0,2,5,10,0,0,0,0,1,1,0,Loss,NA,NA
+154,42,1,5 man,All Star,Dynasty,Guy,NA,Chicago Bulls,NA,Lonzo Ball,PG,21,3,4,2,3,0,6,18,4,11,5,8,0,3,2,Win,NA,NA
+154,42,1,5 man,All Star,Dynasty,Riley,NA,Chicago Bulls,NA,Demar Derozan,PF,17,3,2,1,1,0,7,11,1,2,2,2,1,2,4,Win,NA,NA
+155,42,2,5 man,All Star,Challenger,Nick,NA,Washington Wizards,NA,Monte Morris,PG,4,2,7,0,1,3,1,2,0,0,2,2,0,0,0,Loss,NA,NA
+155,42,2,5 man,All Star,Challenger,Ben,NA,Washington Wizards,NA,Kristaps Porzingis,PF,20,6,3,1,0,1,9,13,0,1,2,2,1,1,3,Loss,NA,NA
+155,42,2,5 man,All Star,Challenger,MJ,NA,Washington Wizards,NA,Kyle Kuzma,SF,0,2,2,1,0,4,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+155,42,2,5 man,All Star,Dynasty,Guy,NA,Chicago Bulls,NA,Lonzo Ball,PG,2,0,10,3,0,2,1,10,0,5,0,0,0,3,0,Win,NA,NA
+155,42,2,5 man,All Star,Dynasty,Riley,NA,Chicago Bulls,NA,Demar Derozan,PF,22,2,3,3,0,0,10,14,2,3,0,0,1,1,5,Win,NA,NA
+156,28,4,4 man,All Star,Dynasty,Guy,Ben,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,0,1,5,1,0,2,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+156,28,4,4 man,All Star,Dynasty,Ben,Guy,2010-11 Dallas Mavericks,NA,Shawn Marion,SF,5,2,1,0,0,0,2,3,0,0,1,4,0,1,2,Loss,NA,NA
+156,28,4,4 man,All Star,Challenger,Riley,Nick,2015-16 Cleveland Cavaliers,NA,Tristan Thompson,C,0,7,8,0,0,2,0,1,0,1,0,0,1,2,0,Win,NA,NA
+156,28,4,4 man,All Star,Challenger,Nick,Riley,2015-16 Cleveland Cavaliers,NA,J.R. Smith,SG,0,1,1,0,0,0,0,1,0,1,0,0,1,2,0,Win,NA,NA
+157,34,10,4 man,All Star,Challenger,MJ,Frank,1986-87 Los Angeles Lakers,1998-99 New York Knicks,Kareem Abdul-Jabar,C,18,8,2,0,2,1,8,10,0,0,2,2,2,1,5,Win,NA,NA
+157,34,10,4 man,All Star,Challenger,Frank,MJ,1986-87 Los Angeles Lakers,1998-99 New York Knicks,Sam Perkins,PF,2,3,0,0,1,2,1,3,0,0,0,0,0,0,0,Win,NA,NA
+157,34,10,4 man,All Star,Dynasty,Riley,Ben,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,8,0,9,0,0,1,4,4,0,0,0,0,0,1,0,Loss,NA,NA
+157,34,10,4 man,All Star,Dynasty,Ben,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,2,1,0,1,0,0,1,2,0,0,0,0,0,2,0,Loss,NA,NA
+158,43,1,4 man,All Star,Challenger,Frank,Riley,2013-14 Los Angeles Clippers,NA,J.J. Redick,SG,9,0,3,2,0,1,3,12,3,12,0,0,0,1,0,Loss,NA,NA
+158,43,1,4 man,All Star,Challenger,Riley,Frank,2013-14 Los Angeles Clippers,NA,Matt Barnes,SF,0,2,0,1,0,1,0,3,0,2,0,0,0,1,0,Loss,NA,NA
+158,43,1,4 man,All Star,Dynasty,MJ,Ben,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,11,12,1,0,5,0,5,8,0,0,1,1,2,0,3,Win,NA,NA
+158,43,1,4 man,All Star,Dynasty,Ben,MJ,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,10,3,2,0,0,1,4,6,0,0,2,2,0,0,3,Win,NA,NA
+159,43,2,4 man,All Star,Challenger,Frank,Riley,1990-91 Portland Trail Blazers,NA,Terry Porter,PG,10,0,1,2,0,2,4,15,2,4,0,0,0,4,0,Loss,NA,NA
+159,43,2,4 man,All Star,Challenger,Riley,Frank,1990-91 Los Angeles Lakers,NA,Kevin Duckworth,C,0,3,2,1,0,0,0,5,0,0,0,2,1,1,0,Loss,NA,NA
+159,43,2,4 man,All Star,Dynasty,MJ,Ben,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,6,15,2,0,2,3,3,4,0,0,0,0,3,2,1,Win,NA,NA
+159,43,2,4 man,All Star,Dynasty,Ben,MJ,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,21,2,1,0,1,2,8,11,0,2,5,5,0,0,4,Win,NA,NA
+160,43,3,4 man,All Star,Challenger,Frank,Riley,Minnesota Timberwolves,NA,Rudy Gobert,C,2,4,0,0,1,0,1,3,0,0,0,2,1,2,0,Loss,NA,NA
+160,43,3,4 man,All Star,Challenger,Riley,Frank,Minnesota Timberwolves,NA,Karl Anthony-Towns,PF,17,5,1,2,0,2,7,15,2,8,1,2,1,4,2,Loss,NA,NA
+160,43,3,4 man,All Star,Dynasty,MJ,Ben,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,4,7,2,0,2,2,0,2,0,0,4,4,0,0,0,Win,NA,NA
+160,43,3,4 man,All Star,Dynasty,Ben,MJ,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,21,1,0,0,0,3,7,10,1,2,6,6,0,4,3,Win,NA,NA
+161,43,4,4 man,All Star,Challenger,Frank,Riley,Charlotte Hornets,1993-94 Houston Rockets,Gordon Hayward,SF,4,1,0,2,0,0,1,6,0,3,2,2,1,2,0,Loss,NA,NA
+161,43,4,4 man,All Star,Challenger,Riley,Frank,Charlotte Hornets,1993-94 Houston Rockets,Lamelo Ball,PG,2,4,3,0,0,2,1,11,0,3,0,0,1,1,0,Loss,NA,NA
+161,43,4,4 man,All Star,Dynasty,MJ,Ben,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,16,14,1,0,1,2,6,10,0,0,4,5,2,0,0,Win,NA,NA
+161,43,4,4 man,All Star,Dynasty,Ben,MJ,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,3,5,1,0,0,1,0,9,0,1,3,4,0,2,0,Win,NA,NA
+162,43,5,4 man,All Star,Challenger,Frank,Riley,Indiana Pacers,1985-86 Chicago Bulls,Chris Duarte,SG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+162,43,5,4 man,All Star,Challenger,Riley,Frank,Indiana Pacers,1985-86 Chicago Bulls,Buddy Hield,SF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+162,43,5,4 man,All Star,Dynasty,MJ,Ben,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+162,43,5,4 man,All Star,Dynasty,Ben,MJ,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+163,44,1,4 man,All Star,Challenger,Riley,MJ,2009-10 Portland Trail Blazers,NA,Nicholas Batum,SF,8,3,1,1,0,3,3,8,0,2,2,2,0,0,2,Loss,NA,NA
+163,44,1,4 man,All Star,Challenger,MJ,Riley,2009-10 Portland Trail Blazers,NA,Rudy Fernandez,SG,8,4,5,0,0,3,2,8,1,3,3,4,1,0,1,Loss,NA,NA
+163,44,1,4 man,All Star,Dynasty,Ben,Frank,2004-05 San Antonio Spurs,NA,Robert Horry,SF,7,1,3,2,1,2,2,6,1,2,2,2,1,1,0,Win,NA,NA
+163,44,1,4 man,All Star,Dynasty,Frank,Ben,2004-05 San Antonio Spurs,NA,Bruce Bowen,SG,13,1,1,2,0,0,6,16,1,4,0,1,0,4,1,Win,NA,NA
+164,44,2,4 man,All Star,Challenger,Riley,MJ,Team Lebron,NA,Luka Doncic,SG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+164,44,2,4 man,All Star,Challenger,MJ,Riley,Team Lebron,NA,Joel Embiid,PF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+164,44,2,4 man,All Star,Dynasty,Ben,Frank,2004-05 San Antonio Spurs,NA,Robert Horry,SF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+164,44,2,4 man,All Star,Dynasty,Frank,Ben,2004-05 San Antonio Spurs,NA,Bruce Bowen,SG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+165,44,3,4 man,All Star,Challenger,Riley,MJ,1997-98 Chicago Bulls,NA,Michael Jordan,SG,32,3,2,2,1,4,13,23,0,1,6,8,2,0,8,Win,NA,NA
+165,44,3,4 man,All Star,Challenger,MJ,Riley,1997-98 Chicago Bulls,NA,Dennis Rodman,PF,0,9,3,0,0,0,0,0,0,0,0,0,0,1,0,Win,NA,NA
+165,44,3,4 man,All Star,Dynasty,Ben,Frank,2004-05 San Antonio Spurs,NA,Robert Horry,SF,3,2,1,2,0,2,1,4,1,1,0,0,0,0,0,Loss,NA,NA
+165,44,3,4 man,All Star,Dynasty,Frank,Ben,2004-05 San Antonio Spurs,NA,Bruce Bowen,SG,13,0,3,0,0,1,6,12,1,3,0,0,0,2,3,Loss,NA,NA
+166,45,1,4 man,All Star,Challenger,Riley,Ben,San Antonio Spurs,NA,Malaki Branham,SG,21,1,5,2,0,3,9,10,0,0,3,4,0,3,5,Loss,NA,NA
+166,45,1,4 man,All Star,Challenger,Ben,Riley,San Antonio Spurs,NA,Jeremy Sochan,PF,5,5,1,0,0,1,2,3,0,0,1,6,1,2,0,Loss,NA,NA
+166,45,1,4 man,All Star,CBC,MJ,Frank,2013-14 Indiana Pacers,NA,George Hill,PG,13,0,6,0,0,2,4,10,1,3,4,4,0,3,1,Win,NA,NA
+166,45,1,4 man,All Star,CBC,Frank,MJ,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,9,2,2,1,0,0,4,8,0,2,1,2,0,2,3,Win,NA,NA
+167,45,2,4 man,All Star,Challenger,Riley,Ben,2005-06 Memphis Grizzlies,NA,Eddie Jones,SF,3,2,2,0,0,1,1,5,0,1,1,2,1,1,1,Win,NA,NA
+167,45,2,4 man,All Star,Challenger,Ben,Riley,2005-06 Memphis Grizzlies,NA,Shane Battier,PF,6,4,4,0,0,0,2,7,1,3,1,2,0,0,0,Win,NA,NA
+167,45,2,4 man,All Star,CBC,MJ,Frank,2013-14 Indiana Pacers,NA,George Hill,PG,3,2,3,1,0,6,1,6,1,4,0,0,0,1,0,Loss,NA,NA
+167,45,2,4 man,All Star,CBC,Frank,MJ,2013-14 Indiana Pacers,NA,Lance Stephenson,SG,0,0,3,0,0,0,0,2,0,0,0,0,0,2,0,Loss,NA,NA
+168,46,1,5 man,All Star,Challenger,Ben,NA,New York Knicks,NA,Josh Hart,SG,5,1,2,0,0,2,1,7,0,2,3,3,1,2,0,Loss,NA,NA
+168,46,1,5 man,All Star,Challenger,Nick,NA,New York Knicks,NA,Mitchell Robinson,C,2,6,0,0,1,1,1,1,0,0,0,0,0,1,1,Loss,NA,NA
+168,46,1,5 man,All Star,Challenger,Frank,NA,New York Knicks,NA,Jalen Brunson,PG,1,0,4,0,0,2,0,3,0,2,1,2,0,3,0,Loss,NA,NA
+168,46,1,5 man,All Star,Dynasty,MJ,NA,2015-16 Golden State Warriors,NA,Andre Iguodala,PF,2,6,2,0,1,0,1,3,0,0,0,2,0,0,0,Win,NA,NA
+168,46,1,5 man,All Star,Dynasty,Riley,NA,2015-16 Golden State Warriors,NA,Klay Thompson,SG,3,0,5,0,0,2,1,6,0,3,1,2,0,4,1,Win,NA,NA
+169,46,2,5 man,All Star,Challenger,Ben,NA,1997-98 Utah Jazz,NA,Karl Malone,PF,31,15,0,0,1,3,14,22,0,1,3,7,5,3,6,Loss,TRUE,TRUE
+169,46,2,5 man,All Star,Challenger,Nick,NA,1997-98 Utah Jazz,NA,John Stockton,PG,4,1,7,2,0,3,2,6,0,0,0,0,0,0,0,Loss,TRUE,TRUE
+169,46,2,5 man,All Star,Challenger,Frank,NA,1997-98 Utah Jazz,NA,Byron Russell,SF,1,1,5,0,0,1,0,1,0,0,1,2,0,2,0,Loss,TRUE,TRUE
+169,46,2,5 man,All Star,Dynasty,MJ,NA,2015-16 Golden State Warriors,NA,Andre Iguodala,PF,6,6,6,0,0,2,3,4,0,0,0,0,1,2,1,Win,TRUE,TRUE
+169,46,2,5 man,All Star,Dynasty,Riley,NA,2015-16 Golden State Warriors,NA,Klay Thompson,SG,6,3,4,4,2,1,3,6,0,0,0,0,0,3,2,Win,TRUE,TRUE
+170,46,3,5 man,All Star,Challenger,Ben,NA,2006-07 Cleveland Cavaliers,NA,Zydrunas Ilgauskas,C,8,14,2,0,4,2,4,4,0,0,0,0,3,0,1,Loss,NA,NA
+170,46,3,5 man,All Star,Challenger,Nick,NA,2006-07 Cleveland Cavaliers,NA,LeBron James,SF,6,1,2,0,1,2,2,11,0,2,2,4,0,1,1,Loss,NA,NA
+170,46,3,5 man,All Star,Challenger,Frank,NA,2006-07 Cleveland Cavaliers,NA,Larry Hughes,SG,7,0,2,0,1,0,3,9,1,4,0,1,0,3,0,Loss,NA,NA
+170,46,3,5 man,All Star,Dynasty,MJ,NA,2015-16 Golden State Warriors,NA,Andre Iguodala,PF,0,4,2,1,0,1,0,2,0,0,0,0,0,0,0,Win,NA,NA
+170,46,3,5 man,All Star,Dynasty,Riley,NA,2015-16 Golden State Warriors,NA,Klay Thompson,SG,13,1,4,2,0,1,5,12,0,3,3,4,0,2,4,Win,NA,NA
+171,5,14,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,14,10,4,2,0,2,6,9,0,0,2,3,0,0,2,Win,NA,NA
+171,5,14,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,7,2,5,0,0,4,3,5,1,1,0,0,0,1,0,Win,NA,NA
+171,5,14,4 man,All Star,Challenger,Nick,Frank,1984-85 Milwaukee Bucks,Washington Wizards,Alton Lister,C,2,4,1,0,0,1,1,4,0,0,0,0,1,1,0,Loss,NA,NA
+171,5,14,4 man,All Star,Challenger,Frank,Nick,1984-85 Milwaukee Bucks,Washington Wizards,Paul Pressey,SF,15,0,2,2,0,1,7,12,0,0,1,1,0,2,6,Loss,NA,NA
+172,5,15,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,8,2,6,1,0,3,4,8,0,2,0,0,1,0,3,Win,NA,NA
+172,5,15,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,4,2,7,0,1,1,2,8,0,3,0,0,1,0,1,Win,NA,NA
+172,5,15,4 man,All Star,Challenger,Nick,Frank,All-Time New Orleans Pelicans,All-Time Houston Rockets,Jamal Mashburn,SF,13,1,4,1,0,2,4,8,1,4,4,4,0,3,2,Loss,NA,NA
+172,5,15,4 man,All Star,Challenger,Frank,Nick,All-Time New Orleans Pelicans,All-Time Houston Rockets,Chris Paul,PG,5,1,2,0,0,1,2,5,0,1,1,1,1,1,0,Loss,NA,NA
+173,29,5,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,2,10,0,0,2,1,1,2,0,0,0,0,1,0,0,Win,NA,NA
+173,29,5,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,11,4,1,0,0,3,4,14,0,4,3,4,0,1,1,Win,NA,NA
+173,29,5,4 man,All Star,Challenger,Nick,Riley,Los Angeles Lakers,Minnesota Timberwolves,LeBron James,SF,2,5,2,2,2,2,1,7,0,0,0,0,1,3,1,Loss,NA,NA
+173,29,5,4 man,All Star,Challenger,Riley,Nick,Los Angeles Lakers,Minnesota Timberwolves,Austin Reaves,SG,2,1,2,1,0,1,0,2,0,1,2,2,0,1,0,Loss,NA,NA
+174,29,6,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,4,7,2,0,1,1,2,4,0,0,0,0,0,0,0,Win,NA,NA
+174,29,6,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,4,0,4,1,0,2,2,7,0,0,0,0,0,0,1,Win,NA,NA
+174,29,6,4 man,All Star,Challenger,Nick,Riley,2007-08 Houston Rockets,2002-03 Dallas Mavericks,Rafer Alston,PG,0,0,1,0,0,2,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+174,29,6,4 man,All Star,Challenger,Riley,Nick,2007-08 Houston Rockets,2002-03 Dallas Mavericks,Luis Scola,PF,0,5,5,0,2,4,0,1,0,0,0,0,0,3,0,Loss,NA,NA
+175,29,7,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,0,7,0,1,2,1,0,1,0,0,0,0,1,0,0,Win,NA,NA
+175,29,7,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,13,6,2,1,1,3,6,11,0,2,1,2,0,3,4,Win,NA,NA
+175,29,7,4 man,All Star,Challenger,Nick,Riley,2015-16 Cleveland Cavaliers,1985-86 Chicago Bulls,LeBron James,SF,4,1,2,1,0,1,2,8,0,1,0,2,1,2,2,Loss,NA,NA
+175,29,7,4 man,All Star,Challenger,Riley,Nick,2015-16 Cleveland Cavaliers,1985-86 Chicago Bulls,Kevin Love,PF,0,7,0,1,0,1,0,0,0,0,0,0,0,1,0,Loss,NA,NA
+176,29,8,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,0,7,0,1,0,0,0,1,0,0,0,0,1,4,0,Win,NA,NA
+176,29,8,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,16,1,5,2,0,1,8,12,0,0,0,0,0,1,7,Win,NA,NA
+176,29,8,4 man,All Star,Challenger,Nick,Riley,2013-14 Indiana Pacers,1996-97 Miami Heat,David West,PF,2,3,0,0,0,2,1,1,0,0,0,0,0,0,1,Loss,NA,NA
+176,29,8,4 man,All Star,Challenger,Riley,Nick,2013-14 Indiana Pacers,1996-97 Miami Heat,Paul George,SF,16,1,1,1,0,4,5,10,0,1,6,6,0,1,3,Loss,NA,NA
+177,29,9,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,2,13,4,0,2,0,1,4,0,0,0,0,1,0,0,Win,NA,NA
+177,29,9,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,20,2,2,2,0,3,9,20,0,4,2,6,0,2,6,Win,NA,NA
+177,29,9,4 man,All Star,Challenger,Nick,Riley,Sacramento Kings,Orlando Magic,Kevin Huerter,SG,2,2,1,0,0,3,1,4,0,3,0,0,0,2,0,Loss,NA,NA
+177,29,9,4 man,All Star,Challenger,Riley,Nick,Sacramento Kings,Orlando Magic,Harrison Barnes,SF,2,6,5,0,0,2,1,9,0,6,0,3,0,1,1,Loss,NA,NA
+178,29,10,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,0,7,1,1,1,0,0,2,0,0,0,0,0,2,0,Win,NA,NA
+178,29,10,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,18,1,5,1,1,3,9,17,0,3,0,0,0,1,5,Win,NA,NA
+178,29,10,4 man,All Star,Challenger,Nick,Riley,2013-14 San Antonio Spurs,1989-90 Cleveland Cavaliers,Kawhi Leonard,SF,8,2,2,0,0,3,2,10,0,2,4,5,0,1,0,Loss,NA,NA
+178,29,10,4 man,All Star,Challenger,Riley,Nick,2013-14 San Antonio Spurs,1989-90 Cleveland Cavaliers,Tony Parker,PG,2,1,5,0,0,4,1,4,0,0,0,0,0,1,0,Loss,NA,NA
+179,29,11,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,2,5,1,0,1,1,1,1,0,0,0,0,0,0,0,Win,NA,NA
+179,29,11,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,23,2,3,0,0,0,9,16,1,3,4,5,1,1,4,Win,NA,NA
+179,29,11,4 man,All Star,Challenger,Nick,Riley,2015-16 Cleveland Cavaliers,2007-08 Denver Nuggets,LeBron James,SF,5,2,0,0,0,1,2,10,0,0,1,2,0,3,1,Loss,NA,NA
+179,29,11,4 man,All Star,Challenger,Riley,Nick,2015-16 Cleveland Cavaliers,2007-08 Denver Nuggets,Kyrie Irving,PG,8,2,5,1,0,2,4,10,0,1,0,0,1,1,0,Loss,NA,NA
+180,47,1,4 man,All Star,CBC,Nick,Ben,1995-96 Seattle Supersonics,NA,Gary Payton,PG,10,2,3,0,0,0,5,15,0,2,0,2,1,1,2,Win,NA,NA
+180,47,1,4 man,All Star,CBC,Ben,Nick,1995-96 Seattle Supersonics,NA,Hersey Hawkins,SG,6,1,2,0,0,1,1,3,0,1,4,5,0,2,0,Win,NA,NA
+180,47,1,4 man,All Star,CBC,Guy,Riley,Portland Trail Blazers,NA,Damian Lillard,PG,21,1,1,1,0,1,9,25,2,10,1,3,0,2,5,Loss,NA,NA
+180,47,1,4 man,All Star,CBC,Riley,Guy,Portland Trail Blazers,NA,Jusuf Nurkic,C,2,7,0,1,0,0,1,1,0,0,0,2,0,3,0,Loss,NA,NA
+181,48,2,4 man,All Star,CBC,Nick,Ben,1995-96 Seattle Supersonics,NA,Gary Payton,PG,7,2,0,0,0,2,3,13,0,3,1,2,0,1,0,Loss,NA,NA
+181,48,2,4 man,All Star,CBC,Ben,Nick,1995-96 Seattle Supersonics,NA,Hersey Hawkins,SG,0,0,3,0,1,3,0,3,0,1,0,0,0,0,0,Loss,NA,NA
+181,48,2,4 man,All Star,CBC,Guy,Riley,New York Knicks,NA,Jalen Brunson,PG,29,0,1,0,0,1,10,18,3,6,6,6,0,3,2,Win,NA,NA
+181,48,2,4 man,All Star,CBC,Riley,Guy,New York Knicks,NA,Mitchell Robinson,C,2,7,0,0,2,0,1,3,0,0,0,0,1,1,0,Win,NA,NA
+182,49,1,4 man,All Star,CBC,Nick,Riley,Sacramento Kings,NA,De'Aaron Fox,PG,7,1,3,0,0,2,3,5,0,0,1,1,0,1,0,Win,NA,NA
+182,49,1,4 man,All Star,CBC,Riley,Nick,Sacramento Kings,NA,Domantas Sabonis,C,8,7,5,0,0,0,3,4,0,1,2,2,0,1,0,Win,NA,NA
+182,49,1,4 man,All Star,CBC,Guy,Ben,1989-90 Cleveland Cavaliers,NA,Craig Ehlo,SG,11,6,2,0,0,1,4,12,3,9,0,2,0,1,0,Loss,NA,NA
+182,49,1,4 man,All Star,CBC,Ben,Guy,1989-90 Cleveland Cavaliers,NA,Winston Bennett,SF,2,2,0,0,0,0,0,3,0,0,2,2,2,1,0,Loss,NA,NA
+183,49,2,4 man,All Star,CBC,Nick,Riley,Sacramento Kings,NA,De'Aaron Fox,PG,7,0,1,0,1,2,2,8,1,4,2,2,0,0,0,Loss,NA,NA
+183,49,2,4 man,All Star,CBC,Riley,Nick,Sacramento Kings,NA,Domantas Sabonis,C,0,3,1,0,0,2,0,3,0,2,0,0,0,0,0,Loss,NA,NA
+183,49,2,4 man,All Star,CBC,Guy,Ben,Team USA 2012,NA,Chris Paul,PG,9,0,3,0,0,0,3,8,0,3,3,3,0,2,0,Win,NA,NA
+183,49,2,4 man,All Star,CBC,Ben,Guy,Team USA 2012,NA,LeBron James,PF,21,3,1,1,1,1,8,11,0,2,5,6,0,2,3,Win,NA,NA
+184,50,1,4 man,All Star,Dynasty,Guy,Nick,2006-07 Golden State Warriors,NA,Al Harrington,PF,0,2,8,0,0,1,0,5,0,2,0,0,0,1,0,Win,NA,NA
+184,50,1,4 man,All Star,Dynasty,Nick,Guy,2006-07 Golden State Warriors,NA,Adonal Foyle,C,0,7,0,1,0,1,0,0,0,0,0,0,1,0,0,Win,NA,NA
+184,50,1,4 man,All Star,Challenger,MJ,Ben,1995-96 Seattle Supersonics,NA,Hersey Hawkins,SG,0,1,1,0,0,1,0,2,0,2,0,0,0,1,0,Loss,NA,NA
+184,50,1,4 man,All Star,Challenger,Ben,MJ,1995-96 Seattle Supersonics,NA,Detlef Schrempf,SF,2,2,4,0,0,2,0,8,0,3,2,2,0,0,0,Loss,NA,NA
+185,50,2,4 man,All Star,Dynasty,Guy,Nick,2006-07 Golden State Warriors,NA,Al Harrington,PF,8,9,4,0,1,0,3,9,1,3,1,2,3,0,2,Win,NA,NA
+185,50,2,4 man,All Star,Dynasty,Nick,Guy,2006-07 Golden State Warriors,NA,Adonal Foyle,C,6,8,0,0,2,0,3,3,0,0,0,2,4,0,0,Win,NA,NA
+185,50,2,4 man,All Star,Challenger,MJ,Ben,1990-91 Golden State Warriors,NA,Tim Hardaway,PG,0,0,2,0,0,3,0,5,0,1,0,1,0,1,0,Loss,NA,NA
+185,50,2,4 man,All Star,Challenger,Ben,MJ,1990-91 Golden State Warriors,NA,Chris Mullin,SF,13,3,2,0,0,0,5,11,3,4,0,0,0,3,1,Loss,NA,NA
+186,50,3,4 man,All Star,Dynasty,Guy,Nick,2006-07 Golden State Warriors,NA,Al Harrington,PF,7,3,5,0,0,3,3,6,0,1,1,2,0,4,3,Win,NA,NA
+186,50,3,4 man,All Star,Dynasty,Nick,Guy,2006-07 Golden State Warriors,NA,Adonal Foyle,C,0,11,1,0,0,1,0,1,0,0,0,0,0,0,0,Win,NA,NA
+186,50,3,4 man,All Star,Challenger,MJ,Ben,2010-11 Dallas Mavericks,NA,Deshawn Stevenson,SG,0,0,2,0,0,1,0,3,0,1,0,0,0,1,0,Loss,NA,NA
+186,50,3,4 man,All Star,Challenger,Ben,MJ,2010-11 Dallas Mavericks,NA,Dirk Nowitzki,PF,21,5,1,2,0,0,7,16,2,4,5,8,2,3,1,Loss,NA,NA
+187,50,4,4 man,All Star,Dynasty,Guy,Nick,2006-07 Golden State Warriors,NA,Al Harrington,PF,6,8,7,0,3,1,2,5,1,2,1,1,0,1,1,Win,NA,NA
+187,50,4,4 man,All Star,Dynasty,Nick,Guy,2006-07 Golden State Warriors,NA,Adonal Foyle,C,0,6,2,0,0,1,0,2,0,0,0,0,1,0,0,Win,NA,NA
+187,50,4,4 man,All Star,Challenger,MJ,Ben,2004-05 San Antonio Spurs,Houston Rockets,Nazr Mohammed,C,8,8,0,0,1,1,4,8,0,0,0,1,2,3,0,Loss,NA,NA
+187,50,4,4 man,All Star,Challenger,Ben,MJ,2004-05 San Antonio Spurs,Houston Rockets,Bruce Bowen,SG,5,1,4,0,0,0,2,8,0,2,1,4,0,2,1,Loss,NA,NA
+188,50,5,4 man,All Star,Dynasty,Guy,Nick,2006-07 Golden State Warriors,NA,Al Harrington,PF,10,4,3,2,0,6,5,15,0,4,0,4,0,2,2,Loss,NA,NA
+188,50,5,4 man,All Star,Dynasty,Nick,Guy,2006-07 Golden State Warriors,NA,Adonal Foyle,C,2,5,2,0,0,2,1,2,0,0,0,0,1,3,0,Loss,NA,NA
+188,50,5,4 man,All Star,Challenger,MJ,Ben,2000-01 Philadelphia 76ers,Atlanta Hawks,Dikembe Mutombo,C,11,9,2,0,0,1,4,5,0,0,3,4,3,0,2,Win,NA,NA
+188,50,5,4 man,All Star,Challenger,Ben,MJ,2000-01 Philadelphia 76ers,Atlanta Hawks,Tyrone Hill,PF,6,1,1,0,0,2,2,6,0,0,2,4,0,4,1,Win,NA,NA
+189,51,1,4 man,All Star,Challenger,Riley,Frank,Orlando Magic,NA,Franz Wagner,SF,10,1,1,4,0,4,3,6,1,1,3,4,0,2,1,Loss,NA,NA
+189,51,1,4 man,All Star,Challenger,Frank,Riley,Orlando Magic,NA,Markelle Fultz,PG,2,0,4,1,0,2,1,5,0,0,0,0,0,0,0,Loss,NA,NA
+189,51,1,4 man,All Star,Dynasty,MJ,Ben,New Orleans Pelicans,NA,Herbert Jones,SG,5,1,2,2,0,4,2,3,0,1,1,2,0,3,1,Win,NA,NA
+189,51,1,4 man,All Star,Dynasty,Ben,MJ,New Orleans Pelicans,NA,C.J. McCollum,PG,8,2,5,1,0,5,3,4,0,0,2,2,0,2,0,Win,NA,NA
+190,51,2,4 man,All Star,Challenger,Riley,Frank,2002-03 Dallas Mavericks,NA,Steve Nash,PG,16,3,4,1,0,4,8,18,0,2,0,0,3,3,0,Loss,NA,NA
+190,51,2,4 man,All Star,Challenger,Frank,Riley,2002-03 Dallas Mavericks,NA,Dirk Nowitzki,PF,4,1,1,0,0,1,2,5,0,1,0,0,0,1,1,Loss,NA,NA
+190,51,2,4 man,All Star,Dynasty,MJ,Ben,New Orleans Pelicans,NA,Herbert Jones,SG,2,0,2,1,0,2,1,4,0,0,0,0,0,1,0,Win,NA,NA
+190,51,2,4 man,All Star,Dynasty,Ben,MJ,New Orleans Pelicans,NA,C.J. McCollum,PG,7,5,7,1,0,2,2,5,0,0,3,4,1,1,0,Win,NA,NA
+191,52,1,4 man,All Star,Dynasty,Riley,Frank,1995-96 Chicago Bulls,NA,Michael Jordan,SG,31,5,3,3,1,1,12,24,1,3,6,6,1,2,9,Win,NA,NA
+191,52,1,4 man,All Star,Dynasty,Frank,Riley,1995-96 Chicago Bulls,NA,Ron Harper,PG,2,0,5,1,0,1,1,2,0,0,0,0,0,0,0,Win,NA,NA
+191,52,1,4 man,All Star,Challenger,MJ,Guy,2004-05 Phoenix Suns,NA,Joe Johnson,SG,2,0,0,0,0,3,1,6,0,1,0,0,0,0,1,Loss,NA,NA
+191,52,1,4 man,All Star,Challenger,Guy,MJ,2004-05 Phoenix Suns,NA,Quentin Richardson,SF,5,2,6,0,0,3,1,5,1,4,2,2,0,1,0,Loss,NA,NA
+192,52,2,4 man,All Star,Dynasty,Riley,Frank,1995-96 Chicago Bulls,NA,Michael Jordan,SG,24,0,2,3,0,1,9,16,0,1,6,7,0,2,4,Win,NA,NA
+192,52,2,4 man,All Star,Dynasty,Frank,Riley,1995-96 Chicago Bulls,NA,Ron Harper,PG,2,0,2,1,0,2,1,1,0,0,0,0,0,1,0,Win,NA,NA
+192,52,2,4 man,All Star,Challenger,MJ,Guy,2007-08 Boston Celtics,NA,Paul Pierce,SF,0,2,4,1,0,7,0,3,0,3,0,2,0,2,0,Loss,NA,NA
+192,52,2,4 man,All Star,Challenger,Guy,MJ,2007-08 Boston Celtics,NA,Kendrick Perkins,C,6,7,2,0,1,0,3,3,0,0,0,0,1,2,1,Loss,NA,NA
+193,52,3,4 man,All Star,Dynasty,Riley,Frank,1995-96 Chicago Bulls,NA,Michael Jordan,SG,1,2,8,0,0,3,0,13,0,1,1,2,1,5,0,Loss,NA,NA
+193,52,3,4 man,All Star,Dynasty,Frank,Riley,1995-96 Chicago Bulls,NA,Ron Harper,PG,0,0,1,0,0,3,0,0,0,0,0,0,0,2,0,Loss,NA,NA
+193,52,3,4 man,All Star,Challenger,MJ,Guy,2007-08 Denver Nuggets,NA,Carmelo Anthony,SF,5,1,6,1,0,1,0,6,0,0,5,6,0,1,0,Win,NA,NA
+193,52,3,4 man,All Star,Challenger,Guy,MJ,2007-08 Denver Nuggets,NA,Marcus Camby,C,12,13,2,0,3,1,5,9,0,0,2,4,2,1,4,Win,NA,NA
+194,29,12,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,22,2,0,0,0,0,8,11,1,2,5,7,0,0,6,Win,NA,NA
+194,29,12,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,1,10,2,0,1,1,0,0,0,0,1,2,0,0,0,Win,NA,NA
+194,29,12,4 man,All Star,Challenger,Riley,Nick,2015-16 Golden State Warriors,2011-12 Oklahoma City Thunder,Klay Thompson,SG,6,0,5,0,0,2,3,9,0,4,0,0,0,4,0,Loss,NA,NA
+194,29,12,4 man,All Star,Challenger,Nick,Riley,2015-16 Golden State Warriors,2011-12 Oklahoma City Thunder,Andre Iguodala,PF,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Loss,NA,NA
+195,29,13,4 man,All Star,Dynasty,MJ,Ben,2016-17 Golden State Warriors,NA,Kevin Durant,SF,18,2,2,0,0,0,8,22,2,7,0,2,0,1,2,Loss,NA,NA
+195,29,13,4 man,All Star,Dynasty,Ben,MJ,2016-17 Golden State Warriors,NA,Zaza Pachullia,C,0,5,0,2,0,0,0,0,0,0,0,0,0,2,0,Loss,NA,NA
+195,29,13,4 man,All Star,Challenger,Riley,Nick,Milwaukee Bucks,1988-89 Chicago Bulls,Giannis Antetokounmpo,PF,9,6,6,0,2,2,4,7,0,0,1,5,0,1,1,Win,NA,NA
+195,29,13,4 man,All Star,Challenger,Nick,Riley,Milwaukee Bucks,1988-89 Chicago Bulls,Khris Middleton,SF,0,1,0,0,0,1,0,2,0,1,0,0,0,0,0,Win,NA,NA
+196,53,1,4 man,All Star,Dynasty,MJ,Nick,2005-06 Memphis Grizzlies,NA,Mike Miller,SG,4,2,8,0,1,1,2,11,0,7,0,0,0,0,0,Win,NA,NA
+196,53,1,4 man,All Star,Dynasty,Nick,MJ,2005-06 Memphis Grizzlies,NA,Eddie Jones,SF,0,0,1,0,0,2,0,1,0,0,0,0,0,3,0,Win,NA,NA
+196,53,1,4 man,All Star,Challenger,Riley,Ben,2002-03 Dallas Mavericks,NA,Dirk Nowitzki,PF,4,4,2,1,0,1,1,4,0,1,2,9,1,0,0,Loss,NA,NA
+196,53,1,4 man,All Star,Challenger,Ben,Riley,2002-03 Dallas Mavericks,NA,Michael Finley,SF,11,0,3,0,0,2,5,11,1,2,0,0,0,1,3,Loss,NA,NA
+197,46,4,5 man,All Star,Dynasty,MJ,Riley,2015-16 Golden State Warriors,NA,Andre Iguodala,PF,9,4,1,1,0,2,4,10,0,3,1,4,0,0,3,Win,NA,NA
+197,46,4,5 man,All Star,Dynasty,Riley,MJ,2015-16 Golden State Warriors,NA,Klay Thompson,SG,7,6,7,2,0,2,3,14,0,2,1,3,4,2,1,Win,NA,NA
+197,46,4,5 man,All Star,Challenger,Nick,NA,Utah Jazz,1990-91 Portland Trail Blazers,Kelly Olynk,PF,0,1,5,0,0,4,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+197,46,4,5 man,All Star,Challenger,Frank,NA,Utah Jazz,1990-91 Portland Trail Blazers,Jordan Clarkson,SG,14,2,2,0,0,1,6,14,1,3,1,2,0,2,2,Loss,NA,NA
+197,46,4,5 man,All Star,Challenger,Ben,NA,Utah Jazz,1990-91 Portland Trail Blazers,Lauri Markkanen,SF,8,2,2,0,1,3,4,5,0,1,0,0,0,3,3,Loss,NA,NA
+198,46,5,5 man,All Star,Dynasty,MJ,Riley,2015-16 Golden State Warriors,NA,Andre Iguodala,PF,11,3,3,0,0,2,5,7,1,1,0,0,0,0,1,Win,NA,NA
+198,46,5,5 man,All Star,Dynasty,Riley,MJ,2015-16 Golden State Warriors,NA,Klay Thompson,SG,12,7,3,2,1,1,5,13,2,6,0,0,2,1,1,Win,NA,NA
+198,46,5,5 man,All Star,Challenger,Nick,NA,1992-93 Chicago Bulls,1990-91 Los Angeles Lakers,Michael Jordan,SG,12,7,1,1,0,3,5,16,0,0,2,2,3,1,4,Loss,NA,NA
+198,46,5,5 man,All Star,Challenger,Frank,NA,1992-93 Chicago Bulls,1990-91 Los Angeles Lakers,Horace Grant,PF,4,8,0,0,1,0,2,5,0,0,0,0,3,1,0,Loss,NA,NA
+198,46,5,5 man,All Star,Challenger,Ben,NA,1992-93 Chicago Bulls,1990-91 Los Angeles Lakers,B.J. Armstrong,PG,8,0,2,0,0,3,3,6,2,5,0,1,0,0,0,Loss,NA,NA
+199,46,6,5 man,All Star,Dynasty,MJ,Riley,NA,NA,Andre Iguodala,PF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+199,46,6,5 man,All Star,Dynasty,Riley,MJ,NA,NA,Klay Thompson,SG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Loss,NA,NA
+199,46,6,5 man,All Star,Challenger,Nick,NA,Oklahoma City Thunder,1986-87 Los Angeles Lakers,Jalen Williams,PF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+199,46,6,5 man,All Star,Challenger,Frank,NA,Oklahoma City Thunder,1986-87 Los Angeles Lakers,Chet Holmgren,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+199,46,6,5 man,All Star,Challenger,Ben,NA,Oklahoma City Thunder,1986-87 Los Angeles Lakers,Luguentz Dort,SF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Win,NA,NA
+200,54,1,5 man,All Star,Challenger,Frank,NA,1989-90 Cleveland Cavaliers,NA,Winston Bennett,SF,6,3,3,0,0,3,2,4,1,2,1,2,1,1,0,Loss,NA,NA
+200,54,1,5 man,All Star,Challenger,Nick,NA,1989-90 Cleveland Cavaliers,NA,Craig Ehlo,SG,0,0,1,0,1,0,0,5,0,0,0,0,0,1,0,Loss,NA,NA
+200,54,1,5 man,All Star,Dynasty,Riley,NA,2013-14 Los Angeles Clippers,NA,Blake Griffin,PF,16,10,2,2,0,1,7,13,0,0,2,4,2,1,5,Win,NA,NA
+200,54,1,5 man,All Star,Dynasty,MJ,NA,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,4,5,3,0,1,2,2,2,0,0,0,4,1,0,2,Win,NA,NA
+200,54,1,5 man,All Star,Dynasty,Ben,NA,2013-14 Los Angeles Clippers,NA,Chris Paul,PG,8,2,9,1,0,3,4,9,0,1,0,0,1,1,0,Win,NA,NA
+201,55,1,4 man,All Star,Dynasty,MJ,NA,2000-01 Los Angeles Lakers,NA,Kobe Bryant,SG,14,0,6,0,0,4,7,13,0,0,0,0,0,1,5,Win,NA,NA
+201,55,1,4 man,All Star,Dynasty,Riley,NA,2000-01 Los Angeles Lakers,NA,Rick Fox,SF,9,0,6,2,0,1,4,6,1,3,0,0,0,4,2,Win,NA,NA
+201,55,1,4 man,All Star,Challenger,Frank,NA,Utah Jazz,NA,Lauri Markkanen,SF,22,3,0,1,0,1,11,14,0,1,0,2,1,1,6,Loss,NA,NA
+201,55,1,4 man,All Star,Challenger,Nick,NA,Utah Jazz,NA,Kelly Olynk,PF,0,1,1,1,0,4,0,2,0,0,0,0,0,0,0,Loss,NA,NA
+202,55,2,4 man,All Star,Dynasty,MJ,NA,2000-01 Los Angeles Lakers,NA,Kobe Bryant,SG,12,1,6,0,0,3,6,15,0,4,0,1,0,1,5,Win,NA,NA
+202,55,2,4 man,All Star,Dynasty,Riley,NA,2000-01 Los Angeles Lakers,NA,Rick Fox,SF,5,3,6,1,0,1,2,2,1,1,0,0,0,4,1,Win,NA,NA
+202,55,2,4 man,All Star,Challenger,Frank,NA,1988-89 Chicago Bulls,NA,Michael Jordan,SG,25,2,1,0,1,0,9,19,0,0,7,10,2,2,4,Loss,NA,NA
+202,55,2,4 man,All Star,Challenger,Nick,NA,1988-89 Chicago Bulls,NA,John Paxson,PG,2,2,2,1,0,0,0,2,0,2,2,2,0,0,0,Loss,NA,NA
+203,55,3,4 man,All Star,Dynasty,MJ,NA,2000-01 Los Angeles Lakers,NA,Kobe Bryant,SG,11,1,2,0,0,1,4,17,0,1,3,5,0,0,2,Win,NA,NA
+203,55,3,4 man,All Star,Dynasty,Riley,NA,2000-01 Los Angeles Lakers,NA,Rick Fox,SF,6,1,3,3,0,1,3,6,0,3,0,1,0,1,1,Win,NA,NA
+203,55,3,4 man,All Star,Challenger,Nick,NA,All-Time Memphis Grizzlies,NA,Ja Morant,SG,6,2,1,1,1,3,3,14,0,2,0,0,1,2,0,Loss,NA,NA
+203,55,3,4 man,All Star,Challenger,Frank,NA,All-Time Memphis Grizzlies,NA,Zach Randolph,PF,2,7,2,0,0,5,1,3,0,0,0,0,1,1,1,Loss,NA,NA
+204,55,4,4 man,All Star,Dynasty,MJ,NA,2000-01 Los Angeles Lakers,NA,Kobe Bryant,SG,4,2,4,0,0,2,2,7,0,2,0,0,1,0,2,Loss,NA,NA
+204,55,4,4 man,All Star,Dynasty,Riley,NA,2000-01 Los Angeles Lakers,NA,Rick Fox,SF,4,5,2,2,0,2,1,8,1,4,1,1,1,3,0,Loss,NA,NA
+204,55,4,4 man,All Star,Challenger,Frank,NA,1997-98 Los Angeles Lakers,Orlando Magic,Shaquille O'Neal,C,6,8,4,0,4,1,3,5,0,0,0,4,0,1,2,Win,NA,NA
+204,55,4,4 man,All Star,Challenger,Nick,NA,1997-98 Los Angeles Lakers,Orlando Magic,Rick Fox,SF,4,0,0,1,0,2,2,5,0,1,0,0,0,0,0,Win,NA,NA
+205,56,1,4 man,All Star,Dynasty,MJ,NA,Houston Rockets,NA,Jalen Green,SG,9,0,5,0,0,3,3,7,2,6,1,2,0,1,1,Win,NA,NA
+205,56,1,4 man,All Star,Dynasty,Nick,NA,Houston Rockets,NA,Alperen Sengun,C,5,4,0,0,0,0,2,2,0,0,1,2,1,0,1,Win,NA,NA
+205,56,1,4 man,All Star,Challenger,Frank,NA,New Orleans Pelicans,NA,Brandon Ingram,SF,6,1,5,1,0,0,3,8,0,4,0,0,1,0,1,Loss,NA,NA
+205,56,1,4 man,All Star,Challenger,Riley,NA,New Orleans Pelicans,NA,Zion Williamson,PF,12,2,3,0,0,0,5,7,0,0,2,4,1,3,3,Loss,NA,NA
+206,56,2,4 man,All Star,CBC,MJ,NA,Houston Rockets,NA,Jalen Green,SG,14,0,0,1,0,3,5,18,3,14,1,2,0,0,1,Loss,NA,NA
+206,56,2,4 man,All Star,CBC,Nick,NA,Houston Rockets,NA,Alperen Sengun,C,0,11,2,0,0,0,0,2,0,0,0,0,2,1,0,Loss,NA,NA
+206,56,2,4 man,All Star,Challenger,Frank,NA,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,4,14,1,0,2,4,2,3,0,0,0,3,2,0,1,Win,NA,NA
+206,56,2,4 man,All Star,Challenger,Riley,NA,2013-14 Los Angeles Clippers,NA,J.J. Reddick,SG,14,1,2,2,0,1,7,19,0,7,0,0,0,4,0,Win,NA,NA
+207,40,4,6 man,All Star,Dynasty,Guy,NA,Utah Jazz,NA,Walker Kessler,C,12,7,0,0,0,0,6,11,0,0,0,8,1,0,4,Win,NA,NA
+207,40,4,6 man,All Star,Dynasty,Riley,NA,Utah Jazz,NA,Colin Sexton,PG,8,1,10,1,0,2,1,3,0,1,6,6,1,0,4,Win,NA,NA
+207,40,4,6 man,All Star,Dynasty,Ben,NA,Utah Jazz,NA,Lauri Markkanen,SF,17,1,2,1,0,1,7,10,1,1,2,3,1,0,3,Win,NA,NA
+207,40,4,6 man,All Star,Challenger,Nick,NA,All-Time Memphis Grizzlies,1990-91 Chicago Bulls,Pau Gasol,C,2,6,1,1,2,2,1,4,0,0,0,0,0,3,0,Loss,NA,NA
+207,40,4,6 man,All Star,Challenger,Frank,NA,All-Time Memphis Grizzlies,1990-91 Chicago Bulls,Shareef Abdur-Rahim,SF,4,3,1,0,0,0,2,4,0,1,0,0,0,2,0,Loss,NA,NA
+207,40,4,6 man,All Star,Challenger,MJ,NA,All-Time Memphis Grizzlies,1990-91 Chicago Bulls,Ja Morant,SG,7,0,7,0,0,2,3,7,0,2,1,2,0,3,1,Loss,NA,NA
+208,40,5,6 man,All Star,Dynasty,Guy,NA,Utah Jazz,NA,Walker Kessler,C,4,4,0,0,1,0,2,4,0,0,0,0,0,2,2,Loss,NA,NA
+208,40,5,6 man,All Star,Dynasty,Riley,NA,Utah Jazz,NA,Colin Sexton,PG,4,1,6,3,2,0,1,7,0,3,2,2,0,3,0,Loss,NA,NA
+208,40,5,6 man,All Star,Dynasty,Ben,NA,Utah Jazz,NA,Lauri Markkanen,SF,14,7,0,1,1,1,6,14,0,0,2,4,2,1,4,Loss,NA,NA
+208,40,5,6 man,All Star,Challenger,Nick,NA,1996-97 Miami Heat,1993-94 Houston Rockets,Tim Hardaway,PG,2,0,5,0,0,2,1,7,0,1,0,0,0,1,0,Win,NA,NA
+208,40,5,6 man,All Star,Challenger,Frank,NA,1996-97 Miami Heat,1993-94 Houston Rockets,Jamal Mashburn,SF,2,1,1,1,0,1,1,3,0,0,0,0,1,3,0,Win,NA,NA
+208,40,5,6 man,All Star,Challenger,MJ,NA,1996-97 Miami Heat,1993-94 Houston Rockets,P.J. Brown,PF,7,10,1,0,1,1,3,5,0,0,1,1,1,0,1,Win,NA,NA
+209,57,1,6 man,All Star,Dynasty,Guy,NA,Dallas Mavericks,NA,Dwight Powell,C,6,5,1,1,0,0,3,6,0,1,0,0,1,2,2,Win,NA,NA
+209,57,1,6 man,All Star,Dynasty,Riley,NA,Dallas Mavericks,NA,Kyrie Irving,SG,26,0,2,2,1,2,11,11,0,0,4,4,0,1,0,Win,NA,NA
+209,57,1,6 man,All Star,Dynasty,Nick,NA,Dallas Mavericks,NA,Reggie Bullock,PF,0,2,2,0,1,0,0,1,0,1,0,0,0,2,0,Win,NA,NA
+209,57,1,6 man,All Star,Challenger,MJ,NA,Philadelphia 76ers,NA,Tyrese Maxey,SG,4,0,3,0,0,1,2,8,0,2,0,0,0,2,0,Loss,NA,NA
+209,57,1,6 man,All Star,Challenger,Ben,NA,Philadelphia 76ers,NA,Tobias Harris,SF,2,1,4,0,0,0,1,1,0,0,0,0,0,0,1,Loss,NA,NA
+209,57,1,6 man,All Star,Challenger,Frank,NA,Philadelphia 76ers,NA,Joel Embiid,C,8,5,2,1,1,0,4,8,0,0,0,0,1,2,1,Loss,NA,NA
+210,57,2,6 man,All Star,Dynasty,Guy,NA,Dallas Mavericks,NA,Dwight Powell,C,6,8,0,0,0,1,3,4,0,0,0,0,1,0,1,Win,NA,NA
+210,57,2,6 man,All Star,Dynasty,Riley,NA,Dallas Mavericks,NA,Kyrie Irving,SG,17,2,3,3,0,3,6,14,0,3,5,6,2,1,0,Win,NA,NA
+210,57,2,6 man,All Star,Dynasty,Nick,NA,Dallas Mavericks,NA,Reggie Bullock,PF,3,3,0,0,0,0,1,3,1,1,0,0,0,0,0,Win,NA,NA
+210,57,2,6 man,All Star,Challenger,MJ,NA,Indiana Pacers,NA,Tyrese Haliburton,PG,8,0,4,0,0,2,3,5,1,1,1,4,0,1,0,Loss,NA,NA
+210,57,2,6 man,All Star,Challenger,Ben,NA,Indiana Pacers,NA,Chris Duarte,SG,4,4,1,2,0,1,2,7,0,0,0,0,0,1,0,Loss,NA,NA
+210,57,2,6 man,All Star,Challenger,Frank,NA,Indiana Pacers,NA,Buddy Hield,SF,0,2,0,0,0,1,0,6,0,5,0,0,0,0,0,Loss,NA,NA
+211,57,3,6 man,All Star,Dynasty,Guy,NA,Dallas Mavericks,NA,Dwight Powell,C,6,4,2,0,0,0,3,3,0,0,0,2,0,0,2,Win,TRUE,NA
+211,57,3,6 man,All Star,Dynasty,Riley,NA,Dallas Mavericks,NA,Kyrie Irving,SG,12,0,3,2,0,2,5,7,1,1,1,1,0,4,0,Win,TRUE,NA
+211,57,3,6 man,All Star,Dynasty,Nick,NA,Dallas Mavericks,NA,Reggie Bullock,PF,3,2,2,0,0,1,1,7,1,5,0,0,1,1,0,Win,TRUE,NA
+211,57,3,6 man,All Star,Challenger,MJ,NA,1986-87 Los Angeles Lakers,NA,Byron Scott,SG,4,1,2,1,0,0,1,5,1,4,1,2,0,0,0,Loss,TRUE,NA
+211,57,3,6 man,All Star,Challenger,Ben,NA,1986-87 Los Angeles Lakers,NA,A.C. Green,PF,8,7,2,0,0,2,3,4,0,0,2,2,2,0,1,Loss,TRUE,NA
+211,57,3,6 man,All Star,Challenger,Frank,NA,1986-87 Los Angeles Lakers,NA,Magic Johnson,PG,13,2,5,0,0,3,6,11,0,0,1,6,1,1,3,Loss,TRUE,NA
+212,58,1,5 man,All Star,Dynasty,Guy,NA,2015-16 Cleveland Cavaliers,NA,Kyrie Irving,PG,18,0,1,3,0,4,7,18,1,3,3,4,0,2,0,Win,NA,NA
+212,58,1,5 man,All Star,Dynasty,Frank,NA,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,5,5,1,1,0,0,2,8,0,1,1,2,2,1,0,Win,NA,NA
+212,58,1,5 man,All Star,Challenger,Ben,NA,2015-16 Cleveland Cavaliers,NA,Tristan Thompson,C,2,10,2,1,0,0,1,2,0,0,0,2,4,3,0,Loss,NA,NA
+212,58,1,5 man,All Star,Challenger,MJ,NA,1992-93 Charlotte Hornets,NA,Kendall Gill,SG,6,1,3,1,0,5,1,3,1,2,3,4,0,1,0,Loss,NA,NA
+212,58,1,5 man,All Star,Challenger,Riley,NA,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,6,3,1,2,0,2,3,11,0,0,0,0,0,3,2,Loss,NA,NA
+213,7,2,4 man,All Star,Dynasty,Riley,MJ,1994-95 New York Knicks,NA,John Stark,SG,34,2,0,2,0,2,14,22,3,4,3,6,1,4,3,Win,NA,NA
+213,7,2,4 man,All Star,Dynasty,MJ,Riley,1994-95 New York Knicks,NA,Charles Oakley,PF,2,1,5,0,0,1,1,4,0,1,0,2,0,0,0,Win,NA,NA
+213,7,2,4 man,All Star,Challenger,Nick,Guy,Denver Nuggets,NA,Michael Porter Jr.,SF,5,3,1,1,0,2,1,2,1,1,2,2,1,0,0,Loss,NA,NA
+213,7,2,4 man,All Star,Challenger,Guy,Nick,Denver Nuggets,NA,Kentavious Caldwell-Pope,SG,22,1,2,1,0,2,5,15,0,2,12,12,0,1,3,Loss,NA,NA
+214,7,3,4 man,All Star,Dynasty,Riley,MJ,1994-95 New York Knicks,NA,John Stark,SG,11,0,6,0,0,0,4,9,0,0,3,4,0,2,1,Win,NA,NA
+214,7,3,4 man,All Star,Dynasty,MJ,Riley,1994-95 New York Knicks,NA,Charles Oakley,PF,2,4,0,1,0,1,1,1,0,0,0,0,0,1,1,Win,NA,NA
+214,7,3,4 man,All Star,Challenger,Guy,Nick,Memphis Grizzlies,NA,Ja Morant,PG,12,3,4,0,0,1,5,12,0,1,2,6,2,5,3,Loss,NA,NA
+214,7,3,4 man,All Star,Challenger,Nick,Guy,Memphis Grizzlies,NA,Steven Adams,C,0,9,1,0,2,0,0,2,0,0,0,0,1,1,0,Loss,NA,NA
+215,7,4,4 man,All Star,Dynasty,Riley,MJ,1994-95 New York Knicks,NA,John Stark,SG,7,1,9,4,0,1,2,3,2,3,1,2,0,2,0,Win,NA,NA
+215,7,4,4 man,All Star,Dynasty,MJ,Riley,1994-95 New York Knicks,NA,Charles Oakley,PF,2,1,1,0,0,1,1,2,0,0,0,0,0,1,1,Win,NA,NA
+215,7,4,4 man,All Star,Challenger,Nick,Guy,All-Time Indiana Pacers,1985-86 Boston Celtics,Mel Daniels,C,0,5,1,0,0,1,0,0,0,0,0,0,1,1,0,Loss,NA,NA
+215,7,4,4 man,All Star,Challenger,Guy,Nick,All-Time Indiana Pacers,1985-86 Boston Celtics,Freddie Lewis,PG,6,1,11,0,0,4,3,7,0,0,0,0,0,0,0,Loss,NA,NA
+216,7,5,4 man,All Star,Dynasty,Riley,MJ,1994-95 New York Knicks,NA,John Stark,SG,17,3,3,5,0,7,7,14,1,3,2,2,0,4,3,Win,NA,NA
+216,7,5,4 man,All Star,Dynasty,MJ,Riley,1994-95 New York Knicks,NA,Charles Oakley,PF,2,6,1,0,0,0,1,4,0,0,0,2,1,2,0,Win,NA,NA
+216,7,5,4 man,All Star,Challenger,Nick,Guy,1992-93 Chicago Bulls,2003-04 Minnesota Timberwolves,Michael Jordan,SG,14,5,1,0,1,4,5,16,0,1,4,9,1,1,3,Loss,NA,NA
+216,7,5,4 man,All Star,Challenger,Guy,Nick,1992-93 Chicago Bulls,2003-04 Minnesota Timberwolves,B.J. Armstrong,PG,2,0,2,1,0,1,1,3,0,0,0,2,0,0,0,Loss,NA,NA
+217,7,6,4 man,All Star,Dynasty,Riley,MJ,1994-95 New York Knicks,NA,John Stark,SG,3,0,6,2,0,3,1,4,0,0,1,2,0,5,1,Loss,NA,NA
+217,7,6,4 man,All Star,Dynasty,MJ,Riley,1994-95 New York Knicks,NA,Charles Oakley,PF,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,Loss,NA,NA
+217,7,6,4 man,All Star,Challenger,Nick,Guy,All-Time Oklahoma City Thunder,All-Time Sacramento Kings,Shawn Kemp,C,6,9,1,0,1,1,3,4,0,0,0,0,1,2,1,Win,NA,NA
+217,7,6,4 man,All Star,Challenger,Guy,Nick,All-Time Oklahoma City Thunder,All-Time Sacramento Kings,Gary Payton,PG,2,2,6,1,0,3,1,1,0,0,0,4,1,0,0,Win,NA,NA
+218,59,1,4 man,All Star,Challenger,Riley,Guy,1988-89 Detroit Pistons,NA,Isiah Thomas,PG,21,0,4,6,0,2,8,13,0,0,5,6,0,4,4,Loss,NA,NA
+218,59,1,4 man,All Star,Challenger,Guy,Riley,1988-89 Detroit Pistons,NA,Mark Aguirre,SF,6,3,2,0,0,0,3,9,0,0,0,0,2,1,1,Loss,NA,NA
+218,59,1,4 man,All Star,Dynasty,Nick,MJ,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,4,1,9,0,1,6,1,2,0,0,2,2,0,0,0,Win,NA,NA
+218,59,1,4 man,All Star,Dynasty,MJ,Nick,2010-11 Dallas Mavericks,NA,Dirk Nowitzki,PF,10,7,2,1,0,2,4,8,0,2,2,4,0,1,2,Win,NA,NA
+219,60,1,4 man,All Star,Dynasty,Guy,Riley,Oklahoma City Thunder,NA,Chet Holmgren,C,8,9,0,0,5,1,4,7,0,1,0,2,0,0,3,Win,NA,NA
+219,60,1,4 man,All Star,Dynasty,Riley,Guy,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,12,4,7,3,0,1,4,9,1,2,3,4,1,2,2,Win,NA,NA
+219,60,1,4 man,All Star,Challenger,Ben,Nick,Los Angeles Clippers,NA,Paul George,SG,5,3,3,1,0,3,2,10,0,3,1,2,0,0,1,Loss,NA,NA
+219,60,1,4 man,All Star,Challenger,Nick,Ben,Los Angeles Clippers,NA,Kawhi Leonard,SF,7,2,1,0,0,1,2,4,1,1,2,4,0,1,0,Loss,NA,NA
+220,60,2,4 man,All Star,Dynasty,Guy,Riley,Oklahoma City Thunder,NA,Chet Holmgren,C,4,5,3,1,9,0,2,3,0,1,0,0,0,0,2,Win,NA,NA
+220,60,2,4 man,All Star,Dynasty,Riley,Guy,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,40,5,2,2,0,1,18,30,2,4,2,3,3,3,5,Win,NA,NA
+220,60,2,4 man,All Star,Challenger,Ben,Nick,1993-94 Houston Rockets,NA,Kenny Smith,PG,9,1,2,0,0,0,3,10,2,6,1,1,1,0,0,Loss,NA,NA
+220,60,2,4 man,All Star,Challenger,Nick,Ben,1993-94 Houston Rockets,NA,Hakeem Olajuwon,C,4,4,0,0,0,2,2,10,0,0,0,0,2,1,0,Loss,NA,NA
+221,60,3,4 man,All Star,Dynasty,Guy,Riley,Oklahoma City Thunder,NA,Chet Holmgren,C,19,12,2,0,5,0,8,13,0,2,3,4,0,0,5,Win,NA,NA
+221,60,3,4 man,All Star,Dynasty,Riley,Guy,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,14,1,10,3,0,1,7,11,0,0,0,0,0,3,4,Win,NA,NA
+221,60,3,4 man,All Star,Challenger,Ben,Nick,Utah Jazz,NA,Kelly Olynk,PF,0,5,1,0,0,0,0,5,0,5,0,0,0,1,0,Loss,NA,NA
+221,60,3,4 man,All Star,Challenger,Nick,Ben,Utah Jazz,NA,Jordan Clarkson,SG,0,2,2,0,0,1,3,0,4,0,0,0,1,0,0,Loss,NA,NA
+222,60,4,4 man,All Star,Dynasty,Guy,Riley,Oklahoma City Thunder,NA,Chet Holmgren,C,1,7,2,0,3,1,0,0,0,0,1,2,0,1,0,Win,NA,NA
+222,60,4,4 man,All Star,Dynasty,Riley,Guy,Oklahoma City Thunder,NA,Shai Gilgeous-Alexander,PG,20,2,6,2,1,3,6,10,0,0,8,8,0,3,5,Win,NA,NA
+222,60,4,4 man,All Star,Challenger,Ben,Nick,All-Time Minnesota Timberwolves,2011-12 New York Knicks,Kevin Love,PF,5,9,1,1,0,1,2,11,1,2,0,0,4,1,1,Loss,NA,NA
+222,60,4,4 man,All Star,Challenger,Nick,Ben,All-Time Minnesota Timberwolves,2011-12 New York Knicks,Sam Cassell,PG,0,0,4,0,0,3,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+223,61,1,4 man,All Star,CBC,MJ,Frank,1993-94 Houston Rockets,NA,Kenny Smith,PG,7,1,9,1,0,2,3,11,1,5,0,0,0,0,1,Win,NA,NA
+223,61,1,4 man,All Star,CBC,Frank,MJ,1993-94 Houston Rockets,NA,Hakeem Olajuwon,C,12,4,1,1,3,3,6,7,0,0,0,2,1,0,4,Win,NA,NA
+223,61,1,4 man,All Star,Challenger,Riley,Nick,San Antonio Spurs,NA,Tre Jones,PG,6,2,5,1,0,3,3,7,0,1,0,0,0,3,0,Loss,NA,NA
+223,61,1,4 man,All Star,Challenger,Nick,Riley,San Antonio Spurs,NA,Keldon Johnson,SF,0,0,3,1,2,0,0,0,0,0,0,0,0,1,0,Loss,NA,NA
+224,61,2,4 man,All Star,CBC,MJ,Frank,1993-94 Houston Rockets,NA,Kenny Smith,PG,16,1,0,1,0,4,6,14,3,10,1,2,0,0,2,Loss,NA,NA
+224,61,2,4 man,All Star,CBC,Frank,MJ,1993-94 Houston Rockets,NA,Hakeem Olajuwon,C,4,2,2,1,4,3,2,3,0,0,0,0,1,0,1,Loss,NA,NA
+224,61,2,4 man,All Star,Challenger,Riley,Nick,All-Time Los Angeles Clippers,NA,Kawhi Leonard,SG,18,0,5,6,1,1,7,12,2,2,2,2,0,2,3,Win,NA,NA
+224,61,2,4 man,All Star,Challenger,Nick,Riley,All-Time Los Angeles Clippers,NA,Chris Paul,PG,2,0,3,0,0,2,1,8,0,2,0,0,0,1,0,Win,NA,NA
+225,62,1,4 man,All Star,Challenger,MJ,Riley,1970-71 Los Angeles Lakers,NA,Gail Goodrich,SG,6,0,2,0,0,0,2,4,2,4,0,1,0,2,0,Loss,NA,NA
+225,62,1,4 man,All Star,Challenger,Riley,MJ,1970-71 Los Angeles Lakers,NA,Keith Erickson,SF,2,1,8,1,0,1,1,1,0,0,0,0,0,0,0,Loss,NA,NA
+225,62,1,4 man,All Star,CBC,Frank,Nick,Miami Heat,NA,Caleb Martin,PF,5,2,6,0,0,0,2,4,1,2,0,0,0,2,0,Win,NA,NA
+225,62,1,4 man,All Star,CBC,Nick,Frank,Miami Heat,NA,Bam Adebayo,C,2,6,4,0,1,1,1,2,0,0,0,4,0,1,0,Win,NA,NA
+226,62,2,4 man,All Star,Challenger,MJ,Riley,1994-95 New York Knicks,NA,Patrick Ewing,C,15,10,2,3,5,0,6,9,0,0,3,5,1,0,2,Win,NA,NA
+226,62,2,4 man,All Star,Challenger,Riley,MJ,1994-95 New York Knicks,NA,Charles Oakley,PF,16,6,4,4,0,4,8,12,0,0,0,2,3,4,6,Win,NA,NA
+226,62,2,4 man,All Star,CBC,Frank,Nick,Miami Heat,NA,Caleb Martin,PF,1,1,2,2,0,2,0,4,0,0,1,2,0,1,0,Loss,NA,NA
+226,62,2,4 man,All Star,CBC,Nick,Frank,Miami Heat,NA,Bam Adebayo,C,5,8,2,0,0,3,2,8,0,0,1,4,2,2,0,Loss,NA,NA
+227,63,1,4 man,All Star,Challenger,MJ,Nick,1976-77 Philadelphia 76ers,NA,Julius Erving,SF,8,3,1,0,2,2,4,9,0,0,0,2,0,0,1,Loss,NA,NA
+227,63,1,4 man,All Star,Challenger,Nick,MJ,1976-77 Philadelphia 76ers,NA,Doug Collins,SG,0,0,2,0,0,4,0,2,0,0,0,0,0,1,0,Loss,NA,NA
+227,63,1,4 man,All Star,Dynasty,Riley,Frank,Orlando Magic,NA,Markelle Fultz,PG,6,4,12,1,0,2,3,6,0,0,0,0,1,1,2,Win,NA,NA
+227,63,1,4 man,All Star,Dynasty,Frank,Riley,Orlando Magic,NA,Paolo Banchero,PF,16,2,0,1,0,0,7,8,0,0,2,4,0,0,4,Win,NA,NA
+228,63,2,4 man,All Star,Challenger,MJ,Nick,2013-14 Los Angeles Clippers,NA,DeAndre Jordan,C,10,5,1,2,1,1,5,7,0,1,0,2,3,1,2,Loss,NA,NA
+228,63,2,4 man,All Star,Challenger,Nick,MJ,2013-14 Los Angeles Clippers,NA,Blake Griffin,PF,2,4,1,1,0,1,1,7,0,0,0,0,1,2,0,Loss,NA,NA
+228,63,2,4 man,All Star,Dynasty,Riley,Frank,Orlando Magic,NA,Markelle Fultz,PG,2,2,11,1,0,4,1,2,0,0,0,0,1,1,0,Win,NA,NA
+228,63,2,4 man,All Star,Dynasty,Frank,Riley,Orlando Magic,NA,Paolo Banchero,PF,16,4,2,2,3,2,7,15,0,0,2,4,1,0,4,Win,NA,NA
+229,63,3,4 man,All Star,Challenger,MJ,Nick,1964-65 Boston Celtics,NA,Bill Russell,C,10,6,2,1,1,3,5,9,0,0,0,0,3,0,4,Loss,NA,NA
+229,63,3,4 man,All Star,Challenger,Nick,MJ,1964-65 Boston Celtics,NA,K.C. Jones,PG,2,0,5,1,0,5,1,4,0,1,0,2,0,1,0,Loss,NA,NA
+229,63,3,4 man,All Star,Dynasty,Riley,Frank,Orlando Magic,NA,Markelle Fultz,PG,20,1,4,3,0,3,9,13,0,0,2,2,0,4,4,Win,NA,NA
+229,63,3,4 man,All Star,Dynasty,Frank,Riley,Orlando Magic,NA,Paolo Banchero,PF,1,3,0,0,0,0,0,2,0,0,1,2,1,1,0,Win,NA,NA
+230,63,4,4 man,All Star,Challenger,MJ,Nick,1985-86 Chicago Bulls,1995-96 Seattle Supersonics,Charles Oakley,C,0,8,11,0,0,4,0,0,0,0,0,0,0,1,0,Win,NA,NA
+230,63,4,4 man,All Star,Challenger,Nick,MJ,1985-86 Chicago Bulls,1995-96 Seattle Supersonics,George Gervin,SF,2,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Win,NA,NA
+230,63,4,4 man,All Star,Dynasty,Riley,Frank,Orlando Magic,NA,Markelle Fultz,PG,2,2,12,4,0,2,1,3,0,0,0,0,0,4,0,Loss,NA,NA
+230,63,4,4 man,All Star,Dynasty,Frank,Riley,Orlando Magic,NA,Paolo Banchero,PF,18,3,1,0,0,1,9,14,0,0,0,2,0,2,8,Loss,NA,NA
+231,59,2,4 man,All Star,Challenger,Riley,Guy,All-Time Philadelphia 76ers,NA,Allen Iverson,PG,23,0,8,4,0,2,8,12,1,3,6,6,0,4,2,Win,NA,NA
+231,59,2,4 man,All Star,Challenger,Guy,Riley,All-Time Philadelphia 76ers,NA,Dolph Schayes,PF,18,4,1,0,0,0,7,16,2,9,2,2,0,2,4,Win,NA,NA
+231,59,2,4 man,All Star,Dynasty,Nick,MJ,2010-11 Dallas Mavericks,NA,Jason Kidd,PG,2,0,2,0,0,4,1,3,0,1,0,0,0,0,0,Loss,NA,NA
+231,59,2,4 man,All Star,Dynasty,MJ,Nick,2010-11 Dallas Mavericks,NA,Dirk Nowitzki,PF,13,3,0,0,0,4,5,16,0,3,3,8,1,0,1,Loss,NA,NA
+232,64,1,4 man,All Star,Challenger,MJ,Guy,Dallas Mavericks,NA,Luka Doncic,PG,13,3,10,0,1,4,5,11,0,0,3,3,1,0,2,Loss,TRUE,NA
+232,64,1,4 man,All Star,Challenger,Guy,MJ,Dallas Mavericks,NA,Josh Green,SF,20,1,1,1,0,1,8,12,2,5,2,2,0,1,1,Loss,TRUE,NA
+232,64,1,4 man,All Star,Dynasty,Nick,Riley,Denver Nuggets,NA,Kentavious Caldwell-Pope,SG,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,Win,TRUE,NA
+232,64,1,4 man,All Star,Dynasty,Riley,Nick,Denver Nuggets,NA,Aaron Gordon,PF,14,3,9,2,0,3,6,8,0,0,2,3,0,1,4,Win,TRUE,NA
+233,64,2,4 man,All Star,Challenger,MJ,Guy,Denver Nuggets,NA,Jamal Murray,PG,10,0,1,0,0,4,4,6,2,3,0,0,0,0,0,Loss,NA,NA
+233,64,2,4 man,All Star,Challenger,Guy,MJ,Denver Nuggets,NA,Nikola Jokic,C,1,5,3,0,0,2,0,4,0,0,1,2,1,0,0,Loss,NA,NA
+233,64,2,4 man,All Star,Dynasty,Nick,Riley,Denver Nuggets,NA,Kentavious Caldwell-Pope,SG,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,Win,NA,NA
+233,64,2,4 man,All Star,Dynasty,Riley,Nick,Denver Nuggets,NA,Aaron Gordon,PF,0,3,12,3,1,2,0,0,0,0,0,0,0,1,0,Win,NA,NA
+234,64,3,4 man,All Star,Challenger,MJ,Guy,Los Angeles Lakers,NA,Jarred Vanderbilt,PF,0,5,2,1,0,3,0,1,0,1,0,0,0,1,0,Win,NA,NA
+234,64,3,4 man,All Star,Challenger,Guy,MJ,Los Angeles Lakers,NA,Lebron James,SF,25,1,4,1,1,4,9,13,0,0,7,8,0,4,3,Win,NA,NA
+234,64,3,4 man,All Star,Dynasty,Nick,Riley,Denver Nuggets,NA,Kentavious Caldwell-Pope,SG,3,1,0,0,0,1,1,2,1,2,0,0,1,0,0,Loss,NA,NA
+234,64,3,4 man,All Star,Dynasty,Riley,Nick,Denver Nuggets,NA,Aaron Gordon,PF,12,3,1,2,0,3,5,13,0,3,2,4,1,4,5,Loss,NA,NA
+235,65,1,4 man,All Star,Dynasty,Frank,MJ,2000-01 Philadelphia 76ers,NA,George Lynch,SF,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,Win,NA,NA
+235,65,1,4 man,All Star,Dynasty,MJ,Frank,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,1,5,3,0,1,0,0,0,0,0,0,0,0,0,0,Win,NA,NA
+235,65,1,4 man,All Star,Challenger,Riley,Guy,Dallas Mavericks,NA,Kyrie Irving,SG,12,1,3,0,0,0,5,7,0,0,2,3,1,0,0,Loss,NA,NA
+235,65,1,4 man,All Star,Challenger,Guy,Riley,Dallas Mavericks,NA,Dwight Powell,C,2,0,1,0,1,0,1,2,0,1,0,0,0,2,1,Loss,NA,NA
+236,65,2,4 man,All Star,Dynasty,Frank,MJ,2000-01 Philadelphia 76ers,NA,George Lynch,SF,6,2,3,1,0,0,3,4,0,0,0,0,0,0,2,Win,NA,NA
+236,65,2,4 man,All Star,Dynasty,MJ,Frank,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,0,4,5,0,0,2,0,0,0,0,0,2,1,1,0,Win,NA,NA
+236,65,2,4 man,All Star,Challenger,Riley,Guy,2013-14 Los Angeles Clippers,NA,Chris Paul,PG,15,0,3,1,0,1,6,9,1,1,2,2,0,2,0,Loss,NA,NA
+236,65,2,4 man,All Star,Challenger,Guy,Riley,2013-14 Los Angeles Clippers,NA,J.J. Reddick,SG,6,0,1,1,0,1,2,8,2,7,0,0,0,5,0,Loss,NA,NA
+237,65,3,4 man,All Star,Dynasty,Frank,MJ,2000-01 Philadelphia 76ers,NA,George Lynch,SF,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,Win,NA,NA
+237,65,3,4 man,All Star,Dynasty,MJ,Frank,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,0,8,2,0,1,3,0,0,0,0,0,0,0,2,0,Win,NA,NA
+237,65,3,4 man,All Star,Challenger,Riley,Guy,1990-91 Golden State Warriors,NA,Tyrone Hill,PF,7,4,1,1,0,1,3,9,0,0,1,2,2,2,2,Loss,NA,NA
+237,65,3,4 man,All Star,Challenger,Guy,Riley,1990-91 Golden State Warriors,NA,Tim Hardaway,PG,11,0,4,1,0,0,3,11,1,5,4,4,0,3,0,Loss,NA,NA
+238,65,4,4 man,All Star,Dynasty,Frank,MJ,2000-01 Philadelphia 76ers,NA,George Lynch,SF,9,1,0,0,0,1,4,8,0,1,1,2,0,0,0,Loss,NA,NA
+238,65,4,4 man,All Star,Dynasty,MJ,Frank,2000-01 Philadelphia 76ers,NA,Tyrone Hill,PF,0,3,3,0,0,2,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+238,65,4,4 man,All Star,Challenger,Riley,Guy,2016 Team USA,NA,Kyrie Irving,PG,4,4,8,3,0,3,2,2,0,0,0,0,0,3,0,Win,NA,NA
+238,65,4,4 man,All Star,Challenger,Guy,Riley,2016 Team USA,NA,Kevin Durant,SF,27,5,1,1,2,0,13,29,1,6,0,0,2,2,4,Win,NA,NA
+239,66,0,4 man,All Star,CBC,Frank,Nick,2011-12 Oklahoma City Thunder,NA,Russell Westbook,PG,12,3,4,0,0,1,6,9,0,0,0,4,0,1,1,Win,NA,NA
+239,66,0,4 man,All Star,CBC,Nick,Frank,2011-12 Oklahoma City Thunder,NA,Serge Ibaka,PF,14,4,3,1,3,2,7,8,0,0,0,0,0,2,1,Win,NA,NA
+239,66,0,4 man,All Star,Challenger,Riley,Guy,2005-06 Memphis Grizzlies,NA,Shane Battier,PF,20,7,1,0,1,1,8,16,2,4,2,2,2,1,3,Loss,NA,NA
+239,66,0,4 man,All Star,Challenger,Guy,Riley,2005-06 Memphis Grizzlies,NA,Mike Miller,SG,2,0,3,1,0,2,1,9,0,5,0,0,0,1,0,Loss,NA,NA
+240,66,0,4 man,All Star,CBC,Frank,Nick,2011-12 Oklahoma City Thunder,NA,Russell Westbook,PG,13,1,4,0,1,4,5,11,0,0,3,4,0,2,3,Loss,NA,NA
+240,66,0,4 man,All Star,CBC,Nick,Frank,2011-12 Oklahoma City Thunder,NA,Serge Ibaka,PF,4,6,1,1,4,1,2,5,0,0,0,0,1,1,0,Loss,NA,NA
+240,66,0,4 man,All Star,Challenger,Riley,Guy,1970-71 Milwaukee Bucks,NA,Oscar Robertson,PG,0,4,12,2,0,1,0,2,0,1,0,0,1,2,0,Win,NA,NA
+240,66,0,4 man,All Star,Challenger,Guy,Riley,1970-71 Milwaukee Bucks,NA,Kareem Abdul-Jabbar,C,30,9,0,2,3,0,14,29,0,1,2,4,3,1,7,Win,NA,NA
+241,67,1,4 man,All Star,CBC,Frank,Guy,Sacramento Kings,NA,Keegan Murray,PF,1,3,2,0,0,3,0,0,0,0,1,2,0,0,0,Win,NA,NA
+241,67,1,4 man,All Star,CBC,Guy,Frank,Sacramento Kings,NA,De'Aaron Fox,PG,12,3,5,0,0,2,5,11,0,0,2,4,1,2,3,Win,NA,NA
+241,67,1,4 man,All Star,Challenger,Riley,Nick,Golden State Warriors,NA,Andrew Wiggins,SF,1,3,6,3,0,1,0,3,0,2,1,2,0,3,0,Loss,NA,NA
+241,67,1,4 man,All Star,Challenger,Nick,Riley,Golden State Warriors,NA,Steph Curry,PG,0,1,3,1,0,2,0,12,0,6,0,0,0,1,0,Loss,NA,NA
+242,67,2,4 man,All Star,CBC,Frank,Guy,Sacramento Kings,NA,Keegan Murray,PF,4,5,1,0,0,0,2,4,0,0,0,0,0,1,1,Loss,NA,NA
+242,67,2,4 man,All Star,CBC,Guy,Frank,Sacramento Kings,NA,De'Aaron Fox,PG,3,0,6,0,0,2,1,4,0,0,1,2,0,1,1,Loss,NA,NA
+242,67,2,4 man,All Star,Challenger,Riley,Nick,1988-89 Detroit Pistons,NA,Joe Dumars,SG,15,1,7,0,1,1,6,9,0,0,3,3,0,1,1,Win,NA,NA
+242,67,2,4 man,All Star,Challenger,Nick,Riley,1988-89 Detroit Pistons,NA,Bill Laimbeer,C,6,8,0,0,1,0,3,5,0,1,0,2,0,0,0,Win,NA,NA
+243,68,1,4 man,All Star,CBC,Nick,Guy,2012-13 Memphis Grizzlies,NA,Zach Randolph,PF,2,6,2,0,2,1,1,5,0,0,0,0,2,1,0,Win,NA,NA
+243,68,1,4 man,All Star,CBC,Guy,Nick,2012-13 Memphis Grizzlies,NA,Ed Davis,C,9,7,2,1,2,5,3,5,0,0,3,6,0,1,0,Win,NA,NA
+243,68,1,4 man,All Star,Challenger,Riley,Frank,1985-86 Atlanta Hawks,NA,Randy Wittman,SG,7,2,1,2,0,4,3,6,0,0,1,2,1,3,0,Loss,NA,NA
+243,68,1,4 man,All Star,Challenger,Frank,Riley,1985-86 Atlanta Hawks,NA,Kevin Willis,PF,0,4,0,0,0,1,0,4,0,0,0,4,1,2,0,Loss,NA,NA
+244,68,2,4 man,All Star,CBC,Nick,Guy,2012-13 Memphis Grizzlies,NA,Zach Randolph,PF,10,0,0,1,0,0,4,9,0,0,2,2,0,1,0,Loss,NA,NA
+244,68,2,4 man,All Star,CBC,Guy,Nick,2012-13 Memphis Grizzlies,NA,Ed Davis,C,0,9,6,0,1,3,0,3,0,0,0,0,0,0,0,Loss,NA,NA
+244,68,2,4 man,All Star,Challenger,Riley,Frank,Washington Wizards,NA,Monte Morris,PG,2,1,9,3,0,0,1,6,0,2,0,2,0,0,0,Win,NA,NA
+244,68,2,4 man,All Star,Challenger,Frank,Riley,Washington Wizards,NA,Kristaps Porzingis,PF,14,6,1,2,4,1,7,14,0,2,0,0,2,0,6,Win,NA,NA
+245,69,1,4 man,All Star,CBC,Riley,Guy,Portland Trail Blazers,NA,Matisse Thybulle,SF,2,1,4,1,2,1,1,2,0,0,0,0,0,4,1,Win,NA,NA
+245,69,1,4 man,All Star,CBC,Guy,Riley,Portland Trail Blazers,NA,Dame Lilliard,PG,4,2,3,0,0,1,2,10,0,5,0,0,0,1,1,Win,NA,NA
+245,69,1,4 man,All Star,Challenger,Nick,Frank,2018-19 Toronto Raptors,NA,Pascal SIakim,PF,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,Loss,NA,NA
+245,69,1,4 man,All Star,Challenger,Frank,Nick,2018-19 Toronto Raptors,NA,Kawhi Leonard,SF,19,6,0,0,0,0,8,17,1,2,2,6,1,0,2,Loss,NA,NA
+246,69,2,4 man,All Star,CBC,Riley,Guy,Portland Trail Blazers,NA,Matisse Thybulle,SF,0,3,4,2,0,3,0,0,0,0,0,4,0,5,0,Loss,NA,NA
+246,69,2,4 man,All Star,CBC,Guy,Riley,Portland Trail Blazers,NA,Dame Lilliard,PG,9,0,2,1,0,3,4,15,1,8,0,0,0,1,0,Loss,NA,NA
+246,69,2,4 man,All Star,Challenger,Nick,Frank,Detroit Pistons,NA,Cade Cunningham,PG,3,0,2,0,0,4,1,11,0,6,1,2,0,0,0,Win,NA,NA
+246,69,2,4 man,All Star,Challenger,Frank,Nick,Detroit Pistons,NA,Jalen Duren,C,16,13,0,2,1,2,8,10,0,0,0,1,2,2,3,Win,NA,NA
+247,5,16,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,13,5,6,4,0,0,5,7,1,2,2,2,0,4,4,Win,NA,NA
+247,5,16,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,10,1,10,1,0,2,3,4,0,1,4,4,0,2,2,Win,NA,NA
+247,5,16,4 man,All Star,Challenger,Frank,Nick,Brooklyn Nets,NA,Dorian Finney-Smith,PF,7,3,3,1,1,3,3,6,0,1,1,2,1,1,1,Loss,NA,NA
+247,5,16,4 man,All Star,Challenger,Nick,Frank,Brooklyn Nets,NA,Spencer Dinwiddie,PF,7,3,3,1,1,3,3,6,0,1,1,2,1,1,1,Loss,NA,NA
+248,5,17,4 man,All Star,Dynasty,Riley,Ben,Denver Nuggets,NA,Michael Porter Jr.,SF,10,4,3,0,0,1,4,6,0,1,2,2,1,0,1,Loss,NA,NA
+248,5,17,4 man,All Star,Dynasty,Ben,Riley,Denver Nuggets,NA,Jamal Murray,PG,0,1,7,0,0,1,0,6,0,3,0,0,1,2,0,Loss,NA,NA
+248,5,17,4 man,All Star,Challenger,Frank,Nick,All-Time Memphis Grizzlies,NA,Zach Randolph,PF,2,3,4,0,0,1,1,1,0,0,0,0,0,1,1,Win,NA,NA
+248,5,17,4 man,All Star,Challenger,Nick,Frank,All-Time Memphis Grizzlies,NA,Mike Connley,PG,10,0,6,0,1,1,5,11,0,1,0,0,0,2,0,Win,NA,NA
+249,25,4,5 man,All Star,Dynasty,Riley,NA,Milwaukee Bucks,NA,Grayson Allen,SG,10,0,4,0,0,1,5,14,0,8,0,0,0,0,0,Win,NA,NA
+249,25,4,5 man,All Star,Dynasty,Guy,NA,Milwaukee Bucks,NA,Brook Lopez,C,6,5,0,1,1,0,2,9,0,3,2,4,1,0,1,Win,NA,NA
+249,25,4,5 man,All Star,Challenger,Ben,NA,2001-02 Sacramento Kings,Detroit Pistons,Mike Bibby,PG,0,4,4,0,0,3,0,3,0,0,0,0,0,1,0,Loss,NA,NA
+249,25,4,5 man,All Star,Challenger,Nick,NA,2001-02 Sacramento Kings,Detroit Pistons,Doug Christie,SG,9,1,0,0,1,1,4,7,1,3,0,0,1,0,0,Loss,NA,NA
+249,25,4,5 man,All Star,Challenger,Frank,NA,2001-02 Sacramento Kings,Detroit Pistons,Vlade Divac,C,2,11,1,0,0,3,1,8,0,0,0,2,2,3,0,Loss,NA,NA
+250,25,5,5 man,All Star,Dynasty,Riley,NA,Milwaukee Bucks,NA,Grayson Allen,SG,16,5,5,2,0,4,7,14,1,4,1,1,2,2,3,Win,NA,NA
+250,25,5,5 man,All Star,Dynasty,Guy,NA,Milwaukee Bucks,NA,Brook Lopez,C,3,6,1,0,6,0,1,3,0,0,1,2,2,1,0,Win,NA,NA
+250,25,5,5 man,All Star,Challenger,Ben,NA,Boston Celtics,Chicago Bulls,Jaylen Brown,SG,9,2,2,2,0,2,4,11,0,0,1,2,1,2,2,Loss,NA,NA
+250,25,5,5 man,All Star,Challenger,Nick,NA,Boston Celtics,Chicago Bulls,Robert Williams III,C,4,2,0,0,3,2,2,4,0,0,0,0,0,0,0,Loss,NA,NA
+250,25,5,5 man,All Star,Challenger,Frank,NA,Boston Celtics,Chicago Bulls,Marcus Smart,PG,0,1,2,1,0,2,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+251,25,6,5 man,All Star,Dynasty,Riley,NA,Milwaukee Bucks,NA,Grayson Allen,SG,4,0,2,0,0,5,1,1,0,0,2,2,0,1,0,Win,NA,NA
+251,25,6,5 man,All Star,Dynasty,Guy,NA,Milwaukee Bucks,NA,Brook Lopez,C,4,7,0,0,2,1,1,4,0,2,2,2,0,0,1,Win,NA,NA
+251,25,6,5 man,All Star,Challenger,Ben,NA,All-Time Utah Jazz,1971-72 New York Knicks,John Stockton,PG,2,0,4,1,0,1,1,3,0,0,0,2,0,0,0,Loss,NA,NA
+251,25,6,5 man,All Star,Challenger,Nick,NA,All-Time Utah Jazz,1971-72 New York Knicks,Mark Eaton,C,5,8,1,0,1,1,2,4,0,0,1,2,3,1,0,Loss,NA,NA
+251,25,6,5 man,All Star,Challenger,Frank,NA,All-Time Utah Jazz,1971-72 New York Knicks,Adrian Dantley,SF,3,0,1,0,0,0,1,7,0,0,1,2,0,1,1,Loss,NA,NA
+252,57,4,6 man,All Star,Dynasty,Guy,NA,Dallas Mavericks,NA,Dwight Powell,C,0,5,0,0,0,1,0,3,0,0,0,0,2,2,0,Loss,NA,NA
+252,57,4,6 man,All Star,Dynasty,Riley,NA,Dallas Mavericks,NA,Kyrie Irving,SG,17,1,0,2,0,1,8,22,1,3,0,0,0,0,0,Loss,NA,NA
+252,57,4,6 man,All Star,Dynasty,Nick,NA,Dallas Mavericks,NA,Reggie Bullock,PF,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Loss,NA,NA
+252,57,4,6 man,All Star,Challenger,MJ,NA,2005-06 Memphis Grizzlies,1999-00 Portland Trail Blazers,Damon Stoudamire,PG,0,1,14,2,0,3,0,1,0,0,0,0,0,1,0,Win,NA,NA
+252,57,4,6 man,All Star,Challenger,Ben,NA,2005-06 Memphis Grizzlies,1999-00 Portland Trail Blazers,Pau Gasol,C,23,14,1,1,4,1,11,12,0,0,1,2,2,1,5,Win,NA,NA
+252,57,4,6 man,All Star,Challenger,Frank,NA,2005-06 Memphis Grizzlies,1999-00 Portland Trail Blazers,Mike Miller,SG,2,1,1,0,0,0,1,4,0,2,0,0,0,0,0,Win,NA,NA
+253,42,3,5 man,All Star,Dynasty,Guy,NA,Chicago Bulls,NA,Lonzo Ball,PG,4,1,4,1,0,0,0,2,0,1,4,4,0,1,0,Win,NA,NA
+253,42,3,5 man,All Star,Dynasty,Riley,NA,Chicago Bulls,NA,Demar Derozan,PF,11,4,6,3,0,3,5,8,0,0,1,2,2,3,4,Win,NA,NA
+253,42,3,5 man,All Star,Challenger,MJ,NA,Brooklyn Nets,NA,Dorain Finney-Smith,PF,5,2,2,0,0,1,2,5,0,3,1,2,0,0,2,Loss,NA,NA
+253,42,3,5 man,All Star,Challenger,Nick,NA,Brooklyn Nets,NA,Cameron Johnson,SF,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,Loss,NA,NA
+253,42,3,5 man,All Star,Challenger,Ben,NA,Brooklyn Nets,NA,Mikal Bridges,SG,11,3,1,2,0,2,4,5,1,2,2,5,0,1,1,Loss,NA,NA
+254,70,1,4 man,All Star,Dynasty,Guy,NA,Golden State Warriors,NA,Draymond Green,PF,4,3,9,2,0,1,1,4,0,1,2,2,0,2,1,Win,NA,NA
+254,70,1,4 man,All Star,Dynasty,Nick,NA,Golden State Warriors,NA,Andrew Wiggins,SF,4,1,1,0,0,2,2,3,0,1,0,0,0,0,0,Win,NA,NA
+254,70,1,4 man,All Star,Challenger,MJ,NA,San Antonio Spurs,NA,Tre Jones,PG,4,0,3,1,0,2,1,8,0,0,2,2,0,0,0,Loss,NA,NA
+254,70,1,4 man,All Star,Challenger,Riley,NA,San Antonio Spurs,NA,Zach Collins,C,6,8,1,0,0,2,3,5,0,0,0,0,2,4,2,Loss,NA,NA
+255,71,1,4 man,All Star,CBC,Riley,Nick,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,12,8,4,0,6,1,5,12,0,0,2,2,0,2,2,Win,NA,NA
+255,71,1,4 man,All Star,CBC,Nick,Riley,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,4,2,1,0,0,0,1,4,0,1,2,4,0,1,0,Win,NA,NA
+255,71,1,4 man,All Star,Challenger,Ben,Frank,1971-72 New York Knicks,NA,Walt Frazier,PG,8,1,2,0,0,3,4,9,0,0,0,0,1,2,0,Loss,NA,NA
+255,71,1,4 man,All Star,Challenger,Frank,Ben,1971-72 New York Knicks,NA,Dick Barret,SG,1,2,4,2,0,2,0,1,0,0,1,4,0,1,0,Loss,NA,NA
+256,71,2,4 man,All Star,CBC,Riley,Nick,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,4,9,3,1,2,1,2,8,0,0,0,0,2,1,2,Win,NA,NA
+256,71,2,4 man,All Star,CBC,Nick,Riley,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,2,1,0,0,0,1,1,4,0,0,0,0,0,1,0,Win,NA,NA
+256,71,2,4 man,All Star,Challenger,Ben,Frank,2007-08 Denver Nuggets,NA,J. R. Smith,SG,5,1,1,1,0,2,2,8,0,3,1,2,0,1,1,Loss,NA,NA
+256,71,2,4 man,All Star,Challenger,Frank,Ben,2007-08 Denver Nuggets,NA,Allen Iverson,PG,2,0,6,1,0,4,1,6,0,1,0,2,0,0,0,Loss,NA,NA
+257,71,3,4 man,All Star,Dynasty,Riley,Nick,1992-93 Charlotte Hornets,NA,Alonzo Mourning,C,20,7,3,0,4,3,7,15,0,0,6,6,3,1,2,Loss,NA,NA
+257,71,3,4 man,All Star,Dynasty,Nick,Riley,1992-93 Charlotte Hornets,NA,Larry Johnson,PF,5,3,1,0,0,0,2,5,1,1,0,0,0,2,0,Loss,NA,NA
+257,71,3,4 man,All Star,Challenger,Ben,Frank,All-Time Dallas Mavericks,NA,Dirk Nowitzki,PF,9,4,3,0,0,0,3,10,1,3,2,3,0,1,1,Win,NA,NA
+257,71,3,4 man,All Star,Challenger,Frank,Ben,All-Time Dallas Mavericks,NA,James Donaldson,C,4,4,1,1,2,2,2,3,0,0,0,0,0,1,0,Win,NA,NA
+258,53,2,4 man,All Star,Dynasty,MJ,Nick,2005-06 Memphis Grizzlies,NA,Mike Miller,SG,0,2,0,1,0,7,0,8,0,7,0,0,0,2,0,Loss,NA,NA
+258,53,2,4 man,All Star,Dynasty,Nick,MJ,2005-06 Memphis Grizzlies,NA,Eddie Jones,SF,10,3,0,0,0,3,5,8,0,1,0,0,0,3,2,Loss,NA,NA
+258,53,2,4 man,All Star,Challenger,Riley,Ben,2002-03 Dallas Mavericks,NA,Grant Hill,SF,37,2,2,5,1,0,16,25,0,0,5,11,1,3,9,Win,NA,NA
+258,53,2,4 man,All Star,Challenger,Ben,Riley,2002-03 Dallas Mavericks,NA,Isiah Thomas,PG,2,1,9,4,0,1,1,4,0,0,0,0,0,1,0,Win,NA,NA
+259,72,1,4 man,All Star,Dynasty,MJ,Ben,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,0,5,2,0,1,1,0,4,0,1,0,0,3,0,0,Win,NA,NA
+259,72,1,4 man,All Star,Dynasty,Ben,MJ,2015-16 Cleveland Cavaliers,NA,Lebron James,SF,8,6,5,1,0,1,4,11,0,0,0,0,2,3,1,Win,NA,NA
+259,72,1,4 man,All Star,Challenger,Riley,Nick,San Antonio Spurs,NA,Keldon Johnson,SF,5,1,6,5,0,2,2,7,1,2,0,0,0,5,1,Loss,NA,NA
+259,72,1,4 man,All Star,Challenger,Nick,Riley,San Antonio Spurs,NA,Zach Collins,C,0,4,0,0,2,2,0,2,0,0,0,0,0,0,0,Loss,NA,NA
+260,72,2,4 man,All Star,Dynasty,MJ,Ben,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,0,5,1,1,0,1,0,3,0,3,0,0,0,0,0,Win,NA,NA
+260,72,2,4 man,All Star,Dynasty,Ben,MJ,2015-16 Cleveland Cavaliers,NA,Lebron James,SF,21,3,4,2,0,1,8,12,0,1,5,6,1,0,5,Win,NA,NA
+260,72,2,4 man,All Star,Challenger,Riley,Nick,2003-04 Detroit Pistons,NA,Chauncey Billups,PG,15,3,6,1,0,3,5,14,0,2,5,5,2,1,0,Loss,NA,NA
+260,72,2,4 man,All Star,Challenger,Nick,Riley,2003-04 Detroit Pistons,NA,Darko Milicic,PF,2,2,1,0,1,0,1,2,0,0,0,0,1,0,1,Loss,NA,NA
+261,73,3,4 man,All Star,Dynasty,MJ,Ben,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,0,2,3,0,0,1,0,0,0,0,0,0,0,0,0,Win,NA,NA
+261,73,3,4 man,All Star,Dynasty,Ben,MJ,2015-16 Cleveland Cavaliers,NA,Lebron James,SF,14,8,7,1,1,2,6,11,0,0,2,4,1,2,4,Win,NA,NA
+261,73,3,4 man,All Star,Challenger,Riley,Nick,2003-04 Minnesota Timberwolves,NA,Sam Cassell,PG,2,1,11,2,0,1,1,3,0,1,0,0,0,0,0,Loss,NA,NA
+261,73,3,4 man,All Star,Challenger,Nick,Riley,2003-04 Minnesota Timberwolves,NA,Ervin Johnson,C,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Loss,NA,NA
+262,74,4,4 man,All Star,Dynasty,MJ,Ben,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,11,8,3,0,0,0,4,6,3,4,0,0,0,0,1,Win,NA,NA
+262,74,4,4 man,All Star,Dynasty,Ben,MJ,2015-16 Cleveland Cavaliers,NA,Lebron James,SF,25,5,3,0,0,0,12,18,0,0,1,2,1,2,7,Win,NA,NA
+262,74,4,4 man,All Star,Challenger,Riley,Nick,Denver Nuggets,NA,Aaron Gordon,PF,2,6,2,0,0,0,1,6,0,2,0,2,0,1,1,Loss,NA,NA
+262,74,4,4 man,All Star,Challenger,Nick,Riley,Denver Nuggets,NA,Kentavious Caldwell-Pope,SG,2,0,0,0,0,0,0,4,0,1,2,2,0,0,0,Loss,NA,NA
+263,75,5,4 man,All Star,Dynasty,MJ,Ben,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,5,7,2,1,0,0,2,3,1,2,0,0,1,1,0,Win,NA,NA
+263,75,5,4 man,All Star,Dynasty,Ben,MJ,2015-16 Cleveland Cavaliers,NA,Lebron James,SF,10,5,4,1,0,2,3,10,0,0,4,5,2,0,2,Win,NA,NA
+263,75,5,4 man,All Star,Challenger,Riley,Nick,Golden State Warriors,NA,Andrew Wiggins,SF,12,2,5,2,0,1,5,7,2,2,0,0,0,3,2,Loss,NA,NA
+263,75,5,4 man,All Star,Challenger,Nick,Riley,Golden State Warriors,NA,Kevon Looney,C,2,3,0,1,1,1,1,1,0,0,0,0,0,1,1,Loss,NA,NA
+264,76,6,4 man,All Star,Dynasty,MJ,Ben,2015-16 Cleveland Cavaliers,NA,Kevin Love,PF,8,7,4,0,0,1,3,6,2,3,0,0,0,0,1,Win,NA,NA
+264,76,6,4 man,All Star,Dynasty,Ben,MJ,2015-16 Cleveland Cavaliers,NA,Lebron James,SF,12,2,6,1,0,2,6,9,0,0,0,1,1,0,4,Win,NA,NA
+264,76,6,4 man,All Star,Challenger,Riley,Nick,2004-05 San Antonio Spurs,NA,Tony Parker,PG,5,0,4,0,0,3,1,5,0,1,3,4,0,1,2,Loss,NA,NA
+264,76,6,4 man,All Star,Challenger,Nick,Riley,2004-05 San Antonio Spurs,NA,Tim Duncan,PF,8,5,2,0,2,2,4,10,0,0,0,0,1,1,2,Loss,NA,NA
