@@ -59,7 +59,7 @@ dashboardPage(
                tabName = "dataViewer",
                icon = icon("table")),
       menuItem(text = "Github Link",
-               href = "",
+               href = "https://github.com/matt-j-johnson/NBA2K_Dynasty",
                icon = icon("link"))
     )
   ),
